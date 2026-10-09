@@ -1,0 +1,2 @@
+# Preserve downloaded source bytes, including original whitespace, for hash verification.
+data/sources/* whitespace=-blank-at-eol,-blank-at-eof

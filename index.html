@@ -1,9 +1,105 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Conrad | Selected work</title><link rel="stylesheet" href="site.css"><link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-<script defer src="https://cdn.jsdelivr.net/npm/vega@6.4.0"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.3"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/vega-embed@7.3.0"></script>
-<script defer src="charts.js"></script></head><body>
-<a class="skip" href="#main">Skip to content</a><header class="shell masthead"><a class="name" href="index.html">Conrad</a>
-<nav aria-label="Main navigation"><a href="index.html" aria-current="page">Home</a><a href="portfolio.html" >Charts</a><a href="https://github.com/coderadinho/coderadinho.github.io">GitHub</a></nav></header><main id="main"><div class="shell"><div class="intro"><h1>Selected work</h1><p>Data visualisation and model projects.</p><div class="jump-links"><a href="portfolio.html">PP434 chart portfolio</a><a href="#ibl">ST443 project</a></div></div></div><div class="band"><div class="shell"><div><h2>AI data explorations</h2><p>Week 2 visualisations · METR and Epoch AI</p></div><a href="portfolio.html#week2">View the chart portfolio</a></div></div><div class="shell"><section class="chart-section" id="metr-section" aria-labelledby="metr-title"><div class="chart-header"><div><h3 id="metr-title">AI task-completion horizons</h3><p>METR Horizon v1.1 · Model release date and human task duration</p></div><div class="chart-links"><a href="charts/metr-horizons.json">Chart JSON</a><a href="https://metr.org/time-horizons/">METR</a></div></div><figure><div class="chart" id="metr" data-spec="charts/metr-horizons.json"  aria-label="AI task-completion horizons"></div><figcaption>Choose 50% or 80% predicted success. Bars show published uncertainty bounds. Triangles flag estimates above the source’s 16-hour measurement limit. Task duration refers to human completion time, not how long the AI runs. Snapshot retrieved 9 October 2026; source page last updated 8 September 2026 and no longer actively updated.</figcaption></figure></section><section class="chart-section" id="epoch-section" aria-labelledby="epoch-title"><div class="chart-header"><div><h3 id="epoch-title">Language-model training compute</h3><p>Epoch AI · Publication date and training-compute estimates</p></div><div class="chart-links"><a href="charts/epoch-compute.json">Chart JSON</a><a href="https://epoch.ai/data/ai-models">Epoch AI</a></div></div><figure><div class="chart" id="epoch" data-spec="charts/epoch-compute.json"  aria-label="Language-model training compute"></div><figcaption>Language-domain records published from 2017 to 9 October 2026 with positive compute estimates; missing estimates excluded. Filter by the source’s confidence labels. Training compute is measured in FLOP, not model capability. Data: Epoch AI, CC BY. Snapshot retrieved 9 October 2026; source updated 8 October 2026.</figcaption></figure></section><section class="chart-section" id="ibl" aria-labelledby="ibl-title"><div class="chart-header"><div><h3 id="ibl-title">IBL model results</h3><p>ST443 project</p></div><div class="chart-links"><a href="https://github.com/coderadinho/coderadinho/blob/main/Plots/plot_model_results.png">Original figure</a></div></div><figure><img class="work-image" src="assets/st443-ibl-results.png" alt="ST443 IBL model-results figure"><figcaption>Existing project visual, retained from the previous website.</figcaption></figure></section></div></main><footer class="shell"><span>Conrad · 2026</span><a href="https://github.com/coderadinho/coderadinho.github.io/blob/main/README.md">Sources, code and technical assistance</a></footer></body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Conrad | Selected work</title>
+<link rel="stylesheet" href="site.css">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<script defer src="https://cdn.jsdelivr.net/npm/vega@6.4.0">
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.3">
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/vega-embed@7.3.0">
+</script>
+<script defer src="charts.js">
+</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="shell masthead">
+<a class="name" href="index.html">Conrad</a>
+<nav aria-label="Main navigation">
+<a href="index.html" aria-current="page">Home</a>
+<a href="portfolio.html" >Charts</a>
+<a href="https://github.com/coderadinho/coderadinho.github.io">GitHub</a>
+</nav>
+</header>
+<main id="main">
+<div class="shell">
+<div class="intro">
+<h1>Selected work</h1>
+<p>Data visualisation and model projects.</p>
+<div class="jump-links">
+<a href="portfolio.html">PP434 chart portfolio</a>
+<a href="#ibl">ST443 project</a>
+</div>
+</div>
+</div>
+<div class="band">
+<div class="shell">
+<div>
+<h2>AI data explorations</h2>
+<p>Week 2 visualisations · METR and Epoch AI</p>
+</div>
+<a href="portfolio.html#week2">View the chart portfolio</a>
+</div>
+</div>
+<div class="shell">
+<section class="chart-section" id="metr-section" aria-labelledby="metr-title">
+<div class="chart-header">
+<div>
+<h3 id="metr-title">AI task-completion horizons</h3>
+<p>METR Horizon v1.1 · Model release date and human task duration</p>
+</div>
+<div class="chart-links">
+<a href="charts/metr-horizons.json">Chart JSON</a>
+<a href="https://metr.org/time-horizons/">METR</a>
+</div>
+</div>
+<figure>
+<div class="chart" id="metr" data-spec="charts/metr-horizons.json"  aria-label="AI task-completion horizons">
+</div>
+<figcaption>Choose 50% or 80% predicted success. Bars show published uncertainty bounds. Triangles flag estimates above the source’s 16-hour measurement limit. Task duration refers to human completion time, not how long the AI runs. Snapshot retrieved 9 October 2026; source page last updated 8 September 2026 and no longer actively updated.</figcaption>
+</figure>
+</section>
+<section class="chart-section" id="epoch-section" aria-labelledby="epoch-title">
+<div class="chart-header">
+<div>
+<h3 id="epoch-title">Language-model training compute</h3>
+<p>Epoch AI · Publication date and training-compute estimates</p>
+</div>
+<div class="chart-links">
+<a href="charts/epoch-compute.json">Chart JSON</a>
+<a href="https://epoch.ai/data/ai-models">Epoch AI</a>
+</div>
+</div>
+<figure>
+<div class="chart" id="epoch" data-spec="charts/epoch-compute.json"  aria-label="Language-model training compute">
+</div>
+<figcaption>Language-domain records published from 2017 to 9 October 2026 with positive compute estimates; missing estimates excluded. Filter by the source’s confidence labels. Training compute is measured in FLOP, not model capability. Data: Epoch AI, CC BY. Snapshot retrieved 9 October 2026; source updated 8 October 2026.</figcaption>
+</figure>
+</section>
+<section class="chart-section" id="ibl" aria-labelledby="ibl-title">
+<div class="chart-header">
+<div>
+<h3 id="ibl-title">IBL model results</h3>
+<p>ST443 project</p>
+</div>
+<div class="chart-links">
+<a href="https://github.com/coderadinho/coderadinho/blob/main/Plots/plot_model_results.png">Original figure</a>
+</div>
+</div>
+<figure>
+<img class="work-image" src="assets/st443-ibl-results.png" alt="ST443 IBL model-results figure">
+<figcaption>Existing project visual, retained from the previous website.</figcaption>
+</figure>
+</section>
+</div>
+</main>
+<footer class="shell">
+<span>Conrad · 2026</span>
+<a href="https://github.com/coderadinho/coderadinho.github.io/blob/main/README.md">Sources, code and technical assistance</a>
+</footer>
+</body>
+</html>

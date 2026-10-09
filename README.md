@@ -36,3 +36,5 @@ OpenAI Codex assisted with public-data retrieval and cleaning, Vega-Lite impleme
 ## Checkpoint: 9 October 2026
 
 Today’s class target is two new charts using downloaded data, saved chart JSON, HTML embedding and GitHub upload (five existing/new visuals in total). This checkpoint uses those session instructions. It does not replace the separate CC1/CC2 briefs or certify completion of those challenges.
+
+Downloaded source bytes are preserved exactly, including original whitespace; `.gitattributes` exempts these snapshots from whitespace lint. This keeps the provenance hashes reproducible.

@@ -1,9 +1,130 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Conrad | PP434 chart portfolio</title><link rel="stylesheet" href="site.css"><link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-<script defer src="https://cdn.jsdelivr.net/npm/vega@6.4.0"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.3"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/vega-embed@7.3.0"></script>
-<script defer src="charts.js"></script></head><body>
-<a class="skip" href="#main">Skip to content</a><header class="shell masthead"><a class="name" href="index.html">Conrad</a>
-<nav aria-label="Main navigation"><a href="index.html" >Home</a><a href="portfolio.html" aria-current="page">Charts</a><a href="https://github.com/coderadinho/coderadinho.github.io">GitHub</a></nav></header><main class="shell" id="main"><div class="intro"><h1>Chart portfolio</h1><p>PP434 · Weekly chart exercises</p><div class="jump-links"><a href="#week2">Week 2</a><a href="#week1">Week 1</a></div></div><h2 id="week2">Week 2</h2><section class="chart-section" id="metr-section" aria-labelledby="metr-title"><div class="chart-header"><div><h3 id="metr-title">AI task-completion horizons</h3><p>METR Horizon v1.1 · Model release date and human task duration</p></div><div class="chart-links"><a href="charts/metr-horizons.json">Chart JSON</a><a href="https://metr.org/time-horizons/">METR</a></div></div><figure><div class="chart" id="metr" data-spec="charts/metr-horizons.json"  aria-label="AI task-completion horizons"></div><figcaption>Choose 50% or 80% predicted success. Bars show published uncertainty bounds. Triangles flag estimates above the source’s 16-hour measurement limit. Task duration refers to human completion time, not how long the AI runs. Snapshot retrieved 9 October 2026; source page last updated 8 September 2026 and no longer actively updated.</figcaption></figure></section><section class="chart-section" id="epoch-section" aria-labelledby="epoch-title"><div class="chart-header"><div><h3 id="epoch-title">Language-model training compute</h3><p>Epoch AI · Publication date and training-compute estimates</p></div><div class="chart-links"><a href="charts/epoch-compute.json">Chart JSON</a><a href="https://epoch.ai/data/ai-models">Epoch AI</a></div></div><figure><div class="chart" id="epoch" data-spec="charts/epoch-compute.json"  aria-label="Language-model training compute"></div><figcaption>Language-domain records published from 2017 to 9 October 2026 with positive compute estimates; missing estimates excluded. Filter by the source’s confidence labels. Training compute is measured in FLOP, not model capability. Data: Epoch AI, CC BY. Snapshot retrieved 9 October 2026; source updated 8 October 2026.</figcaption></figure></section><section class="chart-section"><h2 id="week1">Week 1</h2></section><section class="chart-section" id="week1-example-section" aria-labelledby="week1-example-title"><div class="chart-header"><div><h3 id="week1-example-title">Week 1: embedded chart</h3><p>Existing course example</p></div><div class="chart-links"><a href="charts/week1-example.json">Chart JSON</a><a href="https://github.com/EconomicsObservatory/courses/blob/main/2/s2_chart2.json">Original JSON</a></div></div><figure><div class="chart" id="week1-example" data-spec="charts/week1-example.json" data-responsive="true" aria-label="Week 1: embedded chart"></div><figcaption>Existing example retained for continuity; chart content and data come from the linked course source.</figcaption></figure></section><section class="chart-section" id="week1-gdp-section" aria-labelledby="week1-gdp-title"><div class="chart-header"><div><h3 id="week1-gdp-title">Week 1: GDP per capita</h3><p>Existing World Bank example</p></div><div class="chart-links"><a href="wk1_chart2.json">Chart JSON</a><a href="https://github.com/EconomicsObservatory/courses/blob/main/1/s1_example_data/chart2_GDP_pc_6_countries.csv">Original data</a></div></div><figure><div class="chart" id="week1-gdp" data-spec="wk1_chart2.json" data-responsive="true" aria-label="Week 1: GDP per capita"></div><figcaption>Existing chart and data retained. The supplied specification labels the measure “Current International USD, PPP”; its original title and units have not been independently reconciled.</figcaption></figure></section><section class="chart-section" id="ibl" aria-labelledby="ibl-title"><div class="chart-header"><div><h3 id="ibl-title">IBL model results</h3><p>ST443 project</p></div><div class="chart-links"><a href="https://github.com/coderadinho/coderadinho/blob/main/Plots/plot_model_results.png">Original figure</a></div></div><figure><img class="work-image" src="assets/st443-ibl-results.png" alt="ST443 IBL model-results figure"><figcaption>Existing project visual, retained from the previous website.</figcaption></figure></section></main><footer class="shell"><span>Conrad · 2026</span><a href="https://github.com/coderadinho/coderadinho.github.io/blob/main/README.md">Sources, code and technical assistance</a></footer></body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Conrad | PP434 chart portfolio</title>
+<link rel="stylesheet" href="site.css">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<script defer src="https://cdn.jsdelivr.net/npm/vega@6.4.0">
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.3">
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/vega-embed@7.3.0">
+</script>
+<script defer src="charts.js">
+</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="shell masthead">
+<a class="name" href="index.html">Conrad</a>
+<nav aria-label="Main navigation">
+<a href="index.html" >Home</a>
+<a href="portfolio.html" aria-current="page">Charts</a>
+<a href="https://github.com/coderadinho/coderadinho.github.io">GitHub</a>
+</nav>
+</header>
+<main class="shell" id="main">
+<div class="intro">
+<h1>Chart portfolio</h1>
+<p>PP434 · Weekly chart exercises</p>
+<div class="jump-links">
+<a href="#week2">Week 2</a>
+<a href="#week1">Week 1</a>
+</div>
+</div>
+<h2 id="week2">Week 2</h2>
+<section class="chart-section" id="metr-section" aria-labelledby="metr-title">
+<div class="chart-header">
+<div>
+<h3 id="metr-title">AI task-completion horizons</h3>
+<p>METR Horizon v1.1 · Model release date and human task duration</p>
+</div>
+<div class="chart-links">
+<a href="charts/metr-horizons.json">Chart JSON</a>
+<a href="https://metr.org/time-horizons/">METR</a>
+</div>
+</div>
+<figure>
+<div class="chart" id="metr" data-spec="charts/metr-horizons.json"  aria-label="AI task-completion horizons">
+</div>
+<figcaption>Choose 50% or 80% predicted success. Bars show published uncertainty bounds. Triangles flag estimates above the source’s 16-hour measurement limit. Task duration refers to human completion time, not how long the AI runs. Snapshot retrieved 9 October 2026; source page last updated 8 September 2026 and no longer actively updated.</figcaption>
+</figure>
+</section>
+<section class="chart-section" id="epoch-section" aria-labelledby="epoch-title">
+<div class="chart-header">
+<div>
+<h3 id="epoch-title">Language-model training compute</h3>
+<p>Epoch AI · Publication date and training-compute estimates</p>
+</div>
+<div class="chart-links">
+<a href="charts/epoch-compute.json">Chart JSON</a>
+<a href="https://epoch.ai/data/ai-models">Epoch AI</a>
+</div>
+</div>
+<figure>
+<div class="chart" id="epoch" data-spec="charts/epoch-compute.json"  aria-label="Language-model training compute">
+</div>
+<figcaption>Language-domain records published from 2017 to 9 October 2026 with positive compute estimates; missing estimates excluded. Filter by the source’s confidence labels. Training compute is measured in FLOP, not model capability. Data: Epoch AI, CC BY. Snapshot retrieved 9 October 2026; source updated 8 October 2026.</figcaption>
+</figure>
+</section>
+<section class="chart-section">
+<h2 id="week1">Week 1</h2>
+</section>
+<section class="chart-section" id="week1-example-section" aria-labelledby="week1-example-title">
+<div class="chart-header">
+<div>
+<h3 id="week1-example-title">Week 1: embedded chart</h3>
+<p>Existing course example</p>
+</div>
+<div class="chart-links">
+<a href="charts/week1-example.json">Chart JSON</a>
+<a href="https://github.com/EconomicsObservatory/courses/blob/main/2/s2_chart2.json">Original JSON</a>
+</div>
+</div>
+<figure>
+<div class="chart" id="week1-example" data-spec="charts/week1-example.json" data-responsive="true" aria-label="Week 1: embedded chart">
+</div>
+<figcaption>Existing example retained for continuity; chart content and data come from the linked course source.</figcaption>
+</figure>
+</section>
+<section class="chart-section" id="week1-gdp-section" aria-labelledby="week1-gdp-title">
+<div class="chart-header">
+<div>
+<h3 id="week1-gdp-title">Week 1: GDP per capita</h3>
+<p>Existing World Bank example</p>
+</div>
+<div class="chart-links">
+<a href="wk1_chart2.json">Chart JSON</a>
+<a href="https://github.com/EconomicsObservatory/courses/blob/main/1/s1_example_data/chart2_GDP_pc_6_countries.csv">Original data</a>
+</div>
+</div>
+<figure>
+<div class="chart" id="week1-gdp" data-spec="wk1_chart2.json" data-responsive="true" aria-label="Week 1: GDP per capita">
+</div>
+<figcaption>Existing chart and data retained. The supplied specification labels the measure “Current International USD, PPP”; its original title and units have not been independently reconciled.</figcaption>
+</figure>
+</section>
+<section class="chart-section" id="ibl" aria-labelledby="ibl-title">
+<div class="chart-header">
+<div>
+<h3 id="ibl-title">IBL model results</h3>
+<p>ST443 project</p>
+</div>
+<div class="chart-links">
+<a href="https://github.com/coderadinho/coderadinho/blob/main/Plots/plot_model_results.png">Original figure</a>
+</div>
+</div>
+<figure>
+<img class="work-image" src="assets/st443-ibl-results.png" alt="ST443 IBL model-results figure">
+<figcaption>Existing project visual, retained from the previous website.</figcaption>
+</figure>
+</section>
+</main>
+<footer class="shell">
+<span>Conrad · 2026</span>
+<a href="https://github.com/coderadinho/coderadinho.github.io/blob/main/README.md">Sources, code and technical assistance</a>
+</footer>
+</body>
+</html>
