@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "file": "data/sources/metr-time-horizons.yaml",
+      "url": "https://metr.org/assets/benchmark_results_1_1.yaml",
+      "retrieved_at": "2026-10-09T12:21:13.903915+00:00",
+      "version": "Horizon v1.1; source page last updated 8 September 2026",
+      "sha256": "aae31902b0519a4da73e16643915e5e8aca13cd3315c3aac893ce3d6dfe92ad9",
+      "bytes": 16255
+    },
+    {
+      "file": "data/sources/epoch-ai-models.csv",
+      "url": "https://epoch.ai/data/all_ai_models.csv",
+      "retrieved_at": "2026-10-09T12:21:13.904277+00:00",
+      "version": "Source page updated 8 October 2026",
+      "sha256": "d845f68989881cb922ee6fd131d2bce6fb9c88dce5978eb0719a4c053476eff9",
+      "bytes": 6826880
+    }
+  ],
+  "date_cutoff": "2026-10-09",
+  "transformation": "tools/build_chart_data.py",
+  "ai_assistance": "OpenAI Codex assisted with retrieval, data cleaning, HTML/CSS/JavaScript and Vega-Lite implementation. No assessed analytical prose supplied."
+}

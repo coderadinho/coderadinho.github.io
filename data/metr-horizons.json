@@ -1,0 +1,522 @@
+[
+  {
+    "model": "claude_3_5_sonnet_20240620_inspect",
+    "release_date": "2024-06-20",
+    "provider": "Anthropic",
+    "threshold": "50%",
+    "minutes": 11.395377,
+    "ci_low": 5.489734,
+    "ci_high": 22.384214,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_3_5_sonnet_20240620_inspect",
+    "release_date": "2024-06-20",
+    "provider": "Anthropic",
+    "threshold": "80%",
+    "minutes": 1.671757,
+    "ci_low": 0.57927,
+    "ci_high": 4.573519,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_3_5_sonnet_20241022_inspect",
+    "release_date": "2024-10-22",
+    "provider": "Anthropic",
+    "threshold": "50%",
+    "minutes": 20.522872,
+    "ci_low": 10.144026,
+    "ci_high": 40.82028,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_3_5_sonnet_20241022_inspect",
+    "release_date": "2024-10-22",
+    "provider": "Anthropic",
+    "threshold": "80%",
+    "minutes": 2.595677,
+    "ci_low": 0.89379,
+    "ci_high": 7.363864,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_3_7_sonnet_inspect",
+    "release_date": "2025-02-24",
+    "provider": "Anthropic",
+    "threshold": "50%",
+    "minutes": 60.388937,
+    "ci_low": 33.006168,
+    "ci_high": 104.226017,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_3_7_sonnet_inspect",
+    "release_date": "2025-02-24",
+    "provider": "Anthropic",
+    "threshold": "80%",
+    "minutes": 12.09179,
+    "ci_low": 4.575608,
+    "ci_high": 28.889879,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_3_opus_inspect",
+    "release_date": "2024-03-04",
+    "provider": "Anthropic",
+    "threshold": "50%",
+    "minutes": 3.952262,
+    "ci_low": 1.706313,
+    "ci_high": 8.76484,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_3_opus_inspect",
+    "release_date": "2024-03-04",
+    "provider": "Anthropic",
+    "threshold": "80%",
+    "minutes": 0.638973,
+    "ci_low": 0.190491,
+    "ci_high": 2.118276,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_4_1_opus_inspect",
+    "release_date": "2025-08-05",
+    "provider": "Anthropic",
+    "threshold": "50%",
+    "minutes": 100.472004,
+    "ci_low": 59.272391,
+    "ci_high": 159.451918,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_4_1_opus_inspect",
+    "release_date": "2025-08-05",
+    "provider": "Anthropic",
+    "threshold": "80%",
+    "minutes": 23.455761,
+    "ci_low": 10.538456,
+    "ci_high": 47.785951,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_4_opus_inspect",
+    "release_date": "2025-05-22",
+    "provider": "Anthropic",
+    "threshold": "50%",
+    "minutes": 100.366123,
+    "ci_low": 59.994073,
+    "ci_high": 163.454074,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_4_opus_inspect",
+    "release_date": "2025-05-22",
+    "provider": "Anthropic",
+    "threshold": "80%",
+    "minutes": 20.429752,
+    "ci_low": 8.483125,
+    "ci_high": 41.937268,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_opus_4_5_inspect",
+    "release_date": "2025-11-24",
+    "provider": "Anthropic",
+    "threshold": "50%",
+    "minutes": 292.994594,
+    "ci_low": 161.717714,
+    "ci_high": 623.704698,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_opus_4_5_inspect",
+    "release_date": "2025-11-24",
+    "provider": "Anthropic",
+    "threshold": "80%",
+    "minutes": 49.430584,
+    "ci_low": 20.660485,
+    "ci_high": 104.641318,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_opus_4_6_inspect",
+    "release_date": "2026-02-05",
+    "provider": "Anthropic",
+    "threshold": "50%",
+    "minutes": 718.80683,
+    "ci_low": 316.685725,
+    "ci_high": 3633.786163,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_opus_4_6_inspect",
+    "release_date": "2026-02-05",
+    "provider": "Anthropic",
+    "threshold": "80%",
+    "minutes": 69.874587,
+    "ci_low": 27.026521,
+    "ci_high": 170.437873,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "davinci_002",
+    "release_date": "2020-05-28",
+    "provider": "Other",
+    "threshold": "50%",
+    "minutes": 0.144057,
+    "ci_low": 0.093319,
+    "ci_high": 0.221209,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "davinci_002",
+    "release_date": "2020-05-28",
+    "provider": "Other",
+    "threshold": "80%",
+    "minutes": 0.056238,
+    "ci_low": 0.034813,
+    "ci_high": 0.105813,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_5_3_codex",
+    "release_date": "2026-02-05",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 349.530732,
+    "ci_low": 194.913134,
+    "ci_high": 816.351994,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_5_3_codex",
+    "release_date": "2026-02-05",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 54.739407,
+    "ci_low": 22.361504,
+    "ci_high": 122.058963,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gemini_3_pro",
+    "release_date": "2025-11-18",
+    "provider": "Google",
+    "threshold": "50%",
+    "minutes": 224.325884,
+    "ci_low": 139.565157,
+    "ci_high": 379.235434,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gemini_3_pro",
+    "release_date": "2025-11-18",
+    "provider": "Google",
+    "threshold": "80%",
+    "minutes": 54.142849,
+    "ci_low": 25.650451,
+    "ci_high": 103.295501,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gemini_3_1_pro",
+    "release_date": "2026-02-19",
+    "provider": "Google",
+    "threshold": "50%",
+    "minutes": 384.147435,
+    "ci_low": 233.50073,
+    "ci_high": 694.750898,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gemini_3_1_pro",
+    "release_date": "2026-02-19",
+    "provider": "Google",
+    "threshold": "80%",
+    "minutes": 89.801503,
+    "ci_low": 52.025934,
+    "ci_high": 158.618017,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt2",
+    "release_date": "2019-02-14",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 0.053778,
+    "ci_low": 0.009994,
+    "ci_high": 0.141825,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt2",
+    "release_date": "2019-02-14",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 0.0128,
+    "ci_low": 0.001589,
+    "ci_high": 0.068612,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_3_5_turbo_instruct",
+    "release_date": "2022-03-15",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 0.599247,
+    "ci_low": 0.255148,
+    "ci_high": 1.115905,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_3_5_turbo_instruct",
+    "release_date": "2022-03-15",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 0.25538,
+    "ci_low": 0.141649,
+    "ci_high": 0.492933,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_4",
+    "release_date": "2023-03-14",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 3.987428,
+    "ci_low": 1.93292,
+    "ci_high": 7.995283,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_4",
+    "release_date": "2023-03-14",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 0.889561,
+    "ci_low": 0.342984,
+    "ci_high": 2.523746,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_4_1106_inspect",
+    "release_date": "2023-11-06",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 4.044959,
+    "ci_low": 1.866859,
+    "ci_high": 8.443226,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_4_1106_inspect",
+    "release_date": "2023-11-06",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 0.783032,
+    "ci_low": 0.276599,
+    "ci_high": 2.358414,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_4_turbo_inspect",
+    "release_date": "2024-04-09",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 3.732787,
+    "ci_low": 1.980046,
+    "ci_high": 6.736613,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_4_turbo_inspect",
+    "release_date": "2024-04-09",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 0.927933,
+    "ci_low": 0.428277,
+    "ci_high": 2.196806,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_4o_inspect",
+    "release_date": "2024-05-13",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 6.991195,
+    "ci_low": 4.001482,
+    "ci_high": 12.905741,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_4o_inspect",
+    "release_date": "2024-05-13",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 1.267009,
+    "ci_low": 0.562997,
+    "ci_high": 3.01517,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_5_1_codex_max_inspect",
+    "release_date": "2025-11-19",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 223.714694,
+    "ci_low": 134.31077,
+    "ci_high": 396.206723,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_5_1_codex_max_inspect",
+    "release_date": "2025-11-19",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 50.632499,
+    "ci_low": 27.30204,
+    "ci_high": 88.365435,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_5_2",
+    "release_date": "2025-12-11",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 352.249302,
+    "ci_low": 198.067494,
+    "ci_high": 815.177445,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_5_2",
+    "release_date": "2025-12-11",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 66.002649,
+    "ci_low": 31.665111,
+    "ci_high": 131.730719,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_5_2025_08_07_inspect",
+    "release_date": "2025-08-07",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 203.012577,
+    "ci_low": 112.641357,
+    "ci_high": 405.551565,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_5_2025_08_07_inspect",
+    "release_date": "2025-08-07",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 38.312431,
+    "ci_low": 19.184874,
+    "ci_high": 70.093125,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_5_4",
+    "release_date": "2026-03-05",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 341.735276,
+    "ci_low": 186.581591,
+    "ci_high": 768.779526,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "gpt_5_4",
+    "release_date": "2026-03-05",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 53.877851,
+    "ci_low": 23.957027,
+    "ci_high": 108.679232,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "o1_inspect",
+    "release_date": "2024-12-05",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 38.831588,
+    "ci_low": 21.164512,
+    "ci_high": 64.95249,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "o1_inspect",
+    "release_date": "2024-12-05",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 7.090121,
+    "ci_low": 3.036033,
+    "ci_high": 16.640636,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "o1_preview",
+    "release_date": "2024-09-12",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 20.326586,
+    "ci_low": 11.716193,
+    "ci_high": 33.379877,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "o1_preview",
+    "release_date": "2024-09-12",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 4.420545,
+    "ci_low": 2.012646,
+    "ci_high": 8.912444,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "o3_inspect",
+    "release_date": "2025-04-16",
+    "provider": "OpenAI",
+    "threshold": "50%",
+    "minutes": 119.732634,
+    "ci_low": 74.615398,
+    "ci_high": 190.943818,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "o3_inspect",
+    "release_date": "2025-04-16",
+    "provider": "OpenAI",
+    "threshold": "80%",
+    "minutes": 29.981603,
+    "ci_low": 15.127348,
+    "ci_high": 57.823511,
+    "measurement": "Within measured range"
+  },
+  {
+    "model": "claude_mythos_preview_early_inspect",
+    "release_date": "2026-04-07",
+    "provider": "Anthropic",
+    "threshold": "50%",
+    "minutes": 1044.780145,
+    "ci_low": 508.876789,
+    "ci_high": 3304.261235,
+    "measurement": "Above 16-hour limit"
+  },
+  {
+    "model": "claude_mythos_preview_early_inspect",
+    "release_date": "2026-04-07",
+    "provider": "Anthropic",
+    "threshold": "80%",
+    "minutes": 185.911829,
+    "ci_low": 97.30292,
+    "ci_high": 398.514614,
+    "measurement": "Within measured range"
+  }
+]

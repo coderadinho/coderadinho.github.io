@@ -1,0 +1,136 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "width": "container",
+  "height": 330,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "background": "transparent",
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "font": "Avenir Next, Trebuchet MS, sans-serif",
+    "axis": {
+      "labelColor": "#4a5b6d",
+      "titleColor": "#26374a",
+      "gridColor": "#e3eaf0",
+      "domain": false,
+      "tickColor": "#b7c6d4",
+      "titlePadding": 12
+    },
+    "legend": {
+      "orient": "bottom",
+      "title": null,
+      "labelColor": "#26374a"
+    }
+  },
+  "description": "Epoch AI language-domain model records with positive training-compute estimates, published 2017\u20139 October 2026. Missing estimates excluded; source confidence classes retained.",
+  "data": {
+    "url": "data/epoch-language-models.json"
+  },
+  "params": [
+    {
+      "name": "confidenceFilter",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All",
+          "Confident",
+          "Likely",
+          "Speculative"
+        ],
+        "name": "Estimate confidence: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "confidenceFilter === 'All' || datum.confidence === confidenceFilter"
+    }
+  ],
+  "mark": {
+    "type": "point",
+    "filled": true,
+    "opacity": 0.65,
+    "size": 48
+  },
+  "encoding": {
+    "x": {
+      "field": "date",
+      "type": "temporal",
+      "title": "Publication date",
+      "axis": {
+        "format": "%Y",
+        "tickCount": 6
+      }
+    },
+    "y": {
+      "field": "compute",
+      "type": "quantitative",
+      "title": "Training compute (FLOP, log scale)",
+      "scale": {
+        "type": "log"
+      },
+      "axis": {
+        "format": ".0e"
+      }
+    },
+    "color": {
+      "field": "confidence",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Confident",
+          "Likely",
+          "Speculative"
+        ],
+        "range": [
+          "#174d80",
+          "#167268",
+          "#775899"
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "model",
+        "type": "nominal",
+        "title": "Model"
+      },
+      {
+        "field": "organization",
+        "type": "nominal",
+        "title": "Organisation"
+      },
+      {
+        "field": "country",
+        "type": "nominal",
+        "title": "Country of organisation"
+      },
+      {
+        "field": "date",
+        "type": "temporal",
+        "title": "Publication"
+      },
+      {
+        "field": "compute",
+        "type": "quantitative",
+        "title": "Training FLOP",
+        "format": ".2e"
+      },
+      {
+        "field": "confidence",
+        "type": "nominal",
+        "title": "Source confidence"
+      },
+      {
+        "field": "accessibility",
+        "type": "nominal",
+        "title": "Accessibility"
+      }
+    ]
+  }
+}

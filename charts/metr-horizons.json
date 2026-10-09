@@ -1,0 +1,172 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "width": "container",
+  "height": 330,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "background": "transparent",
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "font": "Avenir Next, Trebuchet MS, sans-serif",
+    "axis": {
+      "labelColor": "#4a5b6d",
+      "titleColor": "#26374a",
+      "gridColor": "#e3eaf0",
+      "domain": false,
+      "tickColor": "#b7c6d4",
+      "titlePadding": 12
+    },
+    "legend": {
+      "orient": "bottom",
+      "title": null,
+      "labelColor": "#26374a"
+    }
+  },
+  "description": "METR Horizon v1.1: human task duration at 50% or 80% predicted task success. Published uncertainty bounds shown; estimates over 16 hours are flagged.",
+  "data": {
+    "url": "data/metr-horizons.json"
+  },
+  "params": [
+    {
+      "name": "success",
+      "value": "50%",
+      "bind": {
+        "input": "radio",
+        "options": [
+          "50%",
+          "80%"
+        ],
+        "name": "Success threshold: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.threshold === success"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "release_date",
+      "type": "temporal",
+      "title": "Model release",
+      "axis": {
+        "format": "%b %Y",
+        "tickCount": 5
+      }
+    },
+    "y": {
+      "field": "minutes",
+      "type": "quantitative",
+      "title": "Human task duration (minutes, log scale)",
+      "scale": {
+        "type": "log"
+      }
+    },
+    "color": {
+      "field": "provider",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Anthropic",
+          "Google",
+          "OpenAI",
+          "Other"
+        ],
+        "range": [
+          "#167268",
+          "#775899",
+          "#174d80",
+          "#687889"
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "model",
+        "title": "Model",
+        "type": "nominal"
+      },
+      {
+        "field": "release_date",
+        "title": "Release",
+        "type": "temporal",
+        "format": "%d %b %Y"
+      },
+      {
+        "field": "minutes",
+        "title": "Human task minutes",
+        "type": "quantitative",
+        "format": ".1f"
+      },
+      {
+        "field": "ci_low",
+        "title": "Lower interval",
+        "type": "quantitative",
+        "format": ".1f"
+      },
+      {
+        "field": "ci_high",
+        "title": "Upper interval",
+        "type": "quantitative",
+        "format": ".1f"
+      },
+      {
+        "field": "measurement",
+        "title": "Measurement",
+        "type": "nominal"
+      }
+    ]
+  },
+  "layer": [
+    {
+      "transform": [
+        {
+          "filter": "isValid(datum.ci_low) && datum.ci_low > 0 && isValid(datum.ci_high)"
+        }
+      ],
+      "mark": {
+        "type": "rule",
+        "opacity": 0.4
+      },
+      "encoding": {
+        "y": {
+          "field": "ci_low",
+          "type": "quantitative"
+        },
+        "y2": {
+          "field": "ci_high"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 85,
+        "opacity": 0.9
+      },
+      "encoding": {
+        "shape": {
+          "field": "measurement",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Within measured range",
+              "Above 16-hour limit"
+            ],
+            "range": [
+              "circle",
+              "triangle"
+            ]
+          },
+          "legend": null
+        }
+      }
+    }
+  ]
+}
