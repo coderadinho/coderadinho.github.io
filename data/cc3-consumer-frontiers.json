@@ -1,0 +1,317 @@
+[
+  {
+    "date": "2023-10-10",
+    "model": "Mistral 7B",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 18.0
+  },
+  {
+    "date": "2024-04-18",
+    "model": "Llama 3 8B",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 30.0
+  },
+  {
+    "date": "2024-04-23",
+    "model": "Phi 3 Medium",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 33.0
+  },
+  {
+    "date": "2024-06-24",
+    "model": "Gemma 2 27B",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 36.0
+  },
+  {
+    "date": "2024-09-17",
+    "model": "Qwen2.5 32B",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 47.0
+  },
+  {
+    "date": "2024-11-28",
+    "model": "QwQ-32B-Preview",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 56.0
+  },
+  {
+    "date": "2024-12-12",
+    "model": "Phi 4",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 57.5
+  },
+  {
+    "date": "2025-01-22",
+    "model": "DeepSeek R1 (Qwen 32B)",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 62.0
+  },
+  {
+    "date": "2025-02-11",
+    "model": "s1.1-32B",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 63.6
+  },
+  {
+    "date": "2025-03-19",
+    "model": "EXAONE-Deep-32B",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 66.1
+  },
+  {
+    "date": "2025-04-29",
+    "model": "Qwen3 32B (Reasoning)",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 66.8
+  },
+  {
+    "date": "2025-04-30",
+    "model": "Phi 4 Reasoning Plus",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 68.9
+  },
+  {
+    "date": "2025-07-15",
+    "model": "EXAONE 4.0 32B (Reasoning)",
+    "group": "Consumer hardware",
+    "benchmark": "GPQA-Diamond",
+    "score": 74.0
+  },
+  {
+    "date": "2023-10-10",
+    "model": "Mistral 7B",
+    "group": "Consumer hardware",
+    "benchmark": "MMLU-Pro",
+    "score": 25.0
+  },
+  {
+    "date": "2024-04-18",
+    "model": "Llama 3 8B",
+    "group": "Consumer hardware",
+    "benchmark": "MMLU-Pro",
+    "score": 41.0
+  },
+  {
+    "date": "2024-04-23",
+    "model": "Phi 3 Medium",
+    "group": "Consumer hardware",
+    "benchmark": "MMLU-Pro",
+    "score": 54.0
+  },
+  {
+    "date": "2024-06-24",
+    "model": "Gemma 2 27B",
+    "group": "Consumer hardware",
+    "benchmark": "MMLU-Pro",
+    "score": 57.0
+  },
+  {
+    "date": "2024-09-17",
+    "model": "Qwen2.5 32B",
+    "group": "Consumer hardware",
+    "benchmark": "MMLU-Pro",
+    "score": 70.0
+  },
+  {
+    "date": "2024-12-12",
+    "model": "Phi 4",
+    "group": "Consumer hardware",
+    "benchmark": "MMLU-Pro",
+    "score": 71.0
+  },
+  {
+    "date": "2025-01-22",
+    "model": "DeepSeek R1 (Qwen 32B)",
+    "group": "Consumer hardware",
+    "benchmark": "MMLU-Pro",
+    "score": 74.0
+  },
+  {
+    "date": "2025-03-06",
+    "model": "QwQ-32B",
+    "group": "Consumer hardware",
+    "benchmark": "MMLU-Pro",
+    "score": 76.0
+  },
+  {
+    "date": "2025-04-29",
+    "model": "Qwen3 32B (Reasoning)",
+    "group": "Consumer hardware",
+    "benchmark": "MMLU-Pro",
+    "score": 79.8
+  },
+  {
+    "date": "2025-07-15",
+    "model": "EXAONE 4.0 32B (Reasoning)",
+    "group": "Consumer hardware",
+    "benchmark": "MMLU-Pro",
+    "score": 82.0
+  },
+  {
+    "date": "2023-06-14",
+    "model": "GPT-4 (Jun 2023)",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 31.0
+  },
+  {
+    "date": "2023-07-11",
+    "model": "Claude 2",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 35.0
+  },
+  {
+    "date": "2023-11-06",
+    "model": "GPT-4 Preview (Nov 2023)",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 42.0
+  },
+  {
+    "date": "2024-02-29",
+    "model": "Claude 3 Opus",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 47.0
+  },
+  {
+    "date": "2024-05-13",
+    "model": "GPT-4o (May 2024)",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 49.0
+  },
+  {
+    "date": "2024-06-20",
+    "model": "Claude 3.5 Sonnet (Jun 2024)",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 54.0
+  },
+  {
+    "date": "2024-09-12",
+    "model": "o1-mini (high)",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 62.0
+  },
+  {
+    "date": "2024-12-05",
+    "model": "o1",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 75.0
+  },
+  {
+    "date": "2025-01-30",
+    "model": "o3-mini (high)",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 77.0
+  },
+  {
+    "date": "2025-02-24",
+    "model": "Claude 3.7 Sonnet (64k thinking)",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 79.0
+  },
+  {
+    "date": "2025-03-25",
+    "model": "Gemini 2.5 Pro Exp (Mar 2025)",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 84.0
+  },
+  {
+    "date": "2025-06-05",
+    "model": "Gemini 2.5 Pro Preview (Jun 2025)",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 85.0
+  },
+  {
+    "date": "2025-07-09",
+    "model": "Grok 4",
+    "group": "Frontier",
+    "benchmark": "GPQA-Diamond",
+    "score": 87.0
+  },
+  {
+    "date": "2023-07-11",
+    "model": "Claude 2",
+    "group": "Frontier",
+    "benchmark": "MMLU-Pro",
+    "score": 49.0
+  },
+  {
+    "date": "2023-11-20",
+    "model": "Claude 2.1",
+    "group": "Frontier",
+    "benchmark": "MMLU-Pro",
+    "score": 50.0
+  },
+  {
+    "date": "2024-02-29",
+    "model": "Claude 3 Opus",
+    "group": "Frontier",
+    "benchmark": "MMLU-Pro",
+    "score": 70.0
+  },
+  {
+    "date": "2024-05-13",
+    "model": "GPT-4o (May 2024)",
+    "group": "Frontier",
+    "benchmark": "MMLU-Pro",
+    "score": 74.0
+  },
+  {
+    "date": "2024-06-20",
+    "model": "Claude 3.5 Sonnet (Jun 2024)",
+    "group": "Frontier",
+    "benchmark": "MMLU-Pro",
+    "score": 75.0
+  },
+  {
+    "date": "2024-10-22",
+    "model": "Claude 3.5 Sonnet (Oct 2024)",
+    "group": "Frontier",
+    "benchmark": "MMLU-Pro",
+    "score": 77.0
+  },
+  {
+    "date": "2024-12-05",
+    "model": "o1",
+    "group": "Frontier",
+    "benchmark": "MMLU-Pro",
+    "score": 84.0
+  },
+  {
+    "date": "2025-03-25",
+    "model": "Gemini 2.5 Pro Exp (Mar 2025)",
+    "group": "Frontier",
+    "benchmark": "MMLU-Pro",
+    "score": 86.0
+  },
+  {
+    "date": "2025-05-22",
+    "model": "Claude 4 Opus Thinking",
+    "group": "Frontier",
+    "benchmark": "MMLU-Pro",
+    "score": 87.0
+  }
+]

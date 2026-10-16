@@ -1,0 +1,8346 @@
+[
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.1666666666666665,
+    "x": 0.986186701856056,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.6666666666666665,
+    "x": 2.0020382271681285,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.3333333333333335,
+    "x": 0.9890546601310956,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.388888888888889,
+    "x": 2.0314725356498853,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.5294117647058822,
+    "x": 0.952058602243437,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.8461538461538463,
+    "x": 1.9958472026302496,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.5384615384615383,
+    "x": 0.9933232675068917,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.764705882352941,
+    "x": 1.965260682531182,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.25,
+    "x": 1.005286063279333,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.2222222222222223,
+    "x": 2.0288267313003634,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.769230769230769,
+    "x": 0.953202582402159,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.9411764705882355,
+    "x": 1.9576357067438288,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.9411764705882355,
+    "x": 1.0191054948997325,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.8461538461538463,
+    "x": 1.959645509136219,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.214285714285714,
+    "x": 1.0011182865768353,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 4.4375,
+    "x": 1.9978493936032773,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.727272727272727,
+    "x": 1.0184921651585594,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.9473684210526314,
+    "x": 2.030870696811884,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.2666666666666666,
+    "x": 0.9546485646064595,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 2.0044766863093657,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.5,
+    "x": 0.9751633214126996,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.388888888888889,
+    "x": 1.953652017027102,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.875,
+    "x": 1.0157390882131931,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 1.958288761561926,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.7,
+    "x": 0.9788726528941651,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.888888888888889,
+    "x": 1.972264107255479,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.533333333333333,
+    "x": 1.0385103937348377,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.3333333333333335,
+    "x": 2.023500978976228,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.3,
+    "x": 0.9802706633769988,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 1.9921612990873767,
+    "valid_ratings": 6
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.55,
+    "x": 0.9786095453920912,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.2,
+    "x": 2.0478292112285548,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.5789473684210527,
+    "x": 0.997229637088166,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.4545454545454546,
+    "x": 2.017915900728514,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 1.0315089433136313,
+    "valid_ratings": 3
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.4615384615384617,
+    "x": 1.997791770214039,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.75,
+    "x": 0.994775990708958,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 1.8333333333333333,
+    "x": 2.023157472173691,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.25,
+    "x": 0.9957999371425591,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.5,
+    "x": 1.9756831157436956,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.1538461538461537,
+    "x": 0.9783412785599688,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.6470588235294117,
+    "x": 2.0037823722372536,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.8125,
+    "x": 1.0171738184240915,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.2857142857142856,
+    "x": 2.0190919918458046,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.411764705882353,
+    "x": 1.0232416175296877,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.1538461538461537,
+    "x": 2.030216706395241,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.1333333333333333,
+    "x": 1.0101046810877645,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.6666666666666665,
+    "x": 1.9894304632910154,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.0,
+    "x": 1.022953617505802,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 4.222222222222222,
+    "x": 1.989198729293919,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.1818181818181817,
+    "x": 1.00905816655331,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.3684210526315788,
+    "x": 1.96930757786056,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.2142857142857144,
+    "x": 1.0187733808256674,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.125,
+    "x": 2.007869186617403,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.9375,
+    "x": 1.0432956983103,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 1.9708513611191343,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.6153846153846154,
+    "x": 1.0175231500794502,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 1.6470588235294117,
+    "x": 1.9965667595728422,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0214591002978546,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 2.003349132664074,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.25,
+    "x": 0.9556839462978007,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.7857142857142856,
+    "x": 2.0488259456962,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.0714285714285716,
+    "x": 0.9547748337934352,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.75,
+    "x": 2.0309928444008722,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.4444444444444444,
+    "x": 1.022560274904635,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 1.6666666666666667,
+    "x": 2.028643543002704,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.526315789473684,
+    "x": 0.9595287722917382,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.090909090909091,
+    "x": 1.9516311538071809,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.6923076923076925,
+    "x": 0.9907298439701813,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.4166666666666665,
+    "x": 1.9637350756697949,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.8461538461538463,
+    "x": 0.9655462749664608,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.2941176470588234,
+    "x": 1.9706540698111488,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 1.0003004521471648,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.3,
+    "x": 1.9730797094688002,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.25,
+    "x": 0.9529649115118106,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.9285714285714284,
+    "x": 1.9893340088820408,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.6666666666666667,
+    "x": 0.9554238557580954,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.8333333333333335,
+    "x": 2.0355214040249283,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 1.0223382496334223,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.3333333333333335,
+    "x": 2.0009752390083317,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.6666666666666665,
+    "x": 1.0064226157987968,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.5294117647058822,
+    "x": 1.9666122919353295,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.8823529411764706,
+    "x": 1.0082750258961082,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.923076923076923,
+    "x": 2.0093263752388206,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.0,
+    "x": 0.9560031653186921,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.8461538461538463,
+    "x": 1.9702121282912637,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.0714285714285716,
+    "x": 0.9655967470011204,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.4375,
+    "x": 1.983340779429923,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.090909090909091,
+    "x": 1.042484272480769,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.125,
+    "x": 1.9897222348470227,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.125,
+    "x": 0.9595120591263286,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 1.9285714285714286,
+    "x": 1.9728952242074245,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.4615384615384615,
+    "x": 0.9637592226612974,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 1.6470588235294117,
+    "x": 1.955904414926221,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.2,
+    "x": 1.0392883522477236,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.0526315789473686,
+    "x": 2.0342171062014764,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.875,
+    "x": 1.0165755472702684,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.0714285714285716,
+    "x": 1.9735046996060943,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.6,
+    "x": 1.0490211262420686,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.1,
+    "x": 1.982923991139761,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.5555555555555554,
+    "x": 0.9629470345702674,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.9047619047619047,
+    "x": 1.9757071220890634,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.7,
+    "x": 0.9695759352885722,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 4.428571428571429,
+    "x": 2.048959451739251,
+    "valid_ratings": 7
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.5,
+    "x": 0.9588424874865984,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.55,
+    "x": 1.9715423065456188,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.4285714285714286,
+    "x": 0.9738212042275931,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 1.6666666666666667,
+    "x": 1.9518430573754706,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.7777777777777777,
+    "x": 1.0311763846897548,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.1666666666666665,
+    "x": 2.028424800926264,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.4285714285714284,
+    "x": 1.0269707841433355,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.5,
+    "x": 2.0371904793185154,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0088095541800544,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.5,
+    "x": 2.044556187942332,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.6923076923076925,
+    "x": 1.0291747483262128,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.7058823529411766,
+    "x": 1.960118297222998,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.2,
+    "x": 0.9694604418478985,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.6,
+    "x": 2.005586900962094,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.111111111111111,
+    "x": 1.0482063840843239,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.1666666666666665,
+    "x": 2.0202085814448583,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0035527861774125,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.4545454545454546,
+    "x": 2.0418983470664998,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.7333333333333334,
+    "x": 1.0438241938569672,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 1.9518087495027807,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.2777777777777777,
+    "x": 1.0474339807284374,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.0833333333333335,
+    "x": 2.0064037723627615,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 0.9699900593464064,
+    "valid_ratings": 3
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.857142857142857,
+    "x": 1.998381507071539,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.4210526315789473,
+    "x": 0.9746653557046517,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 4.090909090909091,
+    "x": 1.9635182352232543,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.25,
+    "x": 1.0088724138527592,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.1,
+    "x": 1.9986322817319426,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.2142857142857144,
+    "x": 1.0330713197381376,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.4375,
+    "x": 1.986814341033273,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.3333333333333335,
+    "x": 1.039794047365788,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.9166666666666665,
+    "x": 2.036389078456458,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.111111111111111,
+    "x": 1.027223419373115,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.5,
+    "x": 1.9662139494703303,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.5555555555555554,
+    "x": 0.9620401804911767,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.75,
+    "x": 1.996058351820108,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.5625,
+    "x": 1.022165172460661,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.857142857142857,
+    "x": 2.026172689010175,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.619047619047619,
+    "x": 1.0490715101067964,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.888888888888889,
+    "x": 1.990502484620061,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.25,
+    "x": 0.9547754115152338,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.1,
+    "x": 1.9725959602969463,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0363126969492518,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.0357743743911687,
+    "valid_ratings": 6
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.0,
+    "x": 0.9765195466956488,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 4.0,
+    "x": 1.9878284865723184,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.75,
+    "x": 1.048325904830934,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.1666666666666665,
+    "x": 1.9662467523260154,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.1,
+    "x": 0.9799532341436761,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.9,
+    "x": 2.0479509816563355,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.1333333333333333,
+    "x": 1.032675402674825,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 1.8,
+    "x": 2.0068189195535546,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.6153846153846154,
+    "x": 1.0282951480114644,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.1176470588235294,
+    "x": 2.020517182919673,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.238095238095238,
+    "x": 0.9835850243571632,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 1.9820174885671291,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.0833333333333335,
+    "x": 1.0214953796854973,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.7777777777777777,
+    "x": 1.9679531762994142,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.3333333333333335,
+    "x": 0.9786023257214449,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.25,
+    "x": 2.0201047431596217,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.75,
+    "x": 1.0410484590172866,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.6,
+    "x": 2.039956631333178,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.3636363636363638,
+    "x": 0.991013015007778,
+    "valid_ratings": 22
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.625,
+    "x": 1.9889336411335208,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.375,
+    "x": 0.9956875575560997,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.409090909090909,
+    "x": 2.0338044631250343,
+    "valid_ratings": 22
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.6666666666666665,
+    "x": 0.9581121379229582,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 1.4,
+    "x": 1.9510550621901255,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.875,
+    "x": 1.0144922352199983,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.9285714285714284,
+    "x": 2.0187056159218546,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.0833333333333335,
+    "x": 1.0481245539441353,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.3333333333333335,
+    "x": 1.980126608483371,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.2666666666666666,
+    "x": 1.0062295950545097,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.8,
+    "x": 1.9747164063654081,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.8,
+    "x": 1.0407567070324346,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.8666666666666667,
+    "x": 2.0122262585227952,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.3846153846153846,
+    "x": 0.958857328645772,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.4705882352941178,
+    "x": 1.9878758543679194,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.142857142857143,
+    "x": 1.0176384308367685,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.533333333333333,
+    "x": 1.995940035567205,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.8,
+    "x": 1.0136287541034033,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.6666666666666665,
+    "x": 1.9986245194147736,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.5,
+    "x": 0.9833551573587996,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.75,
+    "x": 2.0090520633902527,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.4,
+    "x": 0.9967661323029242,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.7333333333333334,
+    "x": 2.004974293710689,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.6470588235294117,
+    "x": 0.9546751425145203,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.6923076923076925,
+    "x": 2.029023596496351,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.3157894736842106,
+    "x": 0.9955222042031782,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.8181818181818183,
+    "x": 1.984486517899357,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.3846153846153846,
+    "x": 1.0142503259933555,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.6470588235294117,
+    "x": 1.9628398488790664,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.5294117647058822,
+    "x": 0.981024285527061,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.5384615384615383,
+    "x": 2.043701739898594,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.375,
+    "x": 1.009874137652214,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.5714285714285716,
+    "x": 1.9569025774622832,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.5,
+    "x": 0.9532626117553327,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.375,
+    "x": 2.013205790909686,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.25,
+    "x": 1.0101904645727955,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 4.5,
+    "x": 1.9986093700349188,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.111111111111111,
+    "x": 0.9980584943190819,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.9047619047619047,
+    "x": 1.9580107432877953,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.1,
+    "x": 1.0209420038539874,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.85,
+    "x": 2.037197179258279,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.235294117647059,
+    "x": 0.9985894381836173,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.4615384615384617,
+    "x": 1.987651215452436,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0063535061870383,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.4375,
+    "x": 1.9653229420122573,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.3636363636363638,
+    "x": 1.0159591391189993,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.5384615384615383,
+    "x": 1.992092549966406,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.357142857142857,
+    "x": 1.0443780448929543,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 1.625,
+    "x": 1.9694399859359284,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 0.9576792485747698,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.4705882352941178,
+    "x": 1.9757945891309152,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.0588235294117645,
+    "x": 0.9940531596307405,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.769230769230769,
+    "x": 1.954367147972744,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.9090909090909092,
+    "x": 1.0393934938987572,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.625,
+    "x": 1.9982172420256954,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.388888888888889,
+    "x": 0.9796789615855096,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 4.090909090909091,
+    "x": 2.027410131186496,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.4166666666666665,
+    "x": 1.0126231702425619,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.6666666666666665,
+    "x": 2.0128778498198336,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.8947368421052633,
+    "x": 1.014006565243312,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.727272727272727,
+    "x": 1.9970576503256428,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.5384615384615383,
+    "x": 0.9501064532402245,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.411764705882353,
+    "x": 1.9720329044307792,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0457597169689954,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.8181818181818183,
+    "x": 1.9940668063810756,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.071428571428571,
+    "x": 1.0115627880018396,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 4.125,
+    "x": 1.9697064852413644,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.090909090909091,
+    "x": 0.9883433238059043,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.9473684210526314,
+    "x": 2.0204831333992272,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.466666666666667,
+    "x": 1.0274921388024936,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.3333333333333335,
+    "x": 2.008315273543442,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.5555555555555554,
+    "x": 1.0189387907123046,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 2.0273611349458345,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.6666666666666665,
+    "x": 0.9844687696688619,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.9523809523809526,
+    "x": 2.041626369832693,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.933333333333333,
+    "x": 0.9514607579057639,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.642857142857143,
+    "x": 2.0417563660142806,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.7058823529411766,
+    "x": 0.9727470163451672,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.923076923076923,
+    "x": 1.9664967269944384,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.4210526315789473,
+    "x": 0.9651515893303664,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.0133882904472284,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.1666666666666667,
+    "x": 0.9966966156570258,
+    "valid_ratings": 6
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 1.5625,
+    "x": 1.965192449868984,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.0769230769230769,
+    "x": 1.009711899305059,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 1.6470588235294117,
+    "x": 1.9733475751378584,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 0.970822863981795,
+    "valid_ratings": 7
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.1818181818181817,
+    "x": 2.0280519383899316,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.090909090909091,
+    "x": 1.0205753573072736,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.388888888888889,
+    "x": 2.028811948068203,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.6315789473684212,
+    "x": 0.9768358176423799,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.090909090909091,
+    "x": 2.037451113680036,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.933333333333333,
+    "x": 0.995538030984326,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.2666666666666666,
+    "x": 2.0450156126801855,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.1538461538461537,
+    "x": 0.9985250887078355,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.7058823529411766,
+    "x": 2.0357761225483193,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.636363636363637,
+    "x": 1.0268980053637486,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.8421052631578947,
+    "x": 2.0070034065518416,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.4615384615384617,
+    "x": 1.0017506321409704,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.2941176470588234,
+    "x": 2.005598546562216,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.6153846153846154,
+    "x": 1.0151426593136277,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.176470588235294,
+    "x": 2.0462688982947066,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 1.7058823529411764,
+    "x": 0.9650650985693883,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 1.6923076923076923,
+    "x": 1.989096033061512,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.4166666666666665,
+    "x": 0.9683946052151347,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.7222222222222223,
+    "x": 1.9849898133731445,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.4285714285714284,
+    "x": 0.9730858525652333,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.75,
+    "x": 1.979076967017094,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 4.0,
+    "x": 0.9835853219431321,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 4.384615384615385,
+    "x": 1.9909066096917114,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.9285714285714284,
+    "x": 0.9811541589658895,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.75,
+    "x": 1.964793497661902,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.4545454545454546,
+    "x": 1.021277948784091,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.6842105263157894,
+    "x": 1.9581294822848774,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.7142857142857144,
+    "x": 1.0278097860834199,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.3125,
+    "x": 2.037402402393102,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.5,
+    "x": 0.9999937235525166,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 4.0,
+    "x": 1.9738859138233773,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.2,
+    "x": 1.0003730698891224,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.2666666666666666,
+    "x": 2.0300503032440345,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 0.9870858323080356,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.5238095238095237,
+    "x": 2.0029066728940546,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 2.6666666666666665,
+    "x": 1.0304757876848962,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.2666666666666666,
+    "x": 2.010090969875432,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.769230769230769,
+    "x": 1.0191934669837581,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.8823529411764706,
+    "x": 2.034915191506142,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.4285714285714284,
+    "x": 0.9977604004721479,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 2.9375,
+    "x": 2.0459178913981755,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.5454545454545454,
+    "x": 1.047282369536136,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.8421052631578947,
+    "x": 2.045815404282546,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Liking",
+    "label": "AI",
+    "rating": 3.357142857142857,
+    "x": 0.9925419890844093,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Liking",
+    "label": "Human",
+    "rating": 3.75,
+    "x": 2.0155164382066335,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.25,
+    "x": 1.0345901667581439,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.8333333333333335,
+    "x": 1.9809629609986148,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.3333333333333335,
+    "x": 1.0382748966930089,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.388888888888889,
+    "x": 2.0061751690642216,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.764705882352941,
+    "x": 1.00177058914147,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.0477354618090913,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.1538461538461537,
+    "x": 1.012585664996523,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.764705882352941,
+    "x": 1.9708202590112402,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0833333333333335,
+    "x": 0.9919841624904643,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.5555555555555554,
+    "x": 2.037519478141872,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.076923076923077,
+    "x": 0.9835070768069377,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.176470588235294,
+    "x": 2.005613005683295,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 0.955065267989955,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.923076923076923,
+    "x": 1.9767861317131008,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 4.0,
+    "x": 0.9600213554845997,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.25,
+    "x": 1.955760578649753,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.090909090909091,
+    "x": 0.967329158649795,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.0526315789473686,
+    "x": 1.9585625366742268,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0131097460968719,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.3333333333333335,
+    "x": 1.95015359633692,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.3333333333333335,
+    "x": 1.0187387719868344,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.3333333333333335,
+    "x": 2.0321991405938102,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.1875,
+    "x": 0.9723276066232593,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.9285714285714284,
+    "x": 1.9561031852567579,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.8,
+    "x": 1.048209468563569,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.5555555555555554,
+    "x": 1.9872619541714773,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.466666666666667,
+    "x": 1.0090936977543588,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.533333333333333,
+    "x": 1.9591604195018024,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.4,
+    "x": 1.0446548940117555,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 1.9600593955928673,
+    "valid_ratings": 6
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.7,
+    "x": 0.9866412892302656,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.8,
+    "x": 2.039738522626451,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.3684210526315788,
+    "x": 0.9899558797332139,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.3636363636363638,
+    "x": 2.009027482484451,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.0,
+    "x": 0.9850647468816504,
+    "valid_ratings": 3
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.5384615384615383,
+    "x": 2.019423523256062,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.8333333333333333,
+    "x": 1.0132041786190065,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 1.8333333333333333,
+    "x": 2.012728790370445,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.1875,
+    "x": 0.9678078035841673,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.5,
+    "x": 2.0038982119500486,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.230769230769231,
+    "x": 0.9619546587871124,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.0588235294117645,
+    "x": 1.9742686235316997,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.875,
+    "x": 1.0198715157336673,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.357142857142857,
+    "x": 1.9739089939995815,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.6470588235294117,
+    "x": 1.0126707400280912,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.6923076923076925,
+    "x": 1.9819104114616168,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 1.0207017223675856,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.6666666666666665,
+    "x": 1.987022462390954,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 4.0,
+    "x": 1.0281991908025505,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.277777777777778,
+    "x": 2.0268928157347514,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.1818181818181817,
+    "x": 0.9850215329371123,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.3684210526315788,
+    "x": 2.029640767152104,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.357142857142857,
+    "x": 0.9629951477343404,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.3125,
+    "x": 2.0273597234319722,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0625,
+    "x": 1.039105586932467,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.2857142857142856,
+    "x": 1.976261368686666,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 1.0250814577268026,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 2.0393777510865294,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.4,
+    "x": 1.0028746216991005,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.466666666666667,
+    "x": 2.038376680827966,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.5,
+    "x": 1.01617124926248,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.7142857142857144,
+    "x": 1.9792020156444359,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.2142857142857144,
+    "x": 0.9715897238957889,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.6875,
+    "x": 1.9617738868159296,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.4444444444444444,
+    "x": 1.041012595613824,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 1.6666666666666667,
+    "x": 2.0453387700463335,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.8421052631578947,
+    "x": 1.0082956102497849,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.272727272727273,
+    "x": 1.9675894125561078,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.6923076923076925,
+    "x": 0.9868576530899484,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.4166666666666665,
+    "x": 2.003918469371328,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.230769230769231,
+    "x": 1.0255271232393077,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.411764705882353,
+    "x": 1.9555945207315475,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.6,
+    "x": 0.951988906849524,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 1.9505117764757702,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.5,
+    "x": 0.9548812385652417,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.142857142857143,
+    "x": 1.9898877947139195,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.7777777777777777,
+    "x": 0.9739597245761293,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.6666666666666665,
+    "x": 1.9956410469906518,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.1333333333333333,
+    "x": 0.9560105649155358,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.4,
+    "x": 1.9849792181740205,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.6666666666666665,
+    "x": 0.9795005369528692,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.0,
+    "x": 1.9529664417435348,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.1176470588235294,
+    "x": 1.0497112832681728,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.230769230769231,
+    "x": 1.982939676925498,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.823529411764706,
+    "x": 1.0214782425070643,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.3846153846153846,
+    "x": 2.009620651868136,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0714285714285716,
+    "x": 1.0061778533764247,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.3125,
+    "x": 1.9523641173053052,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.090909090909091,
+    "x": 0.9972466228069052,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.4375,
+    "x": 2.0302300754245257,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.1875,
+    "x": 0.9704464887751665,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.142857142857143,
+    "x": 2.035897025358142,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.5384615384615385,
+    "x": 1.0162560659438549,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 1.7058823529411764,
+    "x": 1.9668951361087232,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.9,
+    "x": 1.0276322731098253,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.736842105263158,
+    "x": 1.9766428776371225,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.0625,
+    "x": 0.9655713038687239,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.0714285714285716,
+    "x": 2.0384902396274502,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0268771106422852,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.4,
+    "x": 2.022528563171376,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.7777777777777777,
+    "x": 1.0487038381178917,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.9523809523809526,
+    "x": 2.0330741121945954,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.8,
+    "x": 1.0180597851620188,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.571428571428571,
+    "x": 1.990026898184902,
+    "valid_ratings": 7
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.6,
+    "x": 1.0021942198686467,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.95,
+    "x": 1.9642550765347182,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.8571428571428572,
+    "x": 1.017295776541543,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.2666666666666666,
+    "x": 1.9719060445711927,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.7222222222222223,
+    "x": 0.9953065465660784,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.25,
+    "x": 1.964168501527954,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.7142857142857144,
+    "x": 1.041252466882984,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.5625,
+    "x": 2.0226361569195177,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.1875,
+    "x": 1.0261139084709106,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.2857142857142856,
+    "x": 2.0071531918702354,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 0.9512267779405862,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.764705882352941,
+    "x": 1.9615447913279642,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.2666666666666666,
+    "x": 1.031716619891218,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.8,
+    "x": 2.0284793230871294,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.111111111111111,
+    "x": 0.9961704651517485,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.1666666666666665,
+    "x": 1.975921674979203,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.789473684210526,
+    "x": 0.9833123322876741,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.5454545454545454,
+    "x": 2.0131732044125172,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.8,
+    "x": 1.0296341208623974,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.066666666666667,
+    "x": 1.9716482622345717,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.7777777777777777,
+    "x": 0.9805213539145363,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.6666666666666665,
+    "x": 2.0392447600955856,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.6666666666666667,
+    "x": 1.0317550567505585,
+    "valid_ratings": 3
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.857142857142857,
+    "x": 1.9985858208857314,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.4210526315789473,
+    "x": 0.9545765236041565,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.090909090909091,
+    "x": 1.985016775961501,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.1,
+    "x": 1.0298163879131088,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.1,
+    "x": 1.9683800570859646,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.8571428571428572,
+    "x": 0.959719021241463,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.125,
+    "x": 2.0189029540200365,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.6666666666666665,
+    "x": 1.0422507186632786,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.1666666666666665,
+    "x": 2.016032400368469,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0555555555555554,
+    "x": 0.9507280361336399,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.5833333333333335,
+    "x": 2.020494119383555,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.5555555555555554,
+    "x": 1.0473049655136775,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.6666666666666665,
+    "x": 1.9887768793518887,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.8125,
+    "x": 0.9619745133883911,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.357142857142857,
+    "x": 2.0159201511243157,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.142857142857143,
+    "x": 1.0001578467013876,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.3333333333333335,
+    "x": 1.979169883318105,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.15,
+    "x": 0.9519418520715092,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 2.0278805718256665,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.125,
+    "x": 0.9542839459773291,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.0184342575008976,
+    "valid_ratings": 6
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.6666666666666665,
+    "x": 1.001415989414365,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.6666666666666665,
+    "x": 2.0446585974997005,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.75,
+    "x": 0.9757285533826389,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.2222222222222223,
+    "x": 2.035720012211598,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 4.15,
+    "x": 0.9721146248089437,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.0,
+    "x": 2.0233914950044833,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.6,
+    "x": 0.9504954713385799,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 1.3333333333333333,
+    "x": 2.009152759098449,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.5384615384615383,
+    "x": 1.0225280187346442,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.0588235294117645,
+    "x": 1.9766311164225185,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.238095238095238,
+    "x": 0.9761752779925303,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 1.9693003956621495,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 0.9652377554338242,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.888888888888889,
+    "x": 2.032988725996975,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.2777777777777777,
+    "x": 1.0199751763248424,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.25,
+    "x": 2.048757324590821,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.8,
+    "x": 1.0135596600509542,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.7,
+    "x": 1.9755397366803342,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.772727272727273,
+    "x": 0.9872167678365986,
+    "valid_ratings": 22
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 1.9921679713248301,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.375,
+    "x": 1.037737419020654,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.272727272727273,
+    "x": 2.0479573760246863,
+    "valid_ratings": 22
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.7333333333333334,
+    "x": 1.0057611520623269,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 1.3333333333333333,
+    "x": 1.9780125947762563,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 4.0,
+    "x": 1.0425612816069432,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.0,
+    "x": 2.0337940126442726,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.1666666666666665,
+    "x": 1.0178238932569708,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.5555555555555554,
+    "x": 1.9884454798339786,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.1333333333333333,
+    "x": 1.0130063109662715,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.466666666666667,
+    "x": 1.9909382449162438,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.066666666666667,
+    "x": 1.0428797708910167,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.8666666666666667,
+    "x": 1.9865274603333247,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.5384615384615383,
+    "x": 1.0367051600627606,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.6470588235294117,
+    "x": 2.0152545077821817,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0714285714285716,
+    "x": 1.0402198171971568,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.6,
+    "x": 1.976384251893707,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.6,
+    "x": 1.0150998972332679,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.533333333333333,
+    "x": 1.9614124927983156,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.2777777777777777,
+    "x": 1.0235980915809952,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.4166666666666665,
+    "x": 1.9515016732991324,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.4,
+    "x": 0.9562867147793708,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.533333333333333,
+    "x": 1.9672292005178622,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.7058823529411766,
+    "x": 1.049723248244096,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.6923076923076925,
+    "x": 1.974041786855216,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.6315789473684212,
+    "x": 0.9765893000870776,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.090909090909091,
+    "x": 2.0377148202403204,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0342643148777788,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.028540166469758,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.411764705882353,
+    "x": 0.9721200821621477,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.3076923076923075,
+    "x": 1.970704869672655,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.5625,
+    "x": 0.9767041362940609,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 1.9719395514241884,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.357142857142857,
+    "x": 1.0013354556161185,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.125,
+    "x": 2.002270905434843,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.625,
+    "x": 1.046436307957729,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.0,
+    "x": 2.0476568436133697,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.888888888888889,
+    "x": 0.9859476877596467,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.9047619047619047,
+    "x": 2.0493643691586088,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 0.9509480345181668,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.7,
+    "x": 2.033879044968277,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.176470588235294,
+    "x": 1.0400819852298326,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.230769230769231,
+    "x": 1.9692056073031707,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.642857142857143,
+    "x": 0.9909257838170467,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.1875,
+    "x": 2.000209137947738,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.090909090909091,
+    "x": 0.9763058943761767,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.4615384615384617,
+    "x": 1.9834476633230431,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.857142857142857,
+    "x": 1.0002566246984328,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.125,
+    "x": 2.0185547380361224,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.769230769230769,
+    "x": 1.017564299693692,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.411764705882353,
+    "x": 2.0478590938875896,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.6470588235294117,
+    "x": 0.9559471686282702,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.8461538461538463,
+    "x": 1.969373909913346,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.9090909090909092,
+    "x": 0.9807312045140444,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.25,
+    "x": 1.9826529611950119,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 4.166666666666667,
+    "x": 1.0111803043926364,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.181818181818182,
+    "x": 2.0023979844709925,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.5833333333333335,
+    "x": 1.017538122868565,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.7222222222222223,
+    "x": 2.041931936932426,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0182773333005133,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 1.9834303006807756,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.769230769230769,
+    "x": 0.9849993950603884,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.823529411764706,
+    "x": 1.9666536183605492,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.210526315789474,
+    "x": 0.9736871397489052,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.2727272727272725,
+    "x": 1.9532041630788328,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 4.071428571428571,
+    "x": 0.9746302836533517,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.125,
+    "x": 2.028332632362206,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 4.2727272727272725,
+    "x": 0.9511136636026781,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.368421052631579,
+    "x": 1.9766449478215837,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.4,
+    "x": 0.9668147006613128,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.6,
+    "x": 2.0039379322075206,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.5555555555555554,
+    "x": 0.972720902761041,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.25,
+    "x": 1.9874672549877825,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.888888888888889,
+    "x": 0.9942801541185811,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.238095238095238,
+    "x": 2.007627839997645,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.066666666666667,
+    "x": 0.9554289234488167,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.2142857142857144,
+    "x": 1.9891783876371913,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.4705882352941178,
+    "x": 1.0111109287880844,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.6923076923076925,
+    "x": 1.9529286927496694,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.5789473684210527,
+    "x": 1.0147774063418435,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.090909090909091,
+    "x": 2.02421382886241,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.3333333333333333,
+    "x": 1.0350324087525777,
+    "valid_ratings": 6
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 1.6875,
+    "x": 2.0168417205732405,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.7692307692307692,
+    "x": 1.0398282814838167,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.588235294117647,
+    "x": 2.007918771130728,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.5714285714285716,
+    "x": 1.0119063238128863,
+    "valid_ratings": 7
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.090909090909091,
+    "x": 2.0032697832722675,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 4.090909090909091,
+    "x": 1.0067335388215815,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.3333333333333335,
+    "x": 2.0435811660220775,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.789473684210526,
+    "x": 1.0435650403598304,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.090909090909091,
+    "x": 2.0478775641447564,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.933333333333333,
+    "x": 0.9659316879670405,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.2666666666666666,
+    "x": 2.0097023773434017,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.769230769230769,
+    "x": 1.0398744279256356,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.5294117647058822,
+    "x": 1.9732585683297406,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 4.454545454545454,
+    "x": 0.9765716034959432,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.8421052631578947,
+    "x": 2.0356002552094177,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.4615384615384617,
+    "x": 1.0366461669465676,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.4705882352941178,
+    "x": 2.034501081038097,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.6923076923076925,
+    "x": 0.9578326074033102,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.2941176470588234,
+    "x": 1.9966848324084934,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 1.7058823529411764,
+    "x": 1.023845999900342,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 1.7692307692307692,
+    "x": 2.0046333455682492,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.5,
+    "x": 1.0024413124229277,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.8333333333333335,
+    "x": 2.0492571335528855,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.5,
+    "x": 1.0242472645526295,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.75,
+    "x": 1.9534920103926883,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 4.176470588235294,
+    "x": 0.980217449961652,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 4.461538461538462,
+    "x": 2.009808835760902,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.2857142857142856,
+    "x": 1.0050572610530066,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.1875,
+    "x": 2.0176626187751574,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.4545454545454546,
+    "x": 0.9901400218331302,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.6315789473684212,
+    "x": 1.955014471278546,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.5,
+    "x": 0.985439611448412,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.4375,
+    "x": 2.046527721920954,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.5,
+    "x": 0.9767803139608675,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.85,
+    "x": 1.9736177041825531,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.2,
+    "x": 0.999658223862886,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.2,
+    "x": 2.0338970676194243,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0405253567568886,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.5238095238095237,
+    "x": 2.0397550868628707,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 2.6,
+    "x": 0.972867667787251,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 2.2666666666666666,
+    "x": 1.9971804537292643,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.6923076923076925,
+    "x": 1.0188750348276354,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.823529411764706,
+    "x": 2.0036644806910195,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.7142857142857144,
+    "x": 1.0013657405721805,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.0625,
+    "x": 1.962045107457771,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.5454545454545454,
+    "x": 1.017982694445911,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.736842105263158,
+    "x": 1.9785261825061642,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Beauty",
+    "label": "AI",
+    "rating": 3.0714285714285716,
+    "x": 0.9761168873386042,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Beauty",
+    "label": "Human",
+    "rating": 3.5,
+    "x": 2.005962101532848,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.75,
+    "x": 0.9923146263838386,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.3333333333333335,
+    "x": 1.993461580797962,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.25,
+    "x": 0.9902192945464536,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.388888888888889,
+    "x": 1.9652561376880708,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.6470588235294117,
+    "x": 0.9722816718873282,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.3846153846153846,
+    "x": 1.9881436331346947,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.3076923076923075,
+    "x": 1.0417130491919733,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.8823529411764706,
+    "x": 2.0194380438744797,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.1666666666666665,
+    "x": 1.0219369040554884,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.9444444444444446,
+    "x": 1.964389204708422,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.4615384615384617,
+    "x": 0.9633649153164112,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.0231158122312696,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.3529411764705883,
+    "x": 0.9764285773373572,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.6153846153846154,
+    "x": 1.993696808251835,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.142857142857143,
+    "x": 0.9757103780711672,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.9375,
+    "x": 1.9589148817268418,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.4545454545454546,
+    "x": 1.0373448709688005,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.6315789473684212,
+    "x": 2.0158958280393833,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.6666666666666667,
+    "x": 1.0216796619436181,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.8666666666666667,
+    "x": 1.9733932175179412,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.0,
+    "x": 1.04824110340162,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.3888888888888888,
+    "x": 2.0380925720380074,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.3125,
+    "x": 1.0416025509860911,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.5714285714285716,
+    "x": 2.0243611296079487,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.55,
+    "x": 1.0148031801852941,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.111111111111111,
+    "x": 1.972676317592228,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.8666666666666667,
+    "x": 0.9521203557871747,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.466666666666667,
+    "x": 2.0114528437756003,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.25,
+    "x": 1.0265612478329027,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.8333333333333335,
+    "x": 1.9559423090677708,
+    "valid_ratings": 6
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.9,
+    "x": 0.9914019301085297,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.9,
+    "x": 1.9676740039491372,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.263157894736842,
+    "x": 1.0227537380548468,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.272727272727273,
+    "x": 1.9870921865317706,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.6666666666666667,
+    "x": 0.9664512242956745,
+    "valid_ratings": 3
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.4615384615384617,
+    "x": 1.9681340683039559,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.1666666666666667,
+    "x": 1.0182522841393626,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.1666666666666665,
+    "x": 2.0093938586822153,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.0625,
+    "x": 1.0288060275537056,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.357142857142857,
+    "x": 2.0162831475044434,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.076923076923077,
+    "x": 0.9562521804526769,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.764705882352941,
+    "x": 2.0334788187395882,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.25,
+    "x": 1.0131615375537344,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.642857142857143,
+    "x": 1.976990791795706,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.0588235294117645,
+    "x": 1.0261055452635601,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.1538461538461537,
+    "x": 2.014724129096119,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.3333333333333333,
+    "x": 0.9593664673260335,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.7333333333333334,
+    "x": 1.988851726807897,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.4166666666666665,
+    "x": 0.9616750715485816,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.5555555555555554,
+    "x": 2.003958168382441,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.9090909090909092,
+    "x": 1.027567996327602,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.8421052631578947,
+    "x": 1.962523067478696,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.0714285714285716,
+    "x": 1.0462357889970944,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.4375,
+    "x": 1.9940581071040524,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.3125,
+    "x": 1.0046178599251565,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.142857142857143,
+    "x": 1.9959072283438826,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.1538461538461537,
+    "x": 0.9972553921566308,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.9411764705882353,
+    "x": 1.973045998109304,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.6,
+    "x": 1.012001790287778,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.5333333333333334,
+    "x": 1.98121839171334,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.1875,
+    "x": 0.9755975524129504,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 4.071428571428571,
+    "x": 1.971878992148397,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.2857142857142856,
+    "x": 0.9815905514876845,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.0625,
+    "x": 2.0481802159501648,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.4444444444444444,
+    "x": 0.9823773857801535,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.6666666666666667,
+    "x": 1.993651172639474,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.9473684210526316,
+    "x": 0.972864222091637,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.8181818181818183,
+    "x": 2.0342482175054832,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 1.04527719760193,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.1666666666666665,
+    "x": 2.042034070245353,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.8461538461538463,
+    "x": 0.9809345458183727,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.3529411764705883,
+    "x": 2.0096768850393354,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.1,
+    "x": 1.0036275602867213,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.4,
+    "x": 1.9899384272206853,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.6875,
+    "x": 1.0301242847250027,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.2857142857142856,
+    "x": 2.0138974295729577,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.3888888888888888,
+    "x": 0.9906180865981604,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.1666666666666665,
+    "x": 2.0236563856323495,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.2666666666666666,
+    "x": 0.9804154248427207,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.7333333333333334,
+    "x": 1.9749906696152304,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.5833333333333335,
+    "x": 1.0061426246122311,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.823529411764706,
+    "x": 1.9926906644266504,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.5294117647058822,
+    "x": 0.9656576280771272,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.6153846153846154,
+    "x": 2.009916536487444,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.176470588235294,
+    "x": 1.0281180948533484,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.923076923076923,
+    "x": 2.0282146130285734,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.642857142857143,
+    "x": 1.0068418981378409,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.0625,
+    "x": 2.0312272510088296,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.5454545454545454,
+    "x": 1.0416254292733687,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.625,
+    "x": 2.0072388931790104,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.0,
+    "x": 0.9796009386843506,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.0,
+    "x": 2.0126718852303527,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.3846153846153846,
+    "x": 0.9505405780174956,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.5294117647058822,
+    "x": 1.9578555117580123,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.9,
+    "x": 1.0001037090849332,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.9473684210526316,
+    "x": 2.0006439026266647,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.8125,
+    "x": 1.047759370999888,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.642857142857143,
+    "x": 1.9966341514525,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.9,
+    "x": 1.0420748020090744,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.5,
+    "x": 1.9997973345837015,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.5555555555555554,
+    "x": 0.9891177198462089,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.9047619047619047,
+    "x": 2.024739826312338,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.5,
+    "x": 1.0017869316581396,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 4.285714285714286,
+    "x": 2.0058336507103416,
+    "valid_ratings": 7
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0409542343762714,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.5,
+    "x": 2.049289946037285,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.0714285714285714,
+    "x": 0.9662312432387342,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.1333333333333333,
+    "x": 1.9900655264734828,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.2222222222222223,
+    "x": 1.0081674497129434,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.5833333333333333,
+    "x": 1.9983844701881204,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.9285714285714284,
+    "x": 0.9848602374328671,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.125,
+    "x": 2.0324984490576465,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 0.9819629649151224,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.0714285714285716,
+    "x": 2.0449681183226454,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.6153846153846154,
+    "x": 1.0355410293348912,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.6470588235294117,
+    "x": 2.0444502848204573,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.8,
+    "x": 1.0341805066442549,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.7333333333333334,
+    "x": 1.9518485941044954,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.111111111111111,
+    "x": 1.03657278635864,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.25,
+    "x": 1.9793350982668165,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.4210526315789473,
+    "x": 1.031110127604517,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.272727272727273,
+    "x": 2.0344714148563074,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.9333333333333333,
+    "x": 0.9550282553813099,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.3333333333333335,
+    "x": 2.0112744426010076,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.3333333333333335,
+    "x": 0.9948989614918052,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.4166666666666665,
+    "x": 1.9725419313002928,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.3333333333333333,
+    "x": 0.9786466673100587,
+    "valid_ratings": 3
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.642857142857143,
+    "x": 2.012997530512963,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.8421052631578947,
+    "x": 1.0376807981907745,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.4545454545454546,
+    "x": 2.04077933645033,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.95,
+    "x": 0.9664011029052753,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.2,
+    "x": 1.982825237900832,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.0714285714285714,
+    "x": 0.9940474512331821,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.0,
+    "x": 1.9819368890167504,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.5555555555555554,
+    "x": 0.9564136126090916,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 1.9939490677755867,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.8333333333333335,
+    "x": 0.9990853999529475,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.1666666666666665,
+    "x": 2.0492734258873564,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 1.015914044275734,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.4166666666666665,
+    "x": 2.046889753204595,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.1875,
+    "x": 0.9687819764815946,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.142857142857143,
+    "x": 1.969188262033618,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.3333333333333335,
+    "x": 0.9615982850419416,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.8888888888888888,
+    "x": 1.9593980907906132,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.6,
+    "x": 1.0386972323128578,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.6,
+    "x": 2.0464799151800084,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.625,
+    "x": 1.0051742674566733,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.5,
+    "x": 2.0260427898875797,
+    "valid_ratings": 6
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.25,
+    "x": 1.0232729896265027,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.0555555555555554,
+    "x": 1.9653980059659446,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.5,
+    "x": 0.9815906363171422,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.2222222222222223,
+    "x": 2.0270416512163107,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.75,
+    "x": 0.9925102566543134,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.7,
+    "x": 1.9824406246237287,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.2,
+    "x": 1.0131806475870206,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.3333333333333333,
+    "x": 1.9802077616288543,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 4.0,
+    "x": 0.9730910446003559,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.823529411764706,
+    "x": 1.9655357946617802,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.2857142857142858,
+    "x": 1.019790791011841,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.2222222222222223,
+    "x": 1.9944106755479343,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.6666666666666667,
+    "x": 1.0450712581029813,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.2222222222222223,
+    "x": 1.9765368904206164,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.7222222222222223,
+    "x": 0.974659005214857,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.5,
+    "x": 1.953565257959694,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.1,
+    "x": 1.0143643964880662,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 1.9830556207245225,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.227272727272727,
+    "x": 1.0019304496836257,
+    "valid_ratings": 22
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.032979452359039,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.125,
+    "x": 1.0392480656760397,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.227272727272727,
+    "x": 2.005298057712329,
+    "valid_ratings": 22
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.8,
+    "x": 0.9639425681014806,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.2666666666666666,
+    "x": 1.9649766812345835,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.375,
+    "x": 1.000032945083346,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.4285714285714284,
+    "x": 1.9822845062022048,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.4166666666666665,
+    "x": 1.0059210874511806,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.6666666666666665,
+    "x": 1.980045023526527,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.1333333333333333,
+    "x": 1.034219470951635,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.8,
+    "x": 1.9777860513563763,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.6666666666666665,
+    "x": 0.9648278260692438,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.8,
+    "x": 2.012920845921775,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.4615384615384615,
+    "x": 1.0139933894718178,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.6470588235294117,
+    "x": 2.0494536463383617,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.857142857142857,
+    "x": 0.9757532206465732,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.6,
+    "x": 1.961773207139945,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.0,
+    "x": 0.9640467702179768,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.6666666666666665,
+    "x": 1.99389148550261,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.8333333333333335,
+    "x": 1.018107521309148,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.9166666666666665,
+    "x": 1.9992175509253007,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.933333333333333,
+    "x": 1.0151792835302498,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.2666666666666666,
+    "x": 2.0254336143524534,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.588235294117647,
+    "x": 1.049782398011341,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.8461538461538463,
+    "x": 2.0016993591703804,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.0526315789473686,
+    "x": 0.984810479311192,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.727272727272727,
+    "x": 1.9762150859931575,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 0.9515451731402953,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 2.021677695681849,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.235294117647059,
+    "x": 0.9713911007638374,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.5384615384615383,
+    "x": 2.026109186517554,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.3125,
+    "x": 0.9710474590502682,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.5714285714285716,
+    "x": 1.9541406990247905,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.5714285714285716,
+    "x": 0.9734876907832457,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.125,
+    "x": 2.0020475037948127,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 4.0625,
+    "x": 1.013936316556725,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 4.0,
+    "x": 1.9917772904169548,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.111111111111111,
+    "x": 0.9705938603926917,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.8571428571428572,
+    "x": 2.043075354238134,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.4,
+    "x": 0.9673227128667746,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.7,
+    "x": 2.0069975647869316,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.1176470588235294,
+    "x": 0.9965722963596988,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.076923076923077,
+    "x": 2.0159816310940677,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.2142857142857144,
+    "x": 1.002255975566665,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.9375,
+    "x": 1.9691846659525576,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.5454545454545454,
+    "x": 0.989380167952374,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.769230769230769,
+    "x": 2.0460323491204297,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.142857142857143,
+    "x": 1.0320064708214414,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.6875,
+    "x": 1.9542761555032593,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.230769230769231,
+    "x": 0.9793380031308823,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.176470588235294,
+    "x": 1.9699698886314732,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.588235294117647,
+    "x": 0.9919572663036389,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.6153846153846154,
+    "x": 2.0005491366468324,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.5454545454545454,
+    "x": 1.0062050674187115,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.25,
+    "x": 1.9718473498100964,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.5,
+    "x": 1.0283210294800675,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.5454545454545454,
+    "x": 1.9887996987550085,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.5,
+    "x": 0.9529517774849614,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.6666666666666665,
+    "x": 1.9864326279481468,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.1052631578947367,
+    "x": 1.0055299942868614,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 2.0190001323133613,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.923076923076923,
+    "x": 0.9667789461852697,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.235294117647059,
+    "x": 1.98343399229573,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.9473684210526314,
+    "x": 0.9887682376139255,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.090909090909091,
+    "x": 1.9706625461997023,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 4.071428571428571,
+    "x": 0.9714865638491962,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 4.125,
+    "x": 1.988150182967946,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 4.363636363636363,
+    "x": 0.9636767305190822,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.8421052631578947,
+    "x": 1.9612278753335095,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.7333333333333334,
+    "x": 0.965706636778009,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.533333333333333,
+    "x": 2.042146454126539,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 1.0010950969459154,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 2.0466094620181945,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.3333333333333335,
+    "x": 1.006157646717673,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.8571428571428572,
+    "x": 2.03979759306882,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.8,
+    "x": 1.0348413423649463,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.4285714285714284,
+    "x": 2.0302215021166834,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.176470588235294,
+    "x": 0.952562957175335,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.3076923076923075,
+    "x": 2.0000618717727225,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.4210526315789473,
+    "x": 1.0198018408152394,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.4545454545454546,
+    "x": 1.9753357963323266,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.1666666666666667,
+    "x": 1.0014129122698614,
+    "valid_ratings": 6
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.1875,
+    "x": 1.9995267671868688,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.0,
+    "x": 1.0186029880393797,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.9411764705882353,
+    "x": 1.9620135823845382,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 1.005989455016954,
+    "valid_ratings": 7
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.727272727272727,
+    "x": 1.965170369059822,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.6363636363636362,
+    "x": 0.987873760669972,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.111111111111111,
+    "x": 1.9773737352323517,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.736842105263158,
+    "x": 1.0184169481216205,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.8181818181818183,
+    "x": 2.0450085650741676,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.6666666666666665,
+    "x": 1.0336355072758663,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.4,
+    "x": 1.9964476123619015,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.2307692307692308,
+    "x": 0.9889928018387224,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.764705882352941,
+    "x": 1.9940239894112368,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.909090909090909,
+    "x": 0.9786967992926173,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.8421052631578947,
+    "x": 2.0300199358612816,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.5384615384615385,
+    "x": 0.9792159513203131,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.6470588235294117,
+    "x": 2.01516869113715,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.8461538461538463,
+    "x": 1.0031449684921658,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.1176470588235294,
+    "x": 2.048855673510438,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 1.5294117647058822,
+    "x": 1.0429174757268376,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 1.9230769230769231,
+    "x": 2.032510779471114,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.8333333333333335,
+    "x": 0.9786986081269355,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.7777777777777777,
+    "x": 2.014997494506733,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.357142857142857,
+    "x": 1.0401410400754407,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 4.0,
+    "x": 2.0276389173229328,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.2941176470588234,
+    "x": 0.980757264933761,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 4.3076923076923075,
+    "x": 2.046539184598414,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.5,
+    "x": 0.9660974039523771,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.3125,
+    "x": 1.9666239713911144,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.5454545454545454,
+    "x": 1.018721343167751,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.4210526315789473,
+    "x": 2.031808988964357,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.9285714285714284,
+    "x": 1.049055994201833,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.25,
+    "x": 1.9636175900251804,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.9,
+    "x": 1.0326342739205128,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.35,
+    "x": 1.9518594268300629,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 0.9608666765693028,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 1.991323747065269,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.6666666666666665,
+    "x": 1.0207189746424383,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.619047619047619,
+    "x": 2.001638290197996,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.4,
+    "x": 1.0004325059173298,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.1333333333333333,
+    "x": 2.02491374868416,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 0.9874358412352569,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.036075864734972,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.2142857142857144,
+    "x": 1.026869685320122,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 2.25,
+    "x": 1.9955699708975252,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 3.4545454545454546,
+    "x": 0.978026431896099,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.736842105263158,
+    "x": 2.020446078164458,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Profundity",
+    "label": "AI",
+    "rating": 2.7857142857142856,
+    "x": 0.9838175298043828,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Profundity",
+    "label": "Human",
+    "rating": 3.25,
+    "x": 2.042356452309745,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.9166666666666667,
+    "x": 1.0147926202608606,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.388888888888889,
+    "x": 1.9698471214315187,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.3333333333333335,
+    "x": 0.9883737832498412,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.5,
+    "x": 1.9532988028087805,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.3529411764705883,
+    "x": 1.0477942969221796,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.076923076923077,
+    "x": 2.011575440848949,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.9230769230769231,
+    "x": 0.9564594848646808,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.7058823529411766,
+    "x": 1.969565897802541,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.5,
+    "x": 1.0435992885420058,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.3333333333333335,
+    "x": 1.9989106215791606,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.1538461538461537,
+    "x": 1.0365298078725067,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.8823529411764706,
+    "x": 1.994563325231159,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.3529411764705883,
+    "x": 1.0401493803792856,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.6153846153846154,
+    "x": 1.9954437370080733,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.0714285714285716,
+    "x": 0.9740172843346281,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 1.9833700392934133,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.727272727272727,
+    "x": 0.9857361747653707,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.1052631578947367,
+    "x": 2.0010198314189642,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.2666666666666666,
+    "x": 0.9924674691267286,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.533333333333333,
+    "x": 2.0241974815842227,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.0833333333333333,
+    "x": 0.9915197131578292,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 1.5555555555555556,
+    "x": 1.9779552672097291,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.125,
+    "x": 1.0381057085920349,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.642857142857143,
+    "x": 2.0108617458878832,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.05,
+    "x": 1.0374059154679856,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 1.0,
+    "x": 2.0098087746861557,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.533333333333333,
+    "x": 0.9874638137289413,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.8,
+    "x": 1.9605396478108152,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 1.0231757016059113,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.6666666666666665,
+    "x": 2.034256960321319,
+    "valid_ratings": 6
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.55,
+    "x": 0.9720606529101744,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.7,
+    "x": 2.036203567977041,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.8421052631578947,
+    "x": 0.9802516419986305,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.727272727272727,
+    "x": 1.9597777144953108,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.6666666666666667,
+    "x": 1.0100461460598058,
+    "valid_ratings": 3
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.4615384615384617,
+    "x": 1.9898578357557735,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 0.9947379458685015,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.5555555555555554,
+    "x": 1.9770692957531997,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.625,
+    "x": 0.9979348424626369,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.7142857142857144,
+    "x": 2.0320553998200017,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.6153846153846154,
+    "x": 0.9854166488352687,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.7058823529411766,
+    "x": 1.970198210258582,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.3125,
+    "x": 0.9843195705800136,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.5714285714285716,
+    "x": 2.0145902081694156,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.4705882352941178,
+    "x": 1.0024545401277676,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.0146338809304614,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.2666666666666666,
+    "x": 0.9909264562436565,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.3333333333333335,
+    "x": 2.0131934245989824,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.6666666666666665,
+    "x": 1.019104245681341,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.5555555555555554,
+    "x": 1.9845139408537547,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.1818181818181817,
+    "x": 0.9801618622975857,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.6315789473684212,
+    "x": 1.9960391305757759,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 0.9513326043563929,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.9375,
+    "x": 2.0346693404584215,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.4375,
+    "x": 1.0233184358326246,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.142857142857143,
+    "x": 2.0214806650316977,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.6923076923076923,
+    "x": 0.9634011562617774,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.5294117647058822,
+    "x": 2.010842381777644,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.533333333333333,
+    "x": 1.0313650659234965,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.1333333333333333,
+    "x": 2.0265996674368036,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.875,
+    "x": 1.041871157522355,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.9285714285714284,
+    "x": 1.9743948289570523,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.142857142857143,
+    "x": 1.0068845637677903,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.25,
+    "x": 1.9898844066585528,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.4444444444444444,
+    "x": 1.0211321867311594,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 1.4761904761904763,
+    "x": 2.000896183236507,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.0526315789473686,
+    "x": 0.9776851991857334,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.3636363636363638,
+    "x": 2.0025906930249473,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 0.9789870587878645,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.3333333333333335,
+    "x": 1.9814469119535132,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.5384615384615385,
+    "x": 0.9874840802583547,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.764705882352941,
+    "x": 2.0096794398176567,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.2,
+    "x": 1.0259219652404161,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.15,
+    "x": 1.9839110486777989,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.75,
+    "x": 0.98526598184088,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.5714285714285716,
+    "x": 1.990238617134261,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.2777777777777777,
+    "x": 0.9996003480905887,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.5,
+    "x": 2.0285596496990417,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.6666666666666665,
+    "x": 1.0491089381271916,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.000311155859077,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.3333333333333335,
+    "x": 1.031432830772309,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.176470588235294,
+    "x": 1.9958420641740893,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.588235294117647,
+    "x": 0.9546244044806304,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.6923076923076925,
+    "x": 2.0449089659846305,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.764705882352941,
+    "x": 0.9587757514160096,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.5384615384615383,
+    "x": 1.9837616825349542,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.4285714285714284,
+    "x": 1.044805708636973,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.8125,
+    "x": 2.0165724828937,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.272727272727273,
+    "x": 1.0092253894120988,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.0261115195569444,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 1.0137333484287179,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.0714285714285716,
+    "x": 2.0225421680064284,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.6153846153846154,
+    "x": 1.0198401109032151,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.6470588235294117,
+    "x": 2.0152999300312078,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 0.9552224495058655,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.3684210526315788,
+    "x": 1.9750771959912279,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.9375,
+    "x": 0.9753502879565523,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.642857142857143,
+    "x": 1.9716756999279428,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.4,
+    "x": 0.9556020036027094,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.25,
+    "x": 2.0380356425076647,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.6666666666666665,
+    "x": 1.0201957279693454,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.761904761904762,
+    "x": 2.0046594858768874,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.3,
+    "x": 1.029170566983378,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.5714285714285716,
+    "x": 1.9576276415451774,
+    "valid_ratings": 7
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.6,
+    "x": 0.993850498059961,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.9,
+    "x": 1.9679811763854185,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.2142857142857142,
+    "x": 0.9885314514717934,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 1.4666666666666666,
+    "x": 1.9610470486114633,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.8333333333333333,
+    "x": 0.9558752268268145,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 2.016043902258278,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.7857142857142856,
+    "x": 1.040159524156796,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.6875,
+    "x": 1.9709913167839492,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 0.9500896517409917,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.2142857142857144,
+    "x": 1.9955902850643834,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.769230769230769,
+    "x": 1.0094407465891204,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.764705882352941,
+    "x": 1.9609477372052564,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.066666666666667,
+    "x": 1.0174159967739689,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.6,
+    "x": 1.9638204678493074,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.0555555555555554,
+    "x": 0.9674439581049207,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.1666666666666665,
+    "x": 2.0344414490877183,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 0.9627442813400773,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.272727272727273,
+    "x": 1.9653895378487745,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.8,
+    "x": 1.0245351110385195,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.466666666666667,
+    "x": 2.0342291784890856,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.2222222222222223,
+    "x": 0.9689605108326651,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.3333333333333335,
+    "x": 2.0115196141727627,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.6666666666666667,
+    "x": 0.9745056627330095,
+    "valid_ratings": 3
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.4285714285714284,
+    "x": 1.9992848787410331,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.5789473684210527,
+    "x": 1.0040406505226767,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.272727272727273,
+    "x": 1.980220564210041,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.55,
+    "x": 0.9617552022723742,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.8,
+    "x": 1.9685389059486547,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.3571428571428572,
+    "x": 1.03320170259656,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 1.5,
+    "x": 1.9582604339422836,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.388888888888889,
+    "x": 0.9653544957894027,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.75,
+    "x": 1.9662766660800488,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.7222222222222223,
+    "x": 0.9979614718196116,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.0833333333333335,
+    "x": 2.0458014099156387,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.1666666666666665,
+    "x": 1.0255386765244934,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.5,
+    "x": 1.9558972247589597,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.3125,
+    "x": 0.9519988690333308,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.0163248146551074,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.5714285714285716,
+    "x": 0.9834919129709939,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.2222222222222223,
+    "x": 1.9709015390171114,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.2,
+    "x": 1.034853922087979,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.2,
+    "x": 1.9876380018771203,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0457357162741359,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 1.9686735995191593,
+    "valid_ratings": 6
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.1666666666666665,
+    "x": 1.0326087199225098,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.8333333333333335,
+    "x": 1.9817779187588154,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.5833333333333335,
+    "x": 1.0423564968364962,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.2222222222222223,
+    "x": 1.9714733579810808,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.2,
+    "x": 0.9998421188025707,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.4,
+    "x": 2.032932538917292,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.466666666666667,
+    "x": 1.0375233494304257,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.2,
+    "x": 2.013574028869697,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.769230769230769,
+    "x": 0.9526544754391818,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.8823529411764706,
+    "x": 1.999946771431248,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.619047619047619,
+    "x": 1.0331264512163802,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 1.6666666666666667,
+    "x": 1.9578100841087431,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.5,
+    "x": 0.9505300645924145,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.2222222222222223,
+    "x": 1.9845705064054786,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.0555555555555554,
+    "x": 0.9517541987603048,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.25,
+    "x": 2.0113084051243826,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.1,
+    "x": 1.0276652067537306,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.0355706661525312,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.5454545454545454,
+    "x": 0.954427398897809,
+    "valid_ratings": 22
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.75,
+    "x": 2.049848571317415,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.75,
+    "x": 0.9854260375016138,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.1363636363636362,
+    "x": 1.977773332075687,
+    "valid_ratings": 22
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.6666666666666667,
+    "x": 1.0231794510948278,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 1.4,
+    "x": 2.0046374703299517,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.875,
+    "x": 0.959937545130731,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.5,
+    "x": 1.995481638819529,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.6666666666666665,
+    "x": 0.96208101731673,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.1666666666666665,
+    "x": 1.964304780512587,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 1.0057021237448271,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.8666666666666667,
+    "x": 2.001893503917971,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 0.9785782732206886,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 4.0,
+    "x": 1.9838630910768826,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.9230769230769231,
+    "x": 1.042714896387467,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.176470588235294,
+    "x": 2.009153447785714,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.7142857142857144,
+    "x": 1.0090762981661705,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.066666666666667,
+    "x": 2.0445067793776057,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.9333333333333333,
+    "x": 1.0312063551925972,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.8,
+    "x": 1.98977669877559,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.8333333333333335,
+    "x": 1.0087156602112308,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.1666666666666665,
+    "x": 1.957289081233605,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.2,
+    "x": 1.0245515710933046,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.533333333333333,
+    "x": 2.0461580075766586,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.0588235294117645,
+    "x": 1.0451370904350572,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.1538461538461537,
+    "x": 2.0191766376553195,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.3684210526315788,
+    "x": 0.978200669591651,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.3636363636363638,
+    "x": 2.0165066039848085,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 1.0422353826794035,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.0,
+    "x": 1.9674175398958145,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.3529411764705883,
+    "x": 1.0268456790295755,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.3846153846153846,
+    "x": 2.0471569121746893,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.9375,
+    "x": 0.9917719916527832,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 1.8571428571428572,
+    "x": 2.0342265193079387,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.5714285714285716,
+    "x": 0.9604792462682314,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.375,
+    "x": 2.002438813329752,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 4.125,
+    "x": 1.0382133484725111,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 4.785714285714286,
+    "x": 2.0449193716548555,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.111111111111111,
+    "x": 1.0301279552758618,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.8095238095238093,
+    "x": 1.9675791955540998,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.5,
+    "x": 0.9521790092934616,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.008054657327583,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.411764705882353,
+    "x": 0.97772593799858,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.5384615384615383,
+    "x": 2.025330011687927,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.0714285714285716,
+    "x": 0.9594958856015611,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.625,
+    "x": 1.9721277295371182,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 4.0,
+    "x": 0.9514221616318096,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 4.230769230769231,
+    "x": 2.01272163037684,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.7857142857142856,
+    "x": 0.9553725445594871,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.3125,
+    "x": 2.020863661815761,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.3076923076923075,
+    "x": 0.9529984071132079,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.9411764705882355,
+    "x": 1.955060783479924,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.588235294117647,
+    "x": 1.0221061399414313,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.6923076923076925,
+    "x": 1.9949288358128918,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.7272727272727273,
+    "x": 0.9573100517981841,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.75,
+    "x": 1.9519603493949609,
+    "valid_ratings": 8
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 4.111111111111111,
+    "x": 1.0319471294437075,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 4.2727272727272725,
+    "x": 2.0307944181894073,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.5833333333333335,
+    "x": 1.0481237324467698,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.2222222222222223,
+    "x": 1.9607441315831808,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.210526315789474,
+    "x": 1.0270064138088093,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.909090909090909,
+    "x": 1.9643331268019888,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.6153846153846154,
+    "x": 1.0057433726277307,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.1176470588235294,
+    "x": 2.047635837225995,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.210526315789474,
+    "x": 0.963759423549384,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.1818181818181817,
+    "x": 1.9530422026005103,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.857142857142857,
+    "x": 0.9971963961225802,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 4.0625,
+    "x": 1.9673821217982939,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 4.181818181818182,
+    "x": 1.0167719733611935,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 4.052631578947368,
+    "x": 2.0212271153971004,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.3333333333333335,
+    "x": 1.012230700686937,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 1.8,
+    "x": 2.043847896287278,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.9444444444444444,
+    "x": 1.012463323952884,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.1666666666666665,
+    "x": 2.0032095362825677,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.111111111111111,
+    "x": 1.0299922527142493,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.238095238095238,
+    "x": 1.9576720424377538,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.3333333333333335,
+    "x": 1.0448196569226846,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.857142857142857,
+    "x": 2.0055821742145703,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.176470588235294,
+    "x": 1.028793567504209,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.1538461538461537,
+    "x": 1.954041422945142,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.473684210526316,
+    "x": 1.0375315921157564,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.3636363636363638,
+    "x": 2.0279588702637987,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.0,
+    "x": 1.0311713472339226,
+    "valid_ratings": 6
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 1.125,
+    "x": 1.9651005231852299,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.0,
+    "x": 1.0261629548189535,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.0588235294117645,
+    "x": 1.9749417801189089,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.0,
+    "x": 0.9924523737716922,
+    "valid_ratings": 7
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.5454545454545454,
+    "x": 2.034131821473083,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.272727272727273,
+    "x": 1.037618278316236,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.7777777777777777,
+    "x": 1.987861808817556,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.736842105263158,
+    "x": 1.0348911021477567,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.6363636363636362,
+    "x": 1.9561592267892554,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.2,
+    "x": 0.9989956700460996,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.2,
+    "x": 1.9786236651708318,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.4615384615384617,
+    "x": 1.0462208048934325,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.411764705882353,
+    "x": 2.0114512725185496,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.727272727272727,
+    "x": 1.0022957125375636,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.6842105263157894,
+    "x": 1.9715810536711402,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.6923076923076923,
+    "x": 1.0422129327542509,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 1.8235294117647058,
+    "x": 1.9689781801264885,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.7692307692307692,
+    "x": 0.9816548659915779,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.9411764705882355,
+    "x": 1.9970652900218488,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 1.5294117647058822,
+    "x": 1.0316265173797623,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.769230769230769,
+    "x": 2.029851072506703,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.5,
+    "x": 1.0139732033160644,
+    "valid_ratings": 12
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.4444444444444446,
+    "x": 2.0136336046475143,
+    "valid_ratings": 18
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.642857142857143,
+    "x": 0.9778771898811456,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.875,
+    "x": 1.9666987801018732,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.3529411764705883,
+    "x": 1.0334294562448971,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 4.461538461538462,
+    "x": 1.99386056602276,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.0714285714285716,
+    "x": 1.0102637873967888,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.0,
+    "x": 2.0235587218128037,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.727272727272727,
+    "x": 0.9838856268731131,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.3157894736842106,
+    "x": 2.025684883442202,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.0,
+    "x": 0.9673014295134267,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.4375,
+    "x": 2.005067107495941,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.5,
+    "x": 0.9904342447482368,
+    "valid_ratings": 10
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.5,
+    "x": 2.009257560006089,
+    "valid_ratings": 20
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.3333333333333335,
+    "x": 1.0379149328181851,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.4,
+    "x": 1.954257937182179,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.111111111111111,
+    "x": 1.0122656919135113,
+    "valid_ratings": 9
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.3333333333333335,
+    "x": 1.962081281402622,
+    "valid_ratings": 21
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.533333333333333,
+    "x": 1.0224318660816403,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.2666666666666666,
+    "x": 2.0436625937673294,
+    "valid_ratings": 15
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.1538461538461537,
+    "x": 0.982904219070647,
+    "valid_ratings": 13
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.6470588235294117,
+    "x": 1.9860546713460256,
+    "valid_ratings": 17
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.5714285714285716,
+    "x": 1.0363578238383577,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 2.75,
+    "x": 2.0024360456732704,
+    "valid_ratings": 16
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 3.272727272727273,
+    "x": 1.0385101640069827,
+    "valid_ratings": 11
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.526315789473684,
+    "x": 2.0343207892487767,
+    "valid_ratings": 19
+  },
+  {
+    "criterion": "Worth",
+    "label": "AI",
+    "rating": 2.357142857142857,
+    "x": 1.0171749947553401,
+    "valid_ratings": 14
+  },
+  {
+    "criterion": "Worth",
+    "label": "Human",
+    "rating": 3.25,
+    "x": 2.0439530751171358,
+    "valid_ratings": 16
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/droodman/inference-cost/9163c17ee7217b9f09ac51bcc71ed64c18c04bc8/data/cost_truncated_curves.csv",
+  "commit": "9163c17ee7217b9f09ac51bcc71ed64c18c04bc8",
+  "retrieved_on": "2026-10-09",
+  "raw_sha256": "578091c3ee84dffeefe71bdefdbb799344e180f7e0293fb0d47216be6eea79e4",
+  "derived_rows": 15,
+  "benchmark": "GPQA",
+  "method": "Source model-name cleaning; means by model/benchmark/effort/budget; earliest registry prefix-matched release date; minimum cost reaching threshold among models released by date. Retrospective source prices, not a contemporaneous API price history. No fitted trend, interpolation of accuracy, or extrapolation.",
+  "reuse": "Public chart contains 15 derived factual records with attribution. Raw third-party cost dataset and preparation code are not redistributed in this release; no licence claim is made for those raw files."
+}

@@ -1,130 +1,95 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-palette="persimmon" data-wordmark="fraunces">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Conrad | PP434 chart portfolio</title>
-<link rel="stylesheet" href="site.css">
+<link rel="stylesheet" href="site.css?v=20261016-release">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<script src="appearance.js?v=20261016-release">
+</script>
 <script defer src="https://cdn.jsdelivr.net/npm/vega@6.4.0">
 </script>
 <script defer src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.3">
 </script>
 <script defer src="https://cdn.jsdelivr.net/npm/vega-embed@7.3.0">
 </script>
-<script defer src="charts.js">
+<script defer src="charts.js?v=20261016-release2">
 </script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="shell masthead">
 <a class="name" href="index.html">Conrad</a>
-<nav aria-label="Main navigation">
-<a href="index.html" >Home</a>
-<a href="portfolio.html" aria-current="page">Charts</a>
-<a href="https://github.com/coderadinho/coderadinho.github.io">GitHub</a>
-</nav>
+<nav aria-label="Main navigation"><a href="index.html">Home</a><a href="work.html">Projects</a><a href="thoughts.html">Thoughts</a><a href="portfolio.html" aria-current="page">PP434</a></nav>
+<button class="mode-toggle" type="button" data-mode-toggle aria-label="Switch to light mode">Light mode</button>
 </header>
 <main class="shell" id="main">
-<div class="intro">
-<h1>Chart portfolio</h1>
-<p>PP434 · Weekly chart exercises</p>
-<div class="jump-links">
-<a href="#week2">Week 2</a>
-<a href="#week1">Week 1</a>
-</div>
-</div>
-<h2 id="week2">Week 2</h2>
-<section class="chart-section" id="metr-section" aria-labelledby="metr-title">
-<div class="chart-header">
-<div>
-<h3 id="metr-title">AI task-completion horizons</h3>
+<div class="intro"><h1>Portfolio</h1>
+<nav class="course-nav" aria-label="PP434 navigation"><a href="portfolio.html" aria-current="page">Portfolio</a><a href="project.html">Final project</a></nav>
+<div class="jump-links"><a href="#cc4">CC4 · Preferences</a> <a href="#cc3">CC3 · Access</a> <a href="#week2">Earlier exercises</a> <a href="#week1">Week 1</a></div></div>
+<section class="cc-section" id="cc4">
+<p class="eyebrow">CC4 · Replication and improvement</p>
+<h2>Creator labels and preferences</h2>
+<div class="cc4-comparison-grid"><div class="cc4-comparison-item"><h3>1. Published original</h3>
+<figure><img class="cc-source-image" src="data/cc4-original-figure2.jpg" alt="Bellaiche Figure 2: Liking, Beauty, Profundity and Worth distributions for AI and Human labels, with means and standard errors"></figure>
+<p>Bellaiche et al. (2023), Study 1, Figure 2. CC BY 4.0. <a href="https://ai-scholar.tech/en/articles/image-generation%2Fai_art_vs_human_art">AI-Scholar coverage</a> · <a href="https://doi.org/10.1186/s41235-023-00499-6">Original study</a> · <a href="data/cc4-provenance.json">Source and method record</a></p>
+</div><div class="cc4-comparison-item"><h3>2. Vega-Lite recreation</h3>
+<figure><div class="cc-replica-scroll" tabindex="0" role="region" aria-label="Original-style four-panel chart; scroll horizontally on small screens"><div class="chart" id="cc4-recreation" data-spec="charts/cc4-preferences-recreation.json" data-preserve-style="true"></div></div></figure>
+<p><a href="charts/cc4-preferences-recreation.json">Chart JSON</a> · <a href="data/cc4-preferences-points.json">Plot data</a></p>
+</div></div><h3>3. Revised comparison</h3>
+<figure><div class="chart" id="cc4-improved" data-spec="charts/cc4-preferences-improved.json"></div></figure>
+<p>Same participant-weighted means and ±1 SEM, on the full 1–5 rating scale. Explicit creator-label wording; shared axis, direct values and redundant point shapes. <a href="charts/cc4-preferences-improved.json">Chart JSON</a> · <a href="data/cc4-preferences-means.json">Summary data</a> · <a href="https://osf.io/cgw8v/">Study data</a></p>
+<h3 class="copy-label">Improvement</h3>
+<p>Beyond compactness, the revision makes the within-class difference between AI and human works far more apparent and directly comparable.</p>
+</section>
+<section class="cc-section" id="cc3">
+<p class="eyebrow">CC3 · Policy debate</p>
+<h2>Affordable AI access</h2>
+<h3 class="copy-label">Policy topic · AI Access</h3>
+<p>The market is driving costs of inference down dramatically over time. Regulation will have to reckon with far more than a chokepoint of major players.</p>
+<h3>Cost at a fixed GPQA score</h3>
+<p><a href="charts/cc3-equivalent-cost.json">Chart JSON</a> · <a href="data/epoch-cost-frontier.json">Data</a> · <a href="https://epoch.ai/publications/the-plunging-price-of-thought">Epoch source</a></p>
+<figure><div class="chart" id="cc3-cost" data-spec="charts/cc3-equivalent-cost.json"></div></figure>
+<p>GPQA · USD/question · Log scale · Retrospective source prices by model release date, not historical API prices. Snapshot: 9 October 2026. <a href="data/sources/epoch-inference-cost/provenance.json">Method and provenance</a></p>
+<h3>Consumer hardware and frontier performance</h3>
+<p><a href="charts/cc3-consumer-access.json">Chart JSON</a> · <a href="data/cc3-consumer-frontiers.json">Data</a> · <a href="https://epoch.ai/data-insights/consumer-gpu-model-gap">Epoch source</a></p>
+<figure><div class="chart" id="cc3-access" data-spec="charts/cc3-consumer-access.json"></div></figure>
+<p>Record benchmark scores · Article snapshot: 15 August 2025; retrieved 15 October 2026. Consumer selection follows Epoch’s hardware criteria. <a href="data/sources/epoch-consumer-access/provenance.json">Method and provenance</a></p>
+<h3 class="copy-label">Findings</h3>
+<p>Models on consumer hardware are right behind the frontier by approximately one year. Meanwhile costs of inference are rapidly falling, on a log scale no less!</p>
+</section>
+<section class="cc-section" id="week2">
+<h2>Week 2</h2>
+<h3>AI task-completion horizons</h3>
 <p>METR Horizon v1.1 · Model release date and human task duration</p>
-</div>
-<div class="chart-links">
-<a href="charts/metr-horizons.json">Chart JSON</a>
-<a href="https://metr.org/time-horizons/">METR</a>
-</div>
-</div>
-<figure>
-<div class="chart" id="metr" data-spec="charts/metr-horizons.json"  aria-label="AI task-completion horizons">
-</div>
-<figcaption>Choose 50% or 80% predicted success. Bars show published uncertainty bounds. Triangles flag estimates above the source’s 16-hour measurement limit. Task duration refers to human completion time, not how long the AI runs. Snapshot retrieved 9 October 2026; source page last updated 8 September 2026 and no longer actively updated.</figcaption>
-</figure>
-</section>
-<section class="chart-section" id="epoch-section" aria-labelledby="epoch-title">
-<div class="chart-header">
-<div>
-<h3 id="epoch-title">Language-model training compute</h3>
+<p><a href="charts/metr-horizons.json">Chart JSON</a> <a href="https://metr.org/time-horizons/">METR</a></p>
+<figure><div class="chart" id="metr" data-spec="charts/metr-horizons.json"></div></figure>
+<p>Choose 50% or 80% predicted success. Bars show published uncertainty bounds. Triangles flag estimates above the source’s 16-hour measurement limit. Task duration refers to human completion times. Snapshot retrieved 9 October 2026; source page last updated 8 September 2026 and no longer actively updated.</p>
+<h3>Language-model training compute</h3>
 <p>Epoch AI · Publication date and training-compute estimates</p>
-</div>
-<div class="chart-links">
-<a href="charts/epoch-compute.json">Chart JSON</a>
-<a href="https://epoch.ai/data/ai-models">Epoch AI</a>
-</div>
-</div>
-<figure>
-<div class="chart" id="epoch" data-spec="charts/epoch-compute.json"  aria-label="Language-model training compute">
-</div>
-<figcaption>Language-domain records published from 2017 to 9 October 2026 with positive compute estimates; missing estimates excluded. Filter by the source’s confidence labels. Training compute is measured in FLOP, not model capability. Data: Epoch AI, CC BY. Snapshot retrieved 9 October 2026; source updated 8 October 2026.</figcaption>
-</figure>
+<p><a href="charts/epoch-compute.json">Chart JSON</a> <a href="https://epoch.ai/data/ai-models">Epoch AI</a></p>
+<figure><div class="chart" id="epoch" data-spec="charts/epoch-compute.json"></div></figure>
+<p>Language-domain records published from 2017 to 9 October 2026 with positive compute estimates; missing estimates excluded. Filter by the source’s confidence labels. Training compute is measured in FLOPs, not model capability. Data: Epoch AI, CC BY. Snapshot retrieved 9 October 2026; source updated 8 October 2026.</p>
 </section>
-<section class="chart-section">
-<h2 id="week1">Week 1</h2>
-</section>
-<section class="chart-section" id="week1-example-section" aria-labelledby="week1-example-title">
-<div class="chart-header">
-<div>
-<h3 id="week1-example-title">Week 1: embedded chart</h3>
+<section class="cc-section" id="week1">
+<h2>Week 1</h2>
+<h3>Embedded Data Lab chart</h3>
 <p>Existing course example</p>
-</div>
-<div class="chart-links">
-<a href="charts/week1-example.json">Chart JSON</a>
-<a href="https://github.com/EconomicsObservatory/courses/blob/main/2/s2_chart2.json">Original JSON</a>
-</div>
-</div>
-<figure>
-<div class="chart" id="week1-example" data-spec="charts/week1-example.json" data-responsive="true" aria-label="Week 1: embedded chart">
-</div>
-<figcaption>Existing example retained for continuity; chart content and data come from the linked course source.</figcaption>
-</figure>
-</section>
-<section class="chart-section" id="week1-gdp-section" aria-labelledby="week1-gdp-title">
-<div class="chart-header">
-<div>
-<h3 id="week1-gdp-title">Week 1: GDP per capita</h3>
+<p><a href="charts/week1-example.json">Chart JSON</a> <a href="https://github.com/EconomicsObservatory/courses/blob/main/2/s2_chart2.json">Original JSON</a></p>
+<figure><div class="chart" id="week1-example" data-spec="charts/week1-example.json" data-responsive="true"></div></figure>
+<h3>Embedded GDP per capita chart</h3>
 <p>Existing World Bank example</p>
-</div>
-<div class="chart-links">
-<a href="wk1_chart2.json">Chart JSON</a>
-<a href="https://github.com/EconomicsObservatory/courses/blob/main/1/s1_example_data/chart2_GDP_pc_6_countries.csv">Original data</a>
-</div>
-</div>
-<figure>
-<div class="chart" id="week1-gdp" data-spec="wk1_chart2.json" data-responsive="true" aria-label="Week 1: GDP per capita">
-</div>
-<figcaption>Existing chart and data retained. The supplied specification labels the measure “Current International USD, PPP”; its original title and units have not been independently reconciled.</figcaption>
-</figure>
-</section>
-<section class="chart-section" id="ibl" aria-labelledby="ibl-title">
-<div class="chart-header">
-<div>
-<h3 id="ibl-title">IBL model results</h3>
-<p>ST443 project</p>
-</div>
-<div class="chart-links">
-<a href="https://github.com/coderadinho/coderadinho/blob/main/Plots/plot_model_results.png">Original figure</a>
-</div>
-</div>
-<figure>
-<img class="work-image" src="assets/st443-ibl-results.png" alt="ST443 IBL model-results figure">
-<figcaption>Existing project visual, retained from the previous website.</figcaption>
-</figure>
+<p><a href="wk1_chart2.json">Chart JSON</a> <a href="https://github.com/EconomicsObservatory/courses/blob/main/1/s1_example_data/chart2_GDP_pc_6_countries.csv">Original data</a></p>
+<figure><div class="chart" id="week1-gdp" data-spec="wk1_chart2.json" data-responsive="true"></div></figure>
 </section>
 </main>
 <footer class="shell">
-<span>Conrad · 2026</span>
-<a href="https://github.com/coderadinho/coderadinho.github.io/blob/main/README.md">Sources, code and technical assistance</a>
+<span>Conrad</span>
+<div class="footer-links">
+<a href="portfolio.html">PP434 portfolio</a>
+<a href="https://github.com/coderadinho">GitHub</a>
+</div>
 </footer>
 </body>
 </html>

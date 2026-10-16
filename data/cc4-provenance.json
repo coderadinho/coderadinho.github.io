@@ -1,0 +1,28 @@
+{
+  "study": "Bellaiche et al. (2023), Study 1, Figure 2",
+  "doi": "https://doi.org/10.1186/s41235-023-00499-6",
+  "media_article": "https://ai-scholar.tech/en/articles/image-generation%2Fai_art_vs_human_art",
+  "media_date": "2023-07-25",
+  "media_verification": "Search-index text retrieved 2026-10-15 explicitly identifies Figure 2 and the study; live domain failed DNS. Source-type fit provisional until the live media image can be inspected. Figure image retained from the primary paper, not downloaded from AI-Scholar.",
+  "data_url": "https://osf.io/download/xfs8m/",
+  "data_sha256": "e729acc10df1bd980b44279565a561802e4e8477a87c06ef7587d8175567ebe9",
+  "retrieved": "2026-10-15",
+  "method": "Per participant and criterion, average nonmissing ratings for each ImageN_Condition. Condition 1 mapped to AI and 2 to Human by matching the published Figure 2 distributions and positive human-minus-AI t statistics; all four reproduced to 0.001. NA ratings excluded, never zero-filled. Each participant weighted equally. Jitter seeded 434, independently generated. Original author plotting code not retrieved or used.",
+  "n": 149,
+  "points": 1192,
+  "summary_rows": 8,
+  "validation_t": {
+    "Liking": 2.6440218072891613,
+    "Beauty": 3.498697139519923,
+    "Profundity": 7.72445757171451,
+    "Worth": 10.041885103144335
+  },
+  "uncertainty": "Group whiskers are +/- SEM to match original. Optional paired contrasts data carry unadjusted two-sided 95% t intervals, df148; not used for source stars or group whiskers.",
+  "image": "Figure 2 extracted unchanged from page 6 of the Cambridge open-access author copy, CC BY 4.0 paper; cite all authors via DOI.",
+  "limitations": [
+    "Randomized label effect, not a comparison of actual AI and human artists",
+    "Original jitter positions differ; axes, panels, colour families and plotted data reconstructed independently",
+    "Ordinal rating averages shown on the original 1-5 scale",
+    "Current preferences and technology cannot be inferred from this 2023 experiment"
+  ]
+}

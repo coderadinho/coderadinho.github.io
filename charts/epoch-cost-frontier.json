@@ -1,0 +1,92 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "width": "container",
+  "height": 330,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "data": {
+    "url": "data/epoch-cost-frontier.json"
+  },
+  "params": [
+    {
+      "name": "score",
+      "value": "75%",
+      "bind": {
+        "input": "select",
+        "options": [
+          "50%",
+          "75%",
+          "90%"
+        ],
+        "name": "Minimum GPQA score: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.threshold === score"
+    }
+  ],
+  "mark": {
+    "type": "line",
+    "interpolate": "step-after",
+    "point": true,
+    "color": "#edaf75"
+  },
+  "encoding": {
+    "x": {
+      "field": "release_date",
+      "type": "temporal",
+      "title": "Model release",
+      "axis": {
+        "format": "%b %Y",
+        "tickCount": 5
+      }
+    },
+    "y": {
+      "field": "cost_usd",
+      "type": "quantitative",
+      "title": "Estimated USD per question (log scale)",
+      "scale": {
+        "type": "log"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "model",
+        "title": "Record-setting model"
+      },
+      {
+        "field": "accuracy",
+        "type": "quantitative",
+        "format": ".1%",
+        "title": "Estimated score"
+      },
+      {
+        "field": "cost_usd",
+        "type": "quantitative",
+        "format": ".5f",
+        "title": "USD per question"
+      },
+      {
+        "field": "release_date",
+        "type": "temporal",
+        "title": "Release"
+      },
+      {
+        "field": "effort"
+      },
+      {
+        "field": "budget"
+      }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "font": "Avenir Next, Trebuchet MS, sans-serif"
+  }
+}

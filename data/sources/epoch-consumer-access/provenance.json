@@ -1,0 +1,20 @@
+{
+  "source_url": "https://epoch.ai/data-insights/consumer-gpu-model-gap",
+  "title": "Frontier AI performance becomes accessible on consumer hardware within a year",
+  "authors": [
+    "Venkat Somala",
+    "Luke Emberson"
+  ],
+  "published": "2025-08-15",
+  "retrieved": "2026-10-15",
+  "raw_html_sha256": "d603483370cadd47083ebba8e4db7254550a69a6efac4e44eb8770a897ee58c3",
+  "table_rows": 69,
+  "derived_record_points": 45,
+  "method": "Extract first consumer and frontier HTML tables; ignore repeated rendered tables; filter nonmissing GPQA-Diamond and MMLU-Pro scores, dated no later than article publication; keep record-high score per group and benchmark at each release date. No extrapolation or inferred missing scores.",
+  "limits": [
+    "Historical article snapshot, not current October 2026 frontier",
+    "Consumer eligibility is the article hardware/quantization selection, not a fresh local run",
+    "Benchmark score does not establish equal latency, reliability or real-world usefulness"
+  ],
+  "license_note": "Epoch page CC BY attribution; preserve any third-party data-source conditions."
+}

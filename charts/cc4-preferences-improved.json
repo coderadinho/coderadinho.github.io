@@ -1,0 +1,242 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "width": "container",
+  "height": 380,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "title": {
+    "text": "Ratings by assigned creator label",
+    "subtitle": [
+      "All 30 pictures were AI-generated \u00b7 Study 1, n = 149",
+      "Participant mean ratings; whiskers = \u00b11 standard error"
+    ]
+  },
+  "data": {
+    "url": "data/cc4-preferences-means.json"
+  },
+  "encoding": {
+    "y": {
+      "field": "criterion",
+      "type": "nominal",
+      "sort": [
+        "Liking",
+        "Beauty",
+        "Profundity",
+        "Worth"
+      ],
+      "title": null,
+      "axis": {
+        "labelLimit": 110
+      }
+    }
+  },
+  "layer": [
+    {
+      "transform": [
+        {
+          "aggregate": [
+            {
+              "op": "min",
+              "field": "mean",
+              "as": "minimum"
+            },
+            {
+              "op": "max",
+              "field": "mean",
+              "as": "maximum"
+            }
+          ],
+          "groupby": [
+            "criterion"
+          ]
+        }
+      ],
+      "mark": {
+        "type": "rule",
+        "color": "#777",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "x": {
+          "field": "minimum",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              1,
+              5
+            ]
+          },
+          "title": "Mean rating (1\u20135)"
+        },
+        "x2": {
+          "field": "maximum"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "rule",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "x": {
+          "field": "low",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              1,
+              5
+            ]
+          },
+          "title": "Mean rating (1\u20135)"
+        },
+        "x2": {
+          "field": "high"
+        },
+        "color": {
+          "field": "label",
+          "type": "nominal",
+          "title": "Creator label",
+          "scale": {
+            "domain": [
+              "AI",
+              "Human"
+            ],
+            "range": [
+              "#a9bcb3",
+              "#e99b66"
+            ]
+          },
+          "legend": {
+            "orient": "bottom",
+            "labelExpr": "datum.label + '-labelled'"
+          }
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 100
+      },
+      "encoding": {
+        "x": {
+          "field": "mean",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              1,
+              5
+            ]
+          },
+          "title": "Mean rating (1\u20135)"
+        },
+        "color": {
+          "field": "label",
+          "type": "nominal",
+          "title": "Creator label",
+          "scale": {
+            "domain": [
+              "AI",
+              "Human"
+            ],
+            "range": [
+              "#a9bcb3",
+              "#e99b66"
+            ]
+          },
+          "legend": {
+            "orient": "bottom",
+            "labelExpr": "datum.label + '-labelled'"
+          }
+        },
+        "shape": {
+          "field": "label",
+          "scale": {
+            "domain": [
+              "AI",
+              "Human"
+            ],
+            "range": [
+              "circle",
+              "diamond"
+            ]
+          },
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "criterion"
+          },
+          {
+            "field": "label",
+            "title": "Assigned label"
+          },
+          {
+            "field": "mean",
+            "format": ".3f"
+          },
+          {
+            "field": "n",
+            "title": "Participants"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "dy": {
+          "expr": "datum.label === 'AI' ? -12 : 12"
+        },
+        "fontSize": 12
+      },
+      "encoding": {
+        "x": {
+          "field": "mean",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "mean",
+          "format": ".2f"
+        },
+        "color": {
+          "field": "label",
+          "type": "nominal",
+          "title": "Creator label",
+          "scale": {
+            "domain": [
+              "AI",
+              "Human"
+            ],
+            "range": [
+              "#a9bcb3",
+              "#e99b66"
+            ]
+          },
+          "legend": {
+            "orient": "bottom",
+            "labelExpr": "datum.label + '-labelled'"
+          }
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12
+    },
+    "title": {
+      "anchor": "start",
+      "fontSize": 18,
+      "subtitleFontSize": 12,
+      "offset": 18
+    }
+  }
+}

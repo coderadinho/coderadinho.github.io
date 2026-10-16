@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ibl",
+    "title": "Learning from neural recordings",
+    "course": "ST443 · Machine learning",
+    "image": "assets/st443-ibl-results.png",
+    "short": "Predicting mouse behaviour from noisy neural recordings, comparing six feature selection approaches.",
+    "question": "How well can neural recordings predict mouse behaviour, and how much complexity is useful?",
+    "contribution": "I trained and compared predictive models and feature-selection approaches in noisy, correlated neural data. This figure plots balanced accuracy against the number of selected features.",
+    "read": "Each point is a model; higher is better balanced accuracy, while farther right means more selected features.",
+    "source": "https://github.com/coderadinho/coderadinho/blob/main/Plots/plot_model_results.png",
+    "status": ""
+  },
+  {
+    "id": "st449",
+    "title": "Learning to play 2048",
+    "course": "ST449 · Reinforcement learning · Group project",
+    "image": "assets/projects/st449-learning.png",
+    "short": "Comparing learning algorithms, exploration and reward design in the stochastic puzzle game of 2048.",
+    "question": "How do value-function design, exploration and rewards change the way an agent learns to play 2048?",
+    "contribution": "I wrote the code and produced all the graphs for this group project, beyond drafting the problem formulation, methods section, and contributing across the final submission. The experiments compare afterstate temporal-difference learning with Q-learning, then vary exploration and reward design. TD-learning with afterstates did well, though it seems state representations affected performance far more than complex composite reward shaping.",
+    "read": "The panels track win rate, score and largest tile as training progresses. Curves compare algorithms and exploration choices, withthe notebook’s uncertainty bands represented by the shaded regions.",
+    "source": null,
+    "status": "Group project.",
+    "extra": "assets/projects/st449-rewards.png"
+  },
+  {
+    "id": "pp433",
+    "title": "Geography and civil-war participation",
+    "course": "PP433 · Replication and multilevel modelling · Individual work",
+    "image": "assets/projects/pp433-geography.png",
+    "short": "Replicating and extending Humphreys & Weinstein's (2008) study of participation in Sierra Leone’s civil war, specifically examining variation between chiefdoms.",
+    "question": "How much does the place someone lives matter when studying participation in civil war?",
+    "contribution": "I replicated Humphreys and Weinstein’s (2008) analysis and extended it with survey-weighted multilevel logistic models. I examine geographic variation alongside individual characteristics.",
+    "read": "The selected figure compares a measure of variation between chiefdoms across two model specifications. It is not a causal estimate of the effect of living in a particular place!",
+    "source": "https://doi.org/10.1111/j.1540-5907.2008.00322.x",
+    "status": "",
+    "extra": "assets/projects/pp433-coefficients.png"
+  },
+  {
+    "id": "pp422",
+    "title": "Anchors and industry in South Yorkshire",
+    "course": "PP422 · Industrial policy · Team project",
+    "image": "assets/projects/pp422-anchors.png",
+    "short": "Investigating strategic sectors, regional specialisation, and the role of institutional anchors.",
+    "question": "Where do strategic industries cluster, and how do they relate to institutional anchors?",
+    "contribution": "I drove the anchor and spatial-analysis work, including this map. I pushed for Moran’s I and LISA and carried out that analysis, examining regional clustering and the relationship between strategic industries and institutional anchors (like the University of Sheffield).",
+    "read": "Triangles mark four institutional anchors. The warmer areas have higher composite proximity scores: note contributions from each anchor diminish exponentially with distance, using a 2 km decay parameter. The map shows a constructed measure of proximity, which we test (with residuals) against local industrial concentration.",
+    "source": null,
+    "status": "",
+    "extra": "assets/projects/pp422-geography.png"
+  }
+]

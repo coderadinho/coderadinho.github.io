@@ -1,0 +1,137 @@
+[
+  {
+    "release_date": "2024-06-20",
+    "model": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.5094,
+    "cost_usd": 0.007044,
+    "effort": "default",
+    "budget": "512",
+    "threshold": "50%"
+  },
+  {
+    "release_date": "2024-07-23",
+    "model": "Llama-3.1-405B-Instruct",
+    "accuracy": 0.5083,
+    "cost_usd": 0.000732,
+    "effort": "default",
+    "budget": "2048",
+    "threshold": "50%"
+  },
+  {
+    "release_date": "2024-12-12",
+    "model": "phi-4",
+    "accuracy": 0.5371,
+    "cost_usd": 0.000108,
+    "effort": "default",
+    "budget": "1024",
+    "threshold": "50%"
+  },
+  {
+    "release_date": "2025-08-05",
+    "model": "gpt-oss-20b",
+    "accuracy": 0.5316,
+    "cost_usd": 9.1e-05,
+    "effort": "low",
+    "budget": "2048",
+    "threshold": "50%"
+  },
+  {
+    "release_date": "2024-09-12",
+    "model": "o1",
+    "accuracy": 0.7588,
+    "cost_usd": 0.251016,
+    "effort": "medium",
+    "budget": "16384",
+    "threshold": "75%"
+  },
+  {
+    "release_date": "2025-01-31",
+    "model": "o3",
+    "accuracy": 0.7576,
+    "cost_usd": 0.014467,
+    "effort": "low",
+    "budget": "4096",
+    "threshold": "75%"
+  },
+  {
+    "release_date": "2025-04-09",
+    "model": "grok-3-mini-beta",
+    "accuracy": 0.7626,
+    "cost_usd": 0.001392,
+    "effort": "low",
+    "budget": "8192",
+    "threshold": "75%"
+  },
+  {
+    "release_date": "2026-02-24",
+    "model": "qwen3.5-9B",
+    "accuracy": 0.7893,
+    "cost_usd": 0.000697,
+    "effort": "none",
+    "budget": "16384",
+    "threshold": "75%"
+  },
+  {
+    "release_date": "2026-04-02",
+    "model": "gemma-4-31b-it",
+    "accuracy": 0.7576,
+    "cost_usd": 0.000288,
+    "effort": "minimal",
+    "budget": "2048",
+    "threshold": "75%"
+  },
+  {
+    "release_date": "2025-11-18",
+    "model": "gemini-3-pro-preview",
+    "accuracy": 0.9029,
+    "cost_usd": 0.097096,
+    "effort": "default",
+    "budget": "16384",
+    "threshold": "90%"
+  },
+  {
+    "release_date": "2026-02-19",
+    "model": "gemini-3.1-pro-preview",
+    "accuracy": 0.913,
+    "cost_usd": 0.065302,
+    "effort": "default",
+    "budget": "16384",
+    "threshold": "90%"
+  },
+  {
+    "release_date": "2026-03-05",
+    "model": "gpt-5.4",
+    "accuracy": 0.9003,
+    "cost_usd": 0.046339,
+    "effort": "high",
+    "budget": "32768",
+    "threshold": "90%"
+  },
+  {
+    "release_date": "2026-04-23",
+    "model": "gpt-5.5",
+    "accuracy": 0.9066,
+    "cost_usd": 0.02327,
+    "effort": "low",
+    "budget": "4096",
+    "threshold": "90%"
+  },
+  {
+    "release_date": "2026-04-24",
+    "model": "deepseek-v4-pro",
+    "accuracy": 0.9066,
+    "cost_usd": 0.010287,
+    "effort": "high",
+    "budget": "65536",
+    "threshold": "90%"
+  },
+  {
+    "release_date": "2026-06-01",
+    "model": "MiniMax-M3",
+    "accuracy": 0.9078,
+    "cost_usd": 0.007094,
+    "effort": "default",
+    "budget": "65536",
+    "threshold": "90%"
+  }
+]

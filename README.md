@@ -1,40 +1,30 @@
 # Conrad’s website
 
-Personal homepage: `index.html`. PP434 weekly charts: `portfolio.html`.
-The portfolio contains the three existing visuals and two new Week 2 Vega-Lite charts.
-This is a provisional course foundation, not a completed final project or a claim that all portfolio challenges are complete.
+Personal site: https://coderadinho.github.io/
 
-## Week 2 data and replication
+- `index.html`: introduction and selected projects.
+- `work.html`: project cards and expanded descriptions.
+- `thoughts.html`: notes index; no abundance draft is exhibited.
+- `portfolio.html`: PP434 portfolio, newest exercises first (CC4, CC3, Week 2, Week 1).
+- `project.html`: separate final-project page, currently in development.
 
-- METR, *Task-Completion Time Horizons of Frontier AI Models*: https://metr.org/time-horizons/
-  Published Horizon v1.1 summary: https://metr.org/assets/benchmark_results_1_1.yaml
-  Citation: METR (2025), *Measuring AI Ability to Complete Long Tasks*, https://arxiv.org/abs/2503.14499
-  Human task minutes at 50% and 80% predicted success, with source uncertainty bounds. Estimates above 16 hours are flagged. Tasks mainly concern software engineering, ML and cybersecurity; they do not measure economy-wide job automation. The source page is no longer actively updated; last page update 8 September 2026.
-- Epoch AI, *Data on AI models*: https://epoch.ai/data/ai-models
-  CSV: https://epoch.ai/data/all_ai_models.csv
-  Data licensed CC BY, attribution to Epoch AI. Source page updated 8 October 2026.
-  Filter: language-domain records with publication dates between 2017-01-01 and 2026-10-09 and finite positive training compute. Source confidence labels retained. Missing estimates are excluded, not replaced with zero. This is training compute, not a capability benchmark.
+Persimmon is the fixed palette, with a light/dark switch. Fraunces is self-hosted under the SIL Open Font License included in `assets/fonts/`. The site is static HTML/CSS/JavaScript; no build system is needed. Serve locally with `python3 -m http.server` to load chart data.
 
-The downloaded originals are in `data/sources/`; derived chart data are in `data/`.
-Retrieval dates, hashes and sizes are in `data/source-manifest.json`.
-`python3 tools/build_chart_data.py` regenerates the two derived datasets from the saved originals.
-Requires Python 3 and Ruby’s standard YAML library; no web framework or build service.
-The charts are adaptations of the line/scatter Vega-Lite grammar used by the original course examples, with local datasets, interactive source-confidence/success-threshold controls and responsive sizing.
+## Data, charts and replication
 
-To refresh, download the original public URLs into their matching files, review schema/source changes, update the cutoff in the script if appropriate, rebuild, and update the manifest’s retrieval dates and hashes. Refreshing is manual; no scheduled downloads have been installed.
+Vega-Lite specifications are in `charts/`; plotted data and provenance are in `data/`. This portfolio is work in progress, not a claim that every assessment requirement is complete.
 
-Serve this folder with `python3 -m http.server 8765` to preview the site. Opening HTML directly as a file may prevent JSON loading.
+- **CC4:** Bellaiche et al. (2023), Study 1, Figure 2, https://doi.org/10.1186/s41235-023-00499-6 . Original figure CC BY 4.0. Independently reconstructed participant means from the authors’ public OSF data, https://osf.io/cgw8v/ . All pictures were AI-generated; creator labels were randomized. The chart does not compare actual human and AI artists. `data/cc4-provenance.json` records aggregation, missing-value treatment, new decorative jitter and checks against published test statistics. Mean whiskers are ±1 standard error. Raw participant data and the source PDF are not redistributed here. The AI-Scholar media reproduction was identified in indexed coverage; exact live-media-image verification remains provisional. No original author plotting code was used.
+- **CC3, costs:** Epoch AI, https://epoch.ai/publications/the-plunging-price-of-thought . Fifteen derived factual frontier records from the pinned report-linked cost analysis, with release dates, scores and costs. Prices are a retrospective snapshot, not historical API prices. Missing evaluations are not failures; no forecasts or interpolated accuracy. See `data/sources/epoch-inference-cost/provenance.json`. Raw third-party cost files are not redistributed and no raw-data licence is asserted.
+- **CC3, consumer access:** Epoch AI, https://epoch.ai/data-insights/consumer-gpu-model-gap , article dated 15 August 2025. Record-high nonmissing GPQA-Diamond/MMLU-Pro scores for the article’s consumer and frontier selections; no extrapolation. Article snapshot, not the current frontier. Source and method in `data/sources/epoch-consumer-access/provenance.json`.
+- **Week 2, task horizons:** METR Horizon v1.1, https://metr.org/time-horizons/ ; source snapshot https://metr.org/assets/benchmark_results_1_1.yaml . Human task duration at 50%/80% predicted success, with source uncertainty bounds. Estimates beyond 16 hours flagged. Primarily software, ML and cybersecurity tasks; not whole-job automation. Snapshot 9 October 2026; source page last updated 8 September 2026.
+- **Week 2, training compute:** Epoch AI, https://epoch.ai/data/ai-models , CC BY attribution to Epoch AI. Language-model records published 2017–9 October 2026 with positive estimates; missing estimates excluded and confidence labels retained. FLOPs measure resource inputs, not model capability. Source updated 8 October 2026. Existing downloaded source bytes, hashes and `tools/build_chart_data.py` are retained from the earlier public release.
+- **Week 1:** supplied course examples remain identified as examples. Their presence does not establish final CC1/CC2 compliance.
 
-## Existing work
+## Project figures
 
-The Week 1 course examples remain clearly identified as examples. The existing ST443 IBL figure is retained in `assets/st443-ibl-results.png`, from https://github.com/coderadinho/coderadinho/blob/main/Plots/plot_model_results.png. Original example files and earlier chart JSON remain preserved.
+ST443, ST449, PP433 and PP422 figures are selected outputs from Conrad’s coursework; descriptions state his contributions and team attribution. The South Yorkshire view clips only the blank lower export band, transcribes the original ONS BRES 2024 source line below it, and links the unchanged full figure. No reports, notebooks, restricted course handouts or raw project datasets are published.
 
 ## Technical assistance
 
-OpenAI Codex assisted with public-data retrieval and cleaning, Vega-Lite implementation, HTML/CSS/JavaScript, and debugging. No assessed analytical prose or conclusions have been supplied. Conrad retains topic selection, analysis and assessed writing. This disclosure records the technical assistance used in this iteration.
-
-## Checkpoint: 9 October 2026
-
-Today’s class target is two new charts using downloaded data, saved chart JSON, HTML embedding and GitHub upload (five existing/new visuals in total). This checkpoint uses those session instructions. It does not replace the separate CC1/CC2 briefs or certify completion of those challenges.
-
-Downloaded source bytes are preserved exactly, including original whitespace; `.gitattributes` exempts these snapshots from whitespace lint. This keeps the provenance hashes reproducible.
+OpenAI Codex assisted with coding, debugging, public-data retrieval/cleaning, charts, accessibility and deployment. Conrad authored the assessed portfolio text; technical assistance did not draft assessed analytical prose. Personal website copy was developed with Conrad and revised directly by him. Full source/method details remain attached to individual charts.

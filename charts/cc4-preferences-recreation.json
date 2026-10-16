@@ -1,0 +1,842 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "background": "white",
+  "padding": 16,
+  "vconcat": [
+    {
+      "hconcat": [
+        {
+          "title": "Liking",
+          "width": 210,
+          "height": 180,
+          "layer": [
+            {
+              "data": {
+                "url": "data/cc4-preferences-points.json"
+              },
+              "transform": [
+                {
+                  "filter": {
+                    "field": "criterion",
+                    "equal": "Liking"
+                  }
+                }
+              ],
+              "mark": {
+                "type": "point",
+                "filled": true,
+                "size": 15,
+                "opacity": 0.9
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.4,
+                      2.6
+                    ]
+                  },
+                  "axis": {
+                    "values": [
+                      1,
+                      2
+                    ],
+                    "labelExpr": "datum.value === 1 ? 'AI' : 'Human'",
+                    "title": null,
+                    "grid": false,
+                    "labelAngle": 0,
+                    "ticks": false
+                  }
+                },
+                "y": {
+                  "field": "rating",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.8,
+                      5.2
+                    ]
+                  },
+                  "title": "Rating",
+                  "axis": {
+                    "values": [
+                      1,
+                      2,
+                      3,
+                      4,
+                      5
+                    ],
+                    "grid": false
+                  }
+                },
+                "color": {
+                  "field": "label",
+                  "type": "nominal",
+                  "scale": {
+                    "domain": [
+                      "AI",
+                      "Human"
+                    ],
+                    "range": [
+                      "#9933ff",
+                      "#00a6ff"
+                    ]
+                  },
+                  "legend": null
+                }
+              }
+            },
+            {
+              "data": {
+                "url": "data/cc4-preferences-means.json"
+              },
+              "transform": [
+                {
+                  "filter": {
+                    "field": "criterion",
+                    "equal": "Liking"
+                  }
+                }
+              ],
+              "mark": {
+                "type": "errorbar",
+                "ticks": {
+                  "size": 40
+                },
+                "color": "#111",
+                "rule": false
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.4,
+                      2.6
+                    ]
+                  },
+                  "axis": {
+                    "values": [
+                      1,
+                      2
+                    ],
+                    "labelExpr": "datum.value === 1 ? 'AI' : 'Human'",
+                    "title": null,
+                    "grid": false,
+                    "labelAngle": 0,
+                    "ticks": false
+                  }
+                },
+                "y": {
+                  "field": "low",
+                  "type": "quantitative",
+                  "title": "Rating"
+                },
+                "y2": {
+                  "field": "high"
+                }
+              }
+            },
+            {
+              "data": {
+                "values": [
+                  {
+                    "x": 1.5,
+                    "rating": 4.6,
+                    "stars": "*"
+                  }
+                ]
+              },
+              "mark": {
+                "type": "text",
+                "fontSize": 22,
+                "fontWeight": "bold",
+                "color": "black"
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.4,
+                      2.6
+                    ]
+                  },
+                  "axis": {
+                    "values": [
+                      1,
+                      2
+                    ],
+                    "labelExpr": "datum.value === 1 ? 'AI' : 'Human'",
+                    "title": null,
+                    "grid": false,
+                    "labelAngle": 0,
+                    "ticks": false
+                  }
+                },
+                "y": {
+                  "field": "rating",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.8,
+                      5.2
+                    ]
+                  },
+                  "title": "Rating",
+                  "axis": {
+                    "values": [
+                      1,
+                      2,
+                      3,
+                      4,
+                      5
+                    ],
+                    "grid": false
+                  }
+                },
+                "text": {
+                  "field": "stars"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "title": "Beauty",
+          "width": 210,
+          "height": 180,
+          "layer": [
+            {
+              "data": {
+                "url": "data/cc4-preferences-points.json"
+              },
+              "transform": [
+                {
+                  "filter": {
+                    "field": "criterion",
+                    "equal": "Beauty"
+                  }
+                }
+              ],
+              "mark": {
+                "type": "point",
+                "filled": true,
+                "size": 15,
+                "opacity": 0.9
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.4,
+                      2.6
+                    ]
+                  },
+                  "axis": {
+                    "values": [
+                      1,
+                      2
+                    ],
+                    "labelExpr": "datum.value === 1 ? 'AI' : 'Human'",
+                    "title": null,
+                    "grid": false,
+                    "labelAngle": 0,
+                    "ticks": false
+                  }
+                },
+                "y": {
+                  "field": "rating",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.8,
+                      5.2
+                    ]
+                  },
+                  "title": null,
+                  "axis": {
+                    "values": [
+                      1,
+                      2,
+                      3,
+                      4,
+                      5
+                    ],
+                    "grid": false
+                  }
+                },
+                "color": {
+                  "field": "label",
+                  "type": "nominal",
+                  "scale": {
+                    "domain": [
+                      "AI",
+                      "Human"
+                    ],
+                    "range": [
+                      "#9933ff",
+                      "#00a6ff"
+                    ]
+                  },
+                  "legend": null
+                }
+              }
+            },
+            {
+              "data": {
+                "url": "data/cc4-preferences-means.json"
+              },
+              "transform": [
+                {
+                  "filter": {
+                    "field": "criterion",
+                    "equal": "Beauty"
+                  }
+                }
+              ],
+              "mark": {
+                "type": "errorbar",
+                "ticks": {
+                  "size": 40
+                },
+                "color": "#111",
+                "rule": false
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.4,
+                      2.6
+                    ]
+                  },
+                  "axis": {
+                    "values": [
+                      1,
+                      2
+                    ],
+                    "labelExpr": "datum.value === 1 ? 'AI' : 'Human'",
+                    "title": null,
+                    "grid": false,
+                    "labelAngle": 0,
+                    "ticks": false
+                  }
+                },
+                "y": {
+                  "field": "low",
+                  "type": "quantitative",
+                  "title": null
+                },
+                "y2": {
+                  "field": "high"
+                }
+              }
+            },
+            {
+              "data": {
+                "values": [
+                  {
+                    "x": 1.5,
+                    "rating": 4.6,
+                    "stars": "**"
+                  }
+                ]
+              },
+              "mark": {
+                "type": "text",
+                "fontSize": 22,
+                "fontWeight": "bold",
+                "color": "black"
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.4,
+                      2.6
+                    ]
+                  },
+                  "axis": {
+                    "values": [
+                      1,
+                      2
+                    ],
+                    "labelExpr": "datum.value === 1 ? 'AI' : 'Human'",
+                    "title": null,
+                    "grid": false,
+                    "labelAngle": 0,
+                    "ticks": false
+                  }
+                },
+                "y": {
+                  "field": "rating",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.8,
+                      5.2
+                    ]
+                  },
+                  "title": null,
+                  "axis": {
+                    "values": [
+                      1,
+                      2,
+                      3,
+                      4,
+                      5
+                    ],
+                    "grid": false
+                  }
+                },
+                "text": {
+                  "field": "stars"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "spacing": 16
+    },
+    {
+      "hconcat": [
+        {
+          "title": "Profundity",
+          "width": 210,
+          "height": 180,
+          "layer": [
+            {
+              "data": {
+                "url": "data/cc4-preferences-points.json"
+              },
+              "transform": [
+                {
+                  "filter": {
+                    "field": "criterion",
+                    "equal": "Profundity"
+                  }
+                }
+              ],
+              "mark": {
+                "type": "point",
+                "filled": true,
+                "size": 15,
+                "opacity": 0.9
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.4,
+                      2.6
+                    ]
+                  },
+                  "axis": {
+                    "values": [
+                      1,
+                      2
+                    ],
+                    "labelExpr": "datum.value === 1 ? 'AI' : 'Human'",
+                    "title": "Label",
+                    "grid": false,
+                    "labelAngle": 0,
+                    "ticks": false
+                  }
+                },
+                "y": {
+                  "field": "rating",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.8,
+                      5.2
+                    ]
+                  },
+                  "title": "Rating",
+                  "axis": {
+                    "values": [
+                      1,
+                      2,
+                      3,
+                      4,
+                      5
+                    ],
+                    "grid": false
+                  }
+                },
+                "color": {
+                  "field": "label",
+                  "type": "nominal",
+                  "scale": {
+                    "domain": [
+                      "AI",
+                      "Human"
+                    ],
+                    "range": [
+                      "#9933ff",
+                      "#00a6ff"
+                    ]
+                  },
+                  "legend": null
+                }
+              }
+            },
+            {
+              "data": {
+                "url": "data/cc4-preferences-means.json"
+              },
+              "transform": [
+                {
+                  "filter": {
+                    "field": "criterion",
+                    "equal": "Profundity"
+                  }
+                }
+              ],
+              "mark": {
+                "type": "errorbar",
+                "ticks": {
+                  "size": 40
+                },
+                "color": "#111",
+                "rule": false
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.4,
+                      2.6
+                    ]
+                  },
+                  "axis": {
+                    "values": [
+                      1,
+                      2
+                    ],
+                    "labelExpr": "datum.value === 1 ? 'AI' : 'Human'",
+                    "title": "Label",
+                    "grid": false,
+                    "labelAngle": 0,
+                    "ticks": false
+                  }
+                },
+                "y": {
+                  "field": "low",
+                  "type": "quantitative",
+                  "title": "Rating"
+                },
+                "y2": {
+                  "field": "high"
+                }
+              }
+            },
+            {
+              "data": {
+                "values": [
+                  {
+                    "x": 1.5,
+                    "rating": 4.6,
+                    "stars": "***"
+                  }
+                ]
+              },
+              "mark": {
+                "type": "text",
+                "fontSize": 22,
+                "fontWeight": "bold",
+                "color": "black"
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.4,
+                      2.6
+                    ]
+                  },
+                  "axis": {
+                    "values": [
+                      1,
+                      2
+                    ],
+                    "labelExpr": "datum.value === 1 ? 'AI' : 'Human'",
+                    "title": "Label",
+                    "grid": false,
+                    "labelAngle": 0,
+                    "ticks": false
+                  }
+                },
+                "y": {
+                  "field": "rating",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.8,
+                      5.2
+                    ]
+                  },
+                  "title": "Rating",
+                  "axis": {
+                    "values": [
+                      1,
+                      2,
+                      3,
+                      4,
+                      5
+                    ],
+                    "grid": false
+                  }
+                },
+                "text": {
+                  "field": "stars"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "title": "Worth",
+          "width": 210,
+          "height": 180,
+          "layer": [
+            {
+              "data": {
+                "url": "data/cc4-preferences-points.json"
+              },
+              "transform": [
+                {
+                  "filter": {
+                    "field": "criterion",
+                    "equal": "Worth"
+                  }
+                }
+              ],
+              "mark": {
+                "type": "point",
+                "filled": true,
+                "size": 15,
+                "opacity": 0.9
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.4,
+                      2.6
+                    ]
+                  },
+                  "axis": {
+                    "values": [
+                      1,
+                      2
+                    ],
+                    "labelExpr": "datum.value === 1 ? 'AI' : 'Human'",
+                    "title": "Label",
+                    "grid": false,
+                    "labelAngle": 0,
+                    "ticks": false
+                  }
+                },
+                "y": {
+                  "field": "rating",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.8,
+                      5.2
+                    ]
+                  },
+                  "title": null,
+                  "axis": {
+                    "values": [
+                      1,
+                      2,
+                      3,
+                      4,
+                      5
+                    ],
+                    "grid": false
+                  }
+                },
+                "color": {
+                  "field": "label",
+                  "type": "nominal",
+                  "scale": {
+                    "domain": [
+                      "AI",
+                      "Human"
+                    ],
+                    "range": [
+                      "#9933ff",
+                      "#00a6ff"
+                    ]
+                  },
+                  "legend": null
+                }
+              }
+            },
+            {
+              "data": {
+                "url": "data/cc4-preferences-means.json"
+              },
+              "transform": [
+                {
+                  "filter": {
+                    "field": "criterion",
+                    "equal": "Worth"
+                  }
+                }
+              ],
+              "mark": {
+                "type": "errorbar",
+                "ticks": {
+                  "size": 40
+                },
+                "color": "#111",
+                "rule": false
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.4,
+                      2.6
+                    ]
+                  },
+                  "axis": {
+                    "values": [
+                      1,
+                      2
+                    ],
+                    "labelExpr": "datum.value === 1 ? 'AI' : 'Human'",
+                    "title": "Label",
+                    "grid": false,
+                    "labelAngle": 0,
+                    "ticks": false
+                  }
+                },
+                "y": {
+                  "field": "low",
+                  "type": "quantitative",
+                  "title": null
+                },
+                "y2": {
+                  "field": "high"
+                }
+              }
+            },
+            {
+              "data": {
+                "values": [
+                  {
+                    "x": 1.5,
+                    "rating": 4.6,
+                    "stars": "***"
+                  }
+                ]
+              },
+              "mark": {
+                "type": "text",
+                "fontSize": 22,
+                "fontWeight": "bold",
+                "color": "black"
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.4,
+                      2.6
+                    ]
+                  },
+                  "axis": {
+                    "values": [
+                      1,
+                      2
+                    ],
+                    "labelExpr": "datum.value === 1 ? 'AI' : 'Human'",
+                    "title": "Label",
+                    "grid": false,
+                    "labelAngle": 0,
+                    "ticks": false
+                  }
+                },
+                "y": {
+                  "field": "rating",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [
+                      0.8,
+                      5.2
+                    ]
+                  },
+                  "title": null,
+                  "axis": {
+                    "values": [
+                      1,
+                      2,
+                      3,
+                      4,
+                      5
+                    ],
+                    "grid": false
+                  }
+                },
+                "text": {
+                  "field": "stars"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "spacing": 16
+    }
+  ],
+  "spacing": 12,
+  "config": {
+    "font": "Arial",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domainColor": "#222",
+      "tickColor": "#222",
+      "labelColor": "#333",
+      "titleColor": "#111",
+      "labelFontSize": 13,
+      "titleFontSize": 14,
+      "titleFontWeight": "normal"
+    },
+    "title": {
+      "fontSize": 17,
+      "fontWeight": "normal",
+      "color": "#111"
+    }
+  }
+}

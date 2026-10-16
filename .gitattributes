@@ -1,2 +1,10 @@
 # Preserve downloaded source bytes, including original whitespace, for hash verification.
 data/sources/* whitespace=-blank-at-eol,-blank-at-eof
+
+# Preserve binary documents, images and fonts exactly.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.ttf binary
+# Keep the upstream font licence verbatim.
+assets/fonts/*-OFL.txt whitespace=-blank-at-eol,-blank-at-eof

@@ -1,0 +1,123 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "width": "container",
+  "height": 330,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "font": "Avenir Next, sans-serif"
+  },
+  "data": {
+    "url": "data/cc3-consumer-frontiers.json"
+  },
+  "params": [
+    {
+      "name": "benchmark",
+      "value": "GPQA-Diamond",
+      "bind": {
+        "input": "select",
+        "options": [
+          "GPQA-Diamond",
+          "MMLU-Pro"
+        ],
+        "name": "Benchmark: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.benchmark === benchmark"
+    }
+  ],
+  "mark": {
+    "type": "line",
+    "interpolate": "step-after",
+    "point": true
+  },
+  "encoding": {
+    "x": {
+      "field": "date",
+      "type": "temporal",
+      "title": "Model release date",
+      "axis": {
+        "format": "%b %Y",
+        "tickCount": 5
+      }
+    },
+    "y": {
+      "field": "score",
+      "type": "quantitative",
+      "title": "Benchmark score (%)",
+      "scale": {
+        "domain": [
+          0,
+          100
+        ]
+      }
+    },
+    "color": {
+      "field": "group",
+      "type": "nominal",
+      "title": null,
+      "scale": {
+        "domain": [
+          "Consumer hardware",
+          "Frontier"
+        ],
+        "range": [
+          "#edaf75",
+          "#a5bfb1"
+        ]
+      },
+      "legend": {
+        "orient": "bottom"
+      }
+    },
+    "strokeDash": {
+      "field": "group",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Consumer hardware",
+          "Frontier"
+        ],
+        "range": [
+          [
+            1,
+            0
+          ],
+          [
+            6,
+            3
+          ]
+        ]
+      },
+      "legend": null
+    },
+    "tooltip": [
+      {
+        "field": "group"
+      },
+      {
+        "field": "model"
+      },
+      {
+        "field": "date",
+        "type": "temporal"
+      },
+      {
+        "field": "score",
+        "type": "quantitative",
+        "title": "Score (%)"
+      },
+      {
+        "field": "benchmark"
+      }
+    ]
+  }
+}

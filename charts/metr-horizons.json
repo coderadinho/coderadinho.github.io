@@ -26,7 +26,7 @@
       "labelColor": "#26374a"
     }
   },
-  "description": "METR Horizon v1.1: human task duration at 50% or 80% predicted task success. Published uncertainty bounds shown; estimates over 16 hours are flagged.",
+  "description": "METR Horizon v1.1: human task duration at 50% or 80% predicted task success. Published uncertainty bounds shown; estimates over 16 hours are flagged. Display restricted to releases from 30 November 2022 onward; original data retained.",
   "data": {
     "url": "data/metr-horizons.json"
   },
@@ -47,6 +47,9 @@
   "transform": [
     {
       "filter": "datum.threshold === success"
+    },
+    {
+      "filter": "toDate(datum.release_date) >= datetime(2022, 10, 30)"
     }
   ],
   "encoding": {
