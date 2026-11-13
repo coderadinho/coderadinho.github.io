@@ -4,17 +4,17 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Conrad | PP434 chart portfolio</title>
-<link rel="stylesheet" href="site.css?v=20261016-release">
+<link rel="stylesheet" href="site.css?v=20261113-final">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <script src="appearance.js?v=20261016-release">
 </script>
-<script defer src="https://cdn.jsdelivr.net/npm/vega@6.4.0">
+<script defer src="assets/vendor/vega.min.js">
 </script>
-<script defer src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.3">
+<script defer src="assets/vendor/vega-lite.min.js">
 </script>
-<script defer src="https://cdn.jsdelivr.net/npm/vega-embed@7.3.0">
+<script defer src="assets/vendor/vega-embed.min.js">
 </script>
-<script defer src="charts.js?v=20261016-release2">
+<script defer src="charts.js?v=20261113-final">
 </script>
 </head>
 <body>
@@ -27,7 +27,23 @@
 <main class="shell" id="main">
 <div class="intro"><h1>Portfolio</h1>
 <nav class="course-nav" aria-label="PP434 navigation"><a href="portfolio.html" aria-current="page">Portfolio</a><a href="project.html">Final project</a></nav>
-<div class="jump-links"><a href="#cc4">CC4 · Preferences</a> <a href="#cc3">CC3 · Access</a> <a href="#week2">Earlier exercises</a> <a href="#week1">Week 1</a></div></div>
+<div class="jump-links"><a href="#cc7">CC7 · Maps</a> <a href="#cc6">CC6 · Loops</a> <a href="#cc4">CC4 · Preferences</a> <a href="#cc3">CC3 · Access</a> <a href="#week2">Week 2</a> <a href="#week1">Week 1</a></div></div>
+<section class="cc-section wales-section" id="cc7">
+<p class="eyebrow">CC7 · Maps</p><h2>Wales has chips?</h2>
+<p class="course-subtitle">Semiconductor sites and electronic-component employment across Wales.</p>
+<div class="wales-map-grid"><article><h3>Sites and capabilities</h3><p class="wales-map-sub">Selected documented site areas in South Wales</p><div class="chart" id="cc7-sites" data-spec="charts/cc7-sites.json"></div><p class="wales-method">Five site areas; Imperial Park groups IQE, KLA and CSA Catapult. Locations are approximate.</p><ol class="wales-site-list"><li><strong>Imperial Park</strong><span>Materials, equipment & translation</span><a href="https://www.cardiffcapitalregion.wales/project-hub/the-foundry/" target="_blank" rel="noopener">Source ↗</a></li><li><strong>Vishay</strong><span>Wafer fabrication</span><a href="https://www.vishay.com/en/videos/corporate/newport-facility/" target="_blank" rel="noopener">Source ↗</a></li><li><strong>Microchip</strong><span>Packaging & assembly</span><a href="https://www.microchip.com/en-us/products/services/advanced-packaging" target="_blank" rel="noopener">Source ↗</a></li><li><strong>Cardiff ICS</strong><span>Research & pilot production</span><a href="https://www.cardiff.ac.uk/research-equipment/facilities/view/institute-for-compound-semiconductors" target="_blank" rel="noopener">Source ↗</a></li><li><strong>Swansea CISM</strong><span>Research & pilot production</span><a href="https://www.cism-swansea-semiconductors.co.uk/" target="_blank" rel="noopener">Source ↗</a></li></ol></article>
+<article><h3>Where is employment concentrated?</h3><p class="wales-map-sub">All 22 Welsh local authorities in 2024</p><div class="chart" id="cc7-employment" data-spec="charts/cc7-employment.json"></div><p class="wales-method">Electronic-component manufacturing employees as a percentage of all employee jobs. Hover for counts and shares.</p><details class="wales-details"><summary>Accessible data table</summary><div class="wales-table-wrap"><table><thead><tr><th>Local authority</th><th>Component jobs</th><th>Share</th></tr></thead><tbody><tr><td>Blaenau Gwent</td><td>50.0</td><td>0.28%</td></tr><tr><td>Bridgend</td><td>0.0</td><td>0.00%</td></tr><tr><td>Caerphilly</td><td>0.0</td><td>0.00%</td></tr><tr><td>Cardiff</td><td>100.0</td><td>0.04%</td></tr><tr><td>Carmarthenshire</td><td>10.0</td><td>0.01%</td></tr><tr><td>Ceredigion</td><td>0.0</td><td>0.00%</td></tr><tr><td>Conwy</td><td>0.0</td><td>0.00%</td></tr><tr><td>Denbighshire</td><td>10.0</td><td>0.02%</td></tr><tr><td>Flintshire</td><td>100.0</td><td>0.14%</td></tr><tr><td>Gwynedd</td><td>0.0</td><td>0.00%</td></tr><tr><td>Isle of Anglesey</td><td>10.0</td><td>0.05%</td></tr><tr><td>Merthyr Tydfil</td><td>0.0</td><td>0.00%</td></tr><tr><td>Monmouthshire</td><td>100.0</td><td>0.28%</td></tr><tr><td>Neath Port Talbot</td><td>20.0</td><td>0.04%</td></tr><tr><td>Newport</td><td>600.0</td><td>0.78%</td></tr><tr><td>Pembrokeshire</td><td>0.0</td><td>0.00%</td></tr><tr><td>Powys</td><td>20.0</td><td>0.04%</td></tr><tr><td>Rhondda Cynon Taf</td><td>40.0</td><td>0.05%</td></tr><tr><td>Swansea</td><td>0.0</td><td>0.00%</td></tr><tr><td>Torfaen</td><td>50.0</td><td>0.14%</td></tr><tr><td>Vale of Glamorgan</td><td>0.0</td><td>0.00%</td></tr><tr><td>Wrexham</td><td>200.0</td><td>0.33%</td></tr></tbody></table></div></details></article></div>
+<p class="wales-method">Sources checked 13 November 2026. ONS BRES / Nomis; ONS December 2024 boundaries, super-generalised 200m, containing OS and ONS data © Crown copyright and database right 2024; public organisation sources; Postcodes.io.</p>
+<div class="chart-links"><a href="charts/cc7-sites.json">Coordinates-map JSON</a> · <a href="charts/cc7-employment.json">Choropleth JSON</a> · <a href="data/wales-semiconductors/sites.json">Site records and sources</a> · <a href="data/wales-semiconductors/employment-map.json">Employment data</a> · <a href="data/wales-semiconductors/source-manifest.json">Provenance</a></div>
+</section>
+<section class="cc-section wales-section" id="cc6">
+<p class="eyebrow">CC6 · Loops</p><h2>Wales’s electronic-component workforce</h2>
+<p class="course-subtitle">SIC 26110 includes semiconductors and other electronic components (and does not capture the whole semiconductor supply chain).</p>
+<div class="chart-links"><a href="DevolutionDashboard.html">Open the six-chart dashboard ↗</a> · <a href="https://colab.research.google.com/drive/1T3Bo5VEKVfj22Fe5GGC08GNZuqJYN0Ld" target="_blank" rel="noopener">Open in Colab</a> · <a href="notebooks/CC6_Wales_semiconductors.ipynb" download>Download runnable notebook</a> · <a href="notebooks/CC6_Wales_data.zip" download>Download replication data</a> · <a href="data/wales-semiconductors/source-manifest.json">Sources and definitions</a></div>
+<div class="wales-overview"><h3>Of these six areas, Newport leads by far</h3><div class="chart" id="cc6-comparison" data-spec="charts/cc6-comparison.json"></div><p class="wales-method">Employee jobs from 2015 to 2024. Labels show headcounts in 2024. <a href="charts/cc6-comparison.json">Chart JSON</a></p></div><div class="wales-grid-heading"><h3>All six added component manufacturing jobs, but at very different speeds</h3><span>Employee jobs on a shared scale</span></div><div class="wales-grid"><article class="wales-series" data-area="Newport"><header class="wales-series-header"><h3>Newport</h3><div class="wales-headcount"><strong>600</strong><span>jobs in 2024</span></div></header><div class="chart" id="cc6-newport" data-spec="charts/cc6-newport.json"></div></article><article class="wales-series" data-area="Cardiff"><header class="wales-series-header"><h3>Cardiff</h3><div class="wales-headcount"><strong>100</strong><span>jobs in 2024</span></div></header><div class="chart" id="cc6-cardiff" data-spec="charts/cc6-cardiff.json"></div></article><article class="wales-series" data-area="Monmouthshire"><header class="wales-series-header"><h3>Monmouthshire</h3><div class="wales-headcount"><strong>100</strong><span>jobs in 2024</span></div></header><div class="chart" id="cc6-monmouthshire" data-spec="charts/cc6-monmouthshire.json"></div></article><article class="wales-series" data-area="Wrexham"><header class="wales-series-header"><h3>Wrexham</h3><div class="wales-headcount"><strong>200</strong><span>jobs in 2024</span></div></header><div class="chart" id="cc6-wrexham" data-spec="charts/cc6-wrexham.json"></div></article><article class="wales-series" data-area="Flintshire"><header class="wales-series-header"><h3>Flintshire</h3><div class="wales-headcount"><strong>100</strong><span>jobs in 2024</span></div></header><div class="chart" id="cc6-flintshire" data-spec="charts/cc6-flintshire.json"></div></article><article class="wales-series" data-area="Torfaen"><header class="wales-series-header"><h3>Torfaen</h3><div class="wales-headcount"><strong>50</strong><span>jobs in 2024</span></div></header><div class="chart" id="cc6-torfaen" data-spec="charts/cc6-torfaen.json"></div></article></div>
+<p class="wales-method">Employee jobs from 2015 to 2024. ONS BRES via Nomis. Same vertical scale in all six panels. <a href="data/wales-semiconductors/timeseries.json">Combined plot data</a></p>
+<details class="wales-details"><summary>Data and replication</summary><p>A Python loop downloads six original Nomis JSON responses and validates all 60 annual observations. The six mini-charts read those original files directly; a JavaScript loop embeds the charts. Technical AI assistance: Codex helped with retrieval, cleaning and visualisation code.</p><p><a href="tools/build_wales_semiconductors.py">Data build script</a> · <a href="charts.js">Chart embedding loop</a></p></details>
+</section>
 <section class="cc-section" id="cc4">
 <p class="eyebrow">CC4 · Replication and improvement</p>
 <h2>Creator labels and preferences</h2>

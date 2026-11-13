@@ -1,0 +1,846 @@
+{
+  "provenance": {
+    "format": "Derived JSON from verified Nomis CSV snapshot",
+    "source_file": "wales_local_map.csv",
+    "retrieved_date": "2026-11-13",
+    "json_endpoint_status": "Timed out during build; not a raw API JSON response"
+  },
+  "obs": [
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000001",
+        "description": "Isle of Anglesey"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 10.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000001",
+        "description": "Isle of Anglesey"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 22000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000002",
+        "description": "Gwynedd"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 0.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000002",
+        "description": "Gwynedd"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 56000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000003",
+        "description": "Conwy"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 0.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000003",
+        "description": "Conwy"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 42000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000004",
+        "description": "Denbighshire"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 10.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000004",
+        "description": "Denbighshire"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 43000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000005",
+        "description": "Flintshire"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 100.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000005",
+        "description": "Flintshire"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 70000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000006",
+        "description": "Wrexham"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 200.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000006",
+        "description": "Wrexham"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 60000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000023",
+        "description": "Powys"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 20.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000023",
+        "description": "Powys"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 49000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000008",
+        "description": "Ceredigion"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 0.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000008",
+        "description": "Ceredigion"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 27000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000009",
+        "description": "Pembrokeshire"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 0.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000009",
+        "description": "Pembrokeshire"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 45000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000010",
+        "description": "Carmarthenshire"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 10.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000010",
+        "description": "Carmarthenshire"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 71000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000011",
+        "description": "Swansea"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 0.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000011",
+        "description": "Swansea"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 108000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000012",
+        "description": "Neath Port Talbot"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 20.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000012",
+        "description": "Neath Port Talbot"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 48000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000013",
+        "description": "Bridgend"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 0.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000013",
+        "description": "Bridgend"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 56000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000014",
+        "description": "Vale of Glamorgan"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 0.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000014",
+        "description": "Vale of Glamorgan"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 42000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000015",
+        "description": "Cardiff"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 100.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000015",
+        "description": "Cardiff"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 227000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000016",
+        "description": "Rhondda Cynon Taf"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 40.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000016",
+        "description": "Rhondda Cynon Taf"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 80000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000024",
+        "description": "Merthyr Tydfil"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 0.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000024",
+        "description": "Merthyr Tydfil"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 23000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000018",
+        "description": "Caerphilly"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 0.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000018",
+        "description": "Caerphilly"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 54000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000019",
+        "description": "Blaenau Gwent"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 50.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000019",
+        "description": "Blaenau Gwent"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 18000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000020",
+        "description": "Torfaen"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 50.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000020",
+        "description": "Torfaen"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 37000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000021",
+        "description": "Monmouthshire"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 100.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000021",
+        "description": "Monmouthshire"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 36000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000022",
+        "description": "Newport"
+      },
+      "industry": {
+        "value": 134243838
+      },
+      "obs_value": {
+        "value": 600.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    },
+    {
+      "time": {
+        "value": 2024
+      },
+      "geography": {
+        "geogcode": "W06000022",
+        "description": "Newport"
+      },
+      "industry": {
+        "value": 37748736
+      },
+      "obs_value": {
+        "value": 77000.0
+      },
+      "obs_status": {
+        "value": "A",
+        "description": "Normal Value"
+      }
+    }
+  ]
+}

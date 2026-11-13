@@ -1,0 +1,217 @@
+{
+  "retrieved_utc": "2026-11-13T12:39:55.857030+00:00",
+  "sources": [
+    {
+      "file": "data/wales-semiconductors/sources/six_area_timeseries.csv",
+      "source_manifest": "data/wales-semiconductors/sources/original-probe-manifest.json",
+      "retrieved_date": "2026-11-13",
+      "sha256": "62ab6ea1705cb2031afe1350b0c4abfee262b296c821c509c03b0376d5b061b3",
+      "handling": "Reused verified CSV snapshot; per-area JSON derived locally. Direct JSON retrieval pending."
+    },
+    {
+      "file": "data/wales-semiconductors/sources/six_area_timeseries.csv",
+      "source_manifest": "data/wales-semiconductors/sources/original-probe-manifest.json",
+      "retrieved_date": "2026-11-13",
+      "sha256": "62ab6ea1705cb2031afe1350b0c4abfee262b296c821c509c03b0376d5b061b3",
+      "handling": "Reused verified CSV snapshot; per-area JSON derived locally. Direct JSON retrieval pending."
+    },
+    {
+      "file": "data/wales-semiconductors/sources/six_area_timeseries.csv",
+      "source_manifest": "data/wales-semiconductors/sources/original-probe-manifest.json",
+      "retrieved_date": "2026-11-13",
+      "sha256": "62ab6ea1705cb2031afe1350b0c4abfee262b296c821c509c03b0376d5b061b3",
+      "handling": "Reused verified CSV snapshot; per-area JSON derived locally. Direct JSON retrieval pending."
+    },
+    {
+      "file": "data/wales-semiconductors/sources/six_area_timeseries.csv",
+      "source_manifest": "data/wales-semiconductors/sources/original-probe-manifest.json",
+      "retrieved_date": "2026-11-13",
+      "sha256": "62ab6ea1705cb2031afe1350b0c4abfee262b296c821c509c03b0376d5b061b3",
+      "handling": "Reused verified CSV snapshot; per-area JSON derived locally. Direct JSON retrieval pending."
+    },
+    {
+      "file": "data/wales-semiconductors/sources/six_area_timeseries.csv",
+      "source_manifest": "data/wales-semiconductors/sources/original-probe-manifest.json",
+      "retrieved_date": "2026-11-13",
+      "sha256": "62ab6ea1705cb2031afe1350b0c4abfee262b296c821c509c03b0376d5b061b3",
+      "handling": "Reused verified CSV snapshot; per-area JSON derived locally. Direct JSON retrieval pending."
+    },
+    {
+      "file": "data/wales-semiconductors/sources/six_area_timeseries.csv",
+      "source_manifest": "data/wales-semiconductors/sources/original-probe-manifest.json",
+      "retrieved_date": "2026-11-13",
+      "sha256": "62ab6ea1705cb2031afe1350b0c4abfee262b296c821c509c03b0376d5b061b3",
+      "handling": "Reused verified CSV snapshot; per-area JSON derived locally. Direct JSON retrieval pending."
+    },
+    {
+      "file": "data/wales-semiconductors/sources/wales_local_map.csv",
+      "source_manifest": "data/wales-semiconductors/sources/original-probe-manifest.json",
+      "retrieved_date": "2026-11-13",
+      "sha256": "17c6e1c8d45cff6fe4fa42125b5360b31d2b1edcb2513bc67bd07960371b90a9",
+      "handling": "Reused verified CSV snapshot; per-area JSON derived locally. Direct JSON retrieval pending."
+    },
+    {
+      "file": "data/wales-semiconductors/sources/wales-lad-2024.geojson",
+      "url": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LAD_DEC_24_UK_BSC/FeatureServer/0/query?where=LAD24CD+LIKE+%27W%25%27&outFields=LAD24CD%2CLAD24NM%2CLONG%2CLAT&outSR=4326&f=geojson&returnGeometry=true",
+      "retrieved_utc": "2026-11-13T12:39:55.857030+00:00",
+      "sha256": "3e8a8fdff91b370248dc6e97565adc16cac00209767483b5ca0977a3f5b0342f",
+      "bytes": 207421
+    },
+    {
+      "file": "data/wales-semiconductors/sources/postcode-imperial.json",
+      "url": "https://api.postcodes.io/postcodes/NP10%208BE",
+      "retrieved_utc": "2026-11-13T12:39:55.857030+00:00",
+      "sha256": "109aaf6a89ce0dbaca3e08b33aafc5a8ff72abe640e31b6356088396cc5cf233",
+      "bytes": 1872
+    },
+    {
+      "file": "data/wales-semiconductors/sources/postcode-vishay.json",
+      "url": "https://api.postcodes.io/postcodes/NP10%208YJ",
+      "retrieved_utc": "2026-11-13T12:39:55.857030+00:00",
+      "sha256": "69718be4861419544d828b1ed31d0026175fea46cd28ab17c0af3561b277b870",
+      "bytes": 1873
+    },
+    {
+      "file": "data/wales-semiconductors/sources/postcode-microchip.json",
+      "url": "https://api.postcodes.io/postcodes/NP26%205YW",
+      "retrieved_utc": "2026-11-13T12:39:55.857030+00:00",
+      "sha256": "b7f8380168bdc1ed02e236f5703509a3a540e824efa9ba6d0031d2c5daba2d25",
+      "bytes": 1867
+    },
+    {
+      "file": "data/wales-semiconductors/sources/postcode-ics.json",
+      "url": "https://api.postcodes.io/postcodes/CF24%204HQ",
+      "retrieved_utc": "2026-11-13T12:39:55.857030+00:00",
+      "sha256": "c6eb6b1e1b24952e89f7c91049cac03693d8c384f372376a49461ae6a9191f25",
+      "bytes": 1856
+    },
+    {
+      "file": "data/wales-semiconductors/sources/postcode-cism.json",
+      "url": "https://api.postcodes.io/postcodes/SA1%208EN",
+      "retrieved_utc": "2026-11-13T12:39:55.857030+00:00",
+      "sha256": "3b6bf414c171e2ede77bc336423836a81d08f6c5924ffda25f778e662b342954",
+      "bytes": 1923
+    }
+  ],
+  "definitions": {
+    "employment": "ONS BRES open access, employee jobs at workplace, SIC 26110. Rounded estimates; includes non-semiconductor components and misses other semiconductor activities.",
+    "maps": "ONS December 2024 local-authority boundaries, super-generalised 200m coastline clipped; WGS84; coordinates rounded to 5 decimals. Contains OS and ONS intellectual property; OGL attribution retained.",
+    "sites": "Selected documented operating/research site areas, not a census or capacity measure. Coordinates from postcode centroids; shared Imperial Park location grouped."
+  },
+  "join_validation": {
+    "boundaries": 22,
+    "data_areas": 22,
+    "matched": 22,
+    "missing": 0
+  },
+  "references": [
+    {
+      "url": "https://www.cardiffcapitalregion.wales/project-hub/the-foundry/",
+      "verified_date": "2026-11-13"
+    },
+    {
+      "url": "https://www.spts.com/locations",
+      "verified_date": "2026-11-13"
+    },
+    {
+      "url": "https://csa.catapult.org.uk/contact/",
+      "verified_date": "2026-11-13"
+    },
+    {
+      "url": "https://www.vishay.com/en/videos/corporate/newport-facility/",
+      "verified_date": "2026-11-13"
+    },
+    {
+      "url": "https://www.semi.org/en/resources/member-directory/vishay-newport-limited",
+      "verified_date": "2026-11-13"
+    },
+    {
+      "url": "https://www.microchip.com/en-us/products/services/advanced-packaging",
+      "verified_date": "2026-11-13"
+    },
+    {
+      "url": "https://www.cardiff.ac.uk/research-equipment/facilities/view/institute-for-compound-semiconductors",
+      "verified_date": "2026-11-13"
+    },
+    {
+      "url": "https://www.cism-swansea-semiconductors.co.uk/",
+      "verified_date": "2026-11-13"
+    },
+    {
+      "url": "https://conferencesandevents.swansea.ac.uk/guest-information/directions/",
+      "verified_date": "2026-11-13"
+    }
+  ],
+  "retrieval_status": {
+    "plot_data": "Verified live Nomis JSON downloads; same observations as prior CSV snapshot",
+    "live_six_json_loop": "Executed successfully in local Python 3 on 13 November 2026",
+    "colab_runtime": "Executed successfully in Colab Python 3 on 13 November 2026; all four code cells completed, six downloads and 60 observations validated.",
+    "public_hosting": "Not yet published"
+  },
+  "cc6_live_downloads": [
+    {
+      "area": "Newport",
+      "code": "W06000022",
+      "slug": "newport",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_189_1.data.json?geography=W06000022&industry=134243838&employment_status=1&measure=1&measures=20100&time=2015,2024",
+      "retrieved_utc": "2026-11-13T13:20:56.459926+00:00",
+      "source_prepared": "2026-11-13T13:20:56Z",
+      "sha256": "760769ef1f6ae45c2a38f01d887ed220bdafceda5ca5c14649497e8130e7ea87",
+      "bytes": 13148
+    },
+    {
+      "area": "Cardiff",
+      "code": "W06000015",
+      "slug": "cardiff",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_189_1.data.json?geography=W06000015&industry=134243838&employment_status=1&measure=1&measures=20100&time=2015,2024",
+      "retrieved_utc": "2026-11-13T13:20:56.595239+00:00",
+      "source_prepared": "2026-11-13T13:20:56Z",
+      "sha256": "78025426b6a44d7348d98ae9d4cacd4b3d1eebe9276804881ca47afb9984b6a1",
+      "bytes": 13144
+    },
+    {
+      "area": "Monmouthshire",
+      "code": "W06000021",
+      "slug": "monmouthshire",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_189_1.data.json?geography=W06000021&industry=134243838&employment_status=1&measure=1&measures=20100&time=2015,2024",
+      "retrieved_utc": "2026-11-13T13:20:56.713315+00:00",
+      "source_prepared": "2026-11-13T13:20:56Z",
+      "sha256": "82a537de29fffb06d166963f2234430f1b9433e0524dcf21ed79b063d7ea265e",
+      "bytes": 13266
+    },
+    {
+      "area": "Wrexham",
+      "code": "W06000006",
+      "slug": "wrexham",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_189_1.data.json?geography=W06000006&industry=134243838&employment_status=1&measure=1&measures=20100&time=2015,2024",
+      "retrieved_utc": "2026-11-13T13:20:56.825474+00:00",
+      "source_prepared": "2026-11-13T13:20:56Z",
+      "sha256": "c974acc69163ac1c1abca349dcc2d38916fe90163f51a2a6fa977d05e711904c",
+      "bytes": 13148
+    },
+    {
+      "area": "Flintshire",
+      "code": "W06000005",
+      "slug": "flintshire",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_189_1.data.json?geography=W06000005&industry=134243838&employment_status=1&measure=1&measures=20100&time=2015,2024",
+      "retrieved_utc": "2026-11-13T13:20:57.047910+00:00",
+      "source_prepared": "2026-11-13T13:20:56Z",
+      "sha256": "19535f2268ed6ecee1c8d4928ca8a004d6211463049396609077dd1e3d7d5af3",
+      "bytes": 13206
+    },
+    {
+      "area": "Torfaen",
+      "code": "W06000020",
+      "slug": "torfaen",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_189_1.data.json?geography=W06000020&industry=134243838&employment_status=1&measure=1&measures=20100&time=2015,2024",
+      "retrieved_utc": "2026-11-13T13:20:57.161972+00:00",
+      "source_prepared": "2026-11-13T13:20:57Z",
+      "sha256": "27659bac0e9a499c3995e842d9dd290040e129016b452a65a6982c3bc2e11626",
+      "bytes": 13138
+    }
+  ],
+  "colab_notebook": {
+    "url": "https://colab.research.google.com/drive/1T3Bo5VEKVfj22Fe5GGC08GNZuqJYN0Ld",
+    "access": "Anyone with the link can read; verified 13 November 2026"
+  }
+}

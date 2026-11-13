@@ -1,0 +1,110 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Rounded BRES employee jobs in electronic-component manufacture, SIC 26110. Not a complete semiconductor workforce measure.",
+  "width": "container",
+  "height": 145,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "data": {
+    "url": "data/wales-semiconductors/sources/wrexham.json",
+    "format": {
+      "property": "obs"
+    }
+  },
+  "mark": {
+    "type": "line",
+    "point": {
+      "filled": true,
+      "size": 30
+    },
+    "color": "#e79359",
+    "strokeWidth": 2.5
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "quantitative",
+      "title": null,
+      "scale": {
+        "domain": [
+          2015,
+          2024
+        ],
+        "nice": false
+      },
+      "axis": {
+        "values": [
+          2015,
+          2018,
+          2021,
+          2024
+        ],
+        "format": "d",
+        "grid": false,
+        "labelOverlap": true
+      }
+    },
+    "y": {
+      "field": "employees",
+      "type": "quantitative",
+      "title": null,
+      "scale": {
+        "domain": [
+          0,
+          600
+        ]
+      },
+      "axis": {
+        "titlePadding": 18,
+        "labelPadding": 5,
+        "format": ",d",
+        "values": [
+          0,
+          200,
+          400,
+          600
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "area",
+        "title": "Area"
+      },
+      {
+        "field": "year",
+        "title": "Year",
+        "format": "d"
+      },
+      {
+        "field": "employees",
+        "title": "Employee jobs",
+        "format": ",d"
+      }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  },
+  "transform": [
+    {
+      "calculate": "toNumber(datum.time.value)",
+      "as": "year"
+    },
+    {
+      "calculate": "datum.obs_value.value",
+      "as": "employees"
+    },
+    {
+      "calculate": "datum.geography.description",
+      "as": "area"
+    },
+    {
+      "filter": "datum.year >= 2015 && datum.year <= 2024 && datum.obs_status.value === \"A\""
+    }
+  ]
+}

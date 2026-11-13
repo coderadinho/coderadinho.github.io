@@ -1,0 +1,296 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Comparison of electronic-component manufacturing employee jobs in six Welsh local authorities, 2015\u20132024. SIC 26110, ONS BRES.",
+  "width": "container",
+  "height": 300,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "padding": {
+    "left": 5,
+    "right": 8,
+    "top": 12,
+    "bottom": 6
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/wales-semiconductors/timeseries.json"
+      },
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2.3,
+        "point": {
+          "filled": true,
+          "size": 20
+        }
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              2015,
+              2024
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "format": "d",
+            "values": [
+              2015,
+              2018,
+              2021,
+              2024
+            ],
+            "grid": false
+          }
+        },
+        "y": {
+          "field": "employees",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              650
+            ]
+          },
+          "axis": {
+            "title": "Employee jobs",
+            "titlePadding": 18,
+            "labelPadding": 5,
+            "format": ",d",
+            "values": [
+              0,
+              100,
+              200,
+              300,
+              400,
+              500,
+              600
+            ]
+          }
+        },
+        "color": {
+          "field": "area",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Newport",
+              "Cardiff",
+              "Monmouthshire",
+              "Wrexham",
+              "Flintshire",
+              "Torfaen"
+            ],
+            "range": [
+              "#e89a62",
+              "#a5b890",
+              "#b69ac4",
+              "#dfc27a",
+              "#85bfc0",
+              "#db95a1"
+            ]
+          },
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "area",
+            "title": "Area"
+          },
+          {
+            "field": "year",
+            "title": "Year",
+            "format": "d"
+          },
+          {
+            "field": "employees",
+            "title": "Employee jobs",
+            "format": ",d"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/wales-semiconductors/comparison-labels.json"
+      },
+      "mark": {
+        "type": "rule",
+        "strokeWidth": 0.8,
+        "opacity": 0.6
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              2015,
+              2024
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "format": "d",
+            "values": [
+              2015,
+              2018,
+              2021,
+              2024
+            ],
+            "grid": false
+          }
+        },
+        "y": {
+          "field": "employees",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              650
+            ]
+          },
+          "axis": {
+            "title": "Employee jobs",
+            "titlePadding": 18,
+            "labelPadding": 5,
+            "format": ",d",
+            "values": [
+              0,
+              100,
+              200,
+              300,
+              400,
+              500,
+              600
+            ]
+          }
+        },
+        "y2": {
+          "field": "label_y"
+        },
+        "color": {
+          "field": "area",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Newport",
+              "Cardiff",
+              "Monmouthshire",
+              "Wrexham",
+              "Flintshire",
+              "Torfaen"
+            ],
+            "range": [
+              "#e89a62",
+              "#a5b890",
+              "#b69ac4",
+              "#dfc27a",
+              "#85bfc0",
+              "#db95a1"
+            ]
+          },
+          "legend": null
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/wales-semiconductors/comparison-labels.json"
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 9,
+        "fontSize": 11,
+        "fontWeight": 500
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              2015,
+              2024
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "format": "d",
+            "values": [
+              2015,
+              2018,
+              2021,
+              2024
+            ],
+            "grid": false
+          }
+        },
+        "y": {
+          "field": "label_y",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              650
+            ]
+          },
+          "axis": {
+            "title": "Employee jobs",
+            "titlePadding": 18,
+            "labelPadding": 5,
+            "format": ",d",
+            "values": [
+              0,
+              100,
+              200,
+              300,
+              400,
+              500,
+              600
+            ]
+          }
+        },
+        "text": {
+          "field": "label"
+        },
+        "color": {
+          "field": "area",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Newport",
+              "Cardiff",
+              "Monmouthshire",
+              "Wrexham",
+              "Flintshire",
+              "Torfaen"
+            ],
+            "range": [
+              "#e89a62",
+              "#a5b890",
+              "#b69ac4",
+              "#dfc27a",
+              "#85bfc0",
+              "#db95a1"
+            ]
+          },
+          "legend": null
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

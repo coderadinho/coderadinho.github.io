@@ -23,7 +23,28 @@ async function mountChart(element) {
           gridColor:theme.grid,domainColor:theme.grid,tickColor:theme.grid},
         legend:{...spec.config?.legend,labelColor:theme.muted,titleColor:theme.ink},
         range:{category:theme.colors}};
-      if (spec.encoding?.color?.scale?.range) spec.encoding.color.scale.range = theme.colors;
+      if (spec.encoding?.color?.type === 'nominal' && spec.encoding?.color?.scale?.range) spec.encoding.color.scale.range = theme.colors;
+      if (element.id.startsWith('cc6-')) {
+        const areas = ['newport','cardiff','monmouthshire','wrexham','flintshire','torfaen'];
+        const colors = document.documentElement.dataset.mode === 'light'
+          ? ['#9f563a','#8a6a16','#526044','#895b8a','#43676b','#a25768']
+          : ['#db8449','#d3a243','#b6c999','#c4a3bf','#80aba9','#e4ab9b'];
+        if (element.id === 'cc6-comparison') {
+          for (const layer of spec.layer ?? []) {
+            if (layer.encoding?.color?.scale) layer.encoding.color.scale.range = colors;
+          }
+        } else {
+          const color = colors[areas.indexOf(element.id.slice(4))] ?? theme.colors[0];
+          spec.mark.color = color;
+          spec.mark.point.color = color;
+          element.closest('.wales-series')?.style.setProperty('--series-color',color);
+        }
+      }
+      if (element.id.startsWith('cc7-')) {
+        for (const layer of spec.layer ?? []) {
+          if (layer.mark?.type === 'text') layer.mark.color = theme.ink;
+        }
+      }
       if (element.id === 'cc4-improved') {
         for (const layer of spec.layer ?? []) {
           if (layer.encoding?.color?.scale?.range) layer.encoding.color.scale.range = [theme.colors[1], theme.colors[0]];
@@ -46,7 +67,12 @@ async function mountChart(element) {
 async function renderAll() {
   for (const view of Object.values(window.chartViews)) view.finalize();
   window.chartViews = {}; window.chartResults = [];
-  await Promise.all([...document.querySelectorAll('[data-spec]')].map(mountChart));
+  // CC6: one embedding call inside a loop, shared by the six dashboard charts.
+  const pending = [];
+  for (const element of document.querySelectorAll('[data-spec]')) {
+    pending.push(mountChart(element));
+  }
+  await Promise.all(pending);
 }
 window.chartsReady = renderAll();
 document.addEventListener('appearancechange', event => {

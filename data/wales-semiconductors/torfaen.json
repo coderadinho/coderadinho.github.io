@@ -1,0 +1,82 @@
+[
+  {
+    "year": 2015,
+    "area": "Torfaen",
+    "code": "W06000020",
+    "employees": 20.0,
+    "status": "Normal Value",
+    "index_2015": 100.0
+  },
+  {
+    "year": 2016,
+    "area": "Torfaen",
+    "code": "W06000020",
+    "employees": 20.0,
+    "status": "Normal Value",
+    "index_2015": 100.0
+  },
+  {
+    "year": 2017,
+    "area": "Torfaen",
+    "code": "W06000020",
+    "employees": 40.0,
+    "status": "Normal Value",
+    "index_2015": 200.0
+  },
+  {
+    "year": 2018,
+    "area": "Torfaen",
+    "code": "W06000020",
+    "employees": 30.0,
+    "status": "Normal Value",
+    "index_2015": 150.0
+  },
+  {
+    "year": 2019,
+    "area": "Torfaen",
+    "code": "W06000020",
+    "employees": 50.0,
+    "status": "Normal Value",
+    "index_2015": 250.0
+  },
+  {
+    "year": 2020,
+    "area": "Torfaen",
+    "code": "W06000020",
+    "employees": 50.0,
+    "status": "Normal Value",
+    "index_2015": 250.0
+  },
+  {
+    "year": 2021,
+    "area": "Torfaen",
+    "code": "W06000020",
+    "employees": 50.0,
+    "status": "Normal Value",
+    "index_2015": 250.0
+  },
+  {
+    "year": 2022,
+    "area": "Torfaen",
+    "code": "W06000020",
+    "employees": 50.0,
+    "status": "Normal Value",
+    "index_2015": 250.0
+  },
+  {
+    "year": 2023,
+    "area": "Torfaen",
+    "code": "W06000020",
+    "employees": 50.0,
+    "status": "Normal Value",
+    "index_2015": 250.0
+  },
+  {
+    "year": 2024,
+    "area": "Torfaen",
+    "code": "W06000020",
+    "employees": 50.0,
+    "status": "Normal Value",
+    "index_2015": 250.0
+  }
+]

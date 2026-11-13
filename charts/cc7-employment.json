@@ -1,0 +1,93 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "width": "container",
+  "height": 450,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "data": {
+    "url": "data/wales-semiconductors/wales-lad-2024.geojson",
+    "format": {
+      "property": "features"
+    }
+  },
+  "transform": [
+    {
+      "lookup": "properties.LAD24CD",
+      "from": {
+        "data": {
+          "url": "data/wales-semiconductors/employment-map.json"
+        },
+        "key": "code",
+        "fields": [
+          "area",
+          "employees",
+          "all_employees",
+          "share_pct"
+        ]
+      }
+    }
+  ],
+  "projection": {
+    "type": "mercator"
+  },
+  "mark": {
+    "type": "geoshape",
+    "stroke": "#887565",
+    "strokeWidth": 0.7
+  },
+  "encoding": {
+    "color": {
+      "condition": {
+        "test": "!isValid(datum.share_pct)",
+        "value": "#777777"
+      },
+      "field": "share_pct",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          0,
+          0.8
+        ],
+        "clamp": true,
+        "range": [
+          "#362a25",
+          "#e9975a"
+        ]
+      },
+      "title": "Share of employee jobs (%)",
+      "legend": {
+        "orient": "bottom",
+        "gradientLength": 190,
+        "format": ".1f"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "area",
+        "title": "Local authority"
+      },
+      {
+        "field": "employees",
+        "title": "Electronic-component jobs",
+        "format": ",d"
+      },
+      {
+        "field": "all_employees",
+        "title": "All employee jobs",
+        "format": ",d"
+      },
+      {
+        "field": "share_pct",
+        "title": "Share (%)",
+        "format": ".2f"
+      }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

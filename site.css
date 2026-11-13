@@ -190,3 +190,38 @@ body:has(dialog[open]){overflow:hidden}
 .figure-source{max-width:850px;margin:8px auto 0;font-size:12px;color:var(--muted)}
 @media(max-width:980px){.cc4-comparison-grid{grid-template-columns:minmax(0,1fr)}.cc4-comparison-item{max-width:720px}.cc4-comparison-item .cc-replica-scroll{width:fit-content}.cc4-comparison-item .cc-source-image{max-width:516px}}
 @media(max-width:680px){.masthead{align-items:center}.mode-toggle{margin-left:auto}.masthead nav{order:3;flex-basis:100%;gap:24px}.cc4-comparison-grid{gap:24px}.personal-links{column-gap:28px}}
+
+/* Wales semiconductor exercises: local draft, 13 November 2026. */
+.wales-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;margin:24px 0}
+.wales-series{min-width:0;background:var(--wash);border:1px solid var(--line);padding:18px 12px 8px;border-radius:8px}
+.wales-series h3{font-family:Fraunces,Georgia,serif;font-size:21px;margin:0 8px 14px}
+.wales-section .chart{min-height:0;width:100%;min-width:0}
+.wales-map-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:32px;margin-top:28px}
+.wales-map-grid article{min-width:0}.wales-map-grid h3{font-family:Fraunces,Georgia,serif;font-size:25px;margin:0 0 8px}
+.wales-map-sub,.wales-method{font-size:13px;color:var(--muted);line-height:1.6}
+.wales-map-sub{margin:0 0 12px}.wales-method{max-width:100%!important}
+.wales-site-list{padding-left:22px;font-size:13px;line-height:1.5}.wales-site-list li{margin:12px 0;padding-left:3px}.wales-site-list span{display:block;color:var(--muted)}
+.wales-site-list a{font-size:12px}.wales-details{margin-top:20px;font-size:13px;color:var(--muted)}.wales-details summary{cursor:pointer;color:var(--ink)}
+.wales-table-wrap{overflow-x:auto}.wales-table-wrap table{border-collapse:collapse;width:100%;margin:16px 0;font-size:12px}.wales-table-wrap th,.wales-table-wrap td{padding:8px;text-align:left;border-bottom:1px solid var(--line)}
+@media(max-width:1000px){.wales-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.wales-map-grid{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:540px){.wales-grid{grid-template-columns:minmax(0,1fr)}.wales-series{padding:16px 8px 8px}.wales-map-grid{gap:36px}}
+
+.wales-dashboard .intro{padding-top:24px;padding-bottom:12px}.wales-dashboard .intro h1{font-size:clamp(30px,3.2vw,44px);max-width:none;line-height:1.15}.wales-dashboard .intro p{margin-bottom:10px}.wales-dashboard .cc-section{padding-top:20px}.wales-dashboard .cc-section>.eyebrow{display:none}.wales-dashboard .wales-grid{margin-top:18px}
+
+/* CC6: overview and compact area cards. */
+.wales-overview{margin:32px 0 30px;padding:24px 16px 12px;background:var(--wash);border:1px solid var(--line);border-radius:8px;min-width:0}
+.wales-overview>h3{font-family:Fraunces,Georgia,serif;font-size:25px;margin:0 8px 18px}
+.wales-overview>.wales-method{margin:12px 8px 4px}
+.wales-grid-heading{display:flex;justify-content:space-between;gap:18px;align-items:baseline;margin-top:28px}
+.wales-grid-heading h3{font-family:Fraunces,Georgia,serif;font-size:24px;margin:0}.wales-grid-heading span{font-size:12px;color:var(--muted)}
+.wales-series{padding:17px 14px 10px;border-top:2px solid var(--series-color,var(--accent))}
+.wales-series-header{display:flex;gap:10px;justify-content:space-between;align-items:start;margin:0 2px 12px}
+.wales-series .wales-series-header h3{font-size:20px;margin:3px 0 0;line-height:1.2}
+.wales-headcount{text-align:right;flex-shrink:0;line-height:1.1}.wales-headcount strong{font-family:Fraunces,Georgia,serif;font-weight:500;font-size:30px;color:var(--series-color,var(--ink))}.wales-headcount span{display:block;font-size:10px;color:var(--muted);margin-top:5px}
+@media(max-width:540px){.wales-overview{padding:18px 4px 10px}.wales-grid-heading{display:block}.wales-grid-heading span{display:block;margin-top:6px}.wales-series{padding:16px 12px 10px}}
+
+/* Full-frame autumn palette trial; colour references in review notes. */
+.wales-series{border:1px solid color-mix(in srgb,var(--series-color,var(--accent)) 65%,var(--line));transition:border-color .15s ease}.wales-series:hover{border-color:var(--series-color,var(--accent))}
+
+/* Plain section subtitles share the normal text flow. */
+.course-subtitle{font-size:13px;color:var(--muted);border:0;padding:0;margin:0 0 24px;line-height:1.6}

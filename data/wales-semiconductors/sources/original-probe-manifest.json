@@ -1,0 +1,22 @@
+[
+  {
+    "name": "wales_local_map",
+    "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_189_1.data.csv?employment_status=1&measure=1&measures=20100&geography=W06000001%2CW06000002%2CW06000003%2CW06000004%2CW06000005%2CW06000006%2CW06000023%2CW06000008%2CW06000009%2CW06000010%2CW06000011%2CW06000012%2CW06000013%2CW06000014%2CW06000015%2CW06000016%2CW06000024%2CW06000018%2CW06000019%2CW06000020%2CW06000021%2CW06000022&industry=134243838%2C37748736&time=2024",
+    "retrieved_utc": "2026-11-13T12:32:01.348741+00:00",
+    "rows": 44,
+    "sha256": "17c6e1c8d45cff6fe4fa42125b5360b31d2b1edcb2513bc67bd07960371b90a9",
+    "status_counts": {
+      "Normal Value": 44
+    }
+  },
+  {
+    "name": "six_area_timeseries",
+    "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_189_1.data.csv?employment_status=1&measure=1&measures=20100&geography=W06000022%2CW06000015%2CW06000021%2CW06000006%2CW06000005%2CW06000020&industry=134243838&time=2015%2C2016%2C2017%2C2018%2C2019%2C2020%2C2021%2C2022%2C2023%2C2024",
+    "retrieved_utc": "2026-11-13T12:32:01.652595+00:00",
+    "rows": 60,
+    "sha256": "62ab6ea1705cb2031afe1350b0c4abfee262b296c821c509c03b0376d5b061b3",
+    "status_counts": {
+      "Normal Value": 60
+    }
+  }
+]

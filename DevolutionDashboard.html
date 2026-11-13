@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en" data-palette="persimmon" data-wordmark="fraunces">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Conrad | Wales devolution dashboard</title>
+<link rel="stylesheet" href="site.css?v=20261113-final">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<script src="appearance.js?v=20261016-release">
+</script>
+<script defer src="assets/vendor/vega.min.js">
+</script>
+<script defer src="assets/vendor/vega-lite.min.js">
+</script>
+<script defer src="assets/vendor/vega-embed.min.js">
+</script>
+<script defer src="charts.js?v=20261113-final">
+</script>
+</head>
+<body class="wales-dashboard">
+<a class="skip" href="#main">Skip to content</a>
+<header class="shell masthead">
+<a class="name" href="index.html">Conrad</a>
+<nav aria-label="Main navigation"><a href="index.html">Home</a><a href="work.html">Projects</a><a href="thoughts.html">Thoughts</a><a href="portfolio.html" aria-current="page">PP434</a></nav>
+<button class="mode-toggle" type="button" data-mode-toggle aria-label="Switch to light mode">Light mode</button>
+</header>
+<main class="shell" id="main"><div class="intro"><p class="eyebrow">PP434 · CC6</p><h1>Wales’s electronic-component workforce</h1><p><a href="portfolio.html#cc6">← Back to portfolio</a></p></div><section class="cc-section wales-section" id="cc6">
+<p class="eyebrow">CC6 · Loops</p>
+<p class="course-subtitle">SIC 26110 includes semiconductors and other electronic components (and does not capture the whole semiconductor supply chain).</p>
+<div class="chart-links"><a href="https://colab.research.google.com/drive/1T3Bo5VEKVfj22Fe5GGC08GNZuqJYN0Ld" target="_blank" rel="noopener">Open in Colab</a> · <a href="notebooks/CC6_Wales_semiconductors.ipynb" download>Download runnable notebook</a> · <a href="notebooks/CC6_Wales_data.zip" download>Download replication data</a> · <a href="data/wales-semiconductors/source-manifest.json">Sources and definitions</a></div>
+<div class="wales-overview"><h3>Of these six areas, Newport leads by far</h3><div class="chart" id="cc6-comparison" data-spec="charts/cc6-comparison.json"></div><p class="wales-method">Employee jobs from 2015 to 2024. Labels show headcounts in 2024. <a href="charts/cc6-comparison.json">Chart JSON</a></p></div><div class="wales-grid-heading"><h3>All six added component manufacturing jobs, but at very different speeds</h3><span>Employee jobs on a shared scale</span></div><div class="wales-grid"><article class="wales-series" data-area="Newport"><header class="wales-series-header"><h3>Newport</h3><div class="wales-headcount"><strong>600</strong><span>jobs in 2024</span></div></header><div class="chart" id="cc6-newport" data-spec="charts/cc6-newport.json"></div></article><article class="wales-series" data-area="Cardiff"><header class="wales-series-header"><h3>Cardiff</h3><div class="wales-headcount"><strong>100</strong><span>jobs in 2024</span></div></header><div class="chart" id="cc6-cardiff" data-spec="charts/cc6-cardiff.json"></div></article><article class="wales-series" data-area="Monmouthshire"><header class="wales-series-header"><h3>Monmouthshire</h3><div class="wales-headcount"><strong>100</strong><span>jobs in 2024</span></div></header><div class="chart" id="cc6-monmouthshire" data-spec="charts/cc6-monmouthshire.json"></div></article><article class="wales-series" data-area="Wrexham"><header class="wales-series-header"><h3>Wrexham</h3><div class="wales-headcount"><strong>200</strong><span>jobs in 2024</span></div></header><div class="chart" id="cc6-wrexham" data-spec="charts/cc6-wrexham.json"></div></article><article class="wales-series" data-area="Flintshire"><header class="wales-series-header"><h3>Flintshire</h3><div class="wales-headcount"><strong>100</strong><span>jobs in 2024</span></div></header><div class="chart" id="cc6-flintshire" data-spec="charts/cc6-flintshire.json"></div></article><article class="wales-series" data-area="Torfaen"><header class="wales-series-header"><h3>Torfaen</h3><div class="wales-headcount"><strong>50</strong><span>jobs in 2024</span></div></header><div class="chart" id="cc6-torfaen" data-spec="charts/cc6-torfaen.json"></div></article></div>
+<p class="wales-method">Employee jobs from 2015 to 2024. ONS BRES via Nomis. Same vertical scale in all six panels. <a href="data/wales-semiconductors/timeseries.json">Combined plot data</a></p>
+<details class="wales-details"><summary>Data and replication</summary><p>A Python loop downloads six original Nomis JSON responses and validates all 60 annual observations. The six mini-charts read those original files directly; a JavaScript loop embeds the charts. Technical AI assistance: Codex helped with retrieval, cleaning and visualisation code.</p><p><a href="tools/build_wales_semiconductors.py">Data build script</a> · <a href="charts.js">Chart embedding loop</a></p></details>
+</section></main><footer class="shell">
+<span>Conrad</span>
+<div class="footer-links">
+<a href="portfolio.html">PP434 portfolio</a>
+<a href="https://github.com/coderadinho">GitHub</a>
+</div>
+</footer>
+</body>
+</html>

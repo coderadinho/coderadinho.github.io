@@ -1,0 +1,82 @@
+[
+  {
+    "year": 2015,
+    "area": "Flintshire",
+    "code": "W06000005",
+    "employees": 50.0,
+    "status": "Normal Value",
+    "index_2015": 100.0
+  },
+  {
+    "year": 2016,
+    "area": "Flintshire",
+    "code": "W06000005",
+    "employees": 150.0,
+    "status": "Normal Value",
+    "index_2015": 300.0
+  },
+  {
+    "year": 2017,
+    "area": "Flintshire",
+    "code": "W06000005",
+    "employees": 100.0,
+    "status": "Normal Value",
+    "index_2015": 200.0
+  },
+  {
+    "year": 2018,
+    "area": "Flintshire",
+    "code": "W06000005",
+    "employees": 50.0,
+    "status": "Normal Value",
+    "index_2015": 100.0
+  },
+  {
+    "year": 2019,
+    "area": "Flintshire",
+    "code": "W06000005",
+    "employees": 100.0,
+    "status": "Normal Value",
+    "index_2015": 200.0
+  },
+  {
+    "year": 2020,
+    "area": "Flintshire",
+    "code": "W06000005",
+    "employees": 100.0,
+    "status": "Normal Value",
+    "index_2015": 200.0
+  },
+  {
+    "year": 2021,
+    "area": "Flintshire",
+    "code": "W06000005",
+    "employees": 100.0,
+    "status": "Normal Value",
+    "index_2015": 200.0
+  },
+  {
+    "year": 2022,
+    "area": "Flintshire",
+    "code": "W06000005",
+    "employees": 100.0,
+    "status": "Normal Value",
+    "index_2015": 200.0
+  },
+  {
+    "year": 2023,
+    "area": "Flintshire",
+    "code": "W06000005",
+    "employees": 150.0,
+    "status": "Normal Value",
+    "index_2015": 300.0
+  },
+  {
+    "year": 2024,
+    "area": "Flintshire",
+    "code": "W06000005",
+    "employees": 100.0,
+    "status": "Normal Value",
+    "index_2015": 200.0
+  }
+]

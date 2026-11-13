@@ -1,0 +1,96 @@
+[
+  {
+    "id": "imperial",
+    "label": "Imperial Park",
+    "name": "Imperial Park: IQE, KLA and CSA Catapult",
+    "postcode": "NP10 8BE",
+    "capability": "Materials, equipment & translation",
+    "sources": [
+      "https://www.cardiffcapitalregion.wales/project-hub/the-foundry/",
+      "https://www.spts.com/locations",
+      "https://csa.catapult.org.uk/contact/"
+    ],
+    "note": "Three documented organisations grouped at a shared postcode centroid.",
+    "longitude": -3.040721,
+    "latitude": 51.553939,
+    "coordinate_method": "Public postcode centroid",
+    "verified_date": "2026-11-13",
+    "label_longitude": -3.17,
+    "label_latitude": 51.52,
+    "map_label": "1 \u00b7 Imperial Park"
+  },
+  {
+    "id": "vishay",
+    "label": "Vishay",
+    "name": "Vishay Newport wafer fab",
+    "postcode": "NP10 8YJ",
+    "capability": "Wafer fabrication",
+    "sources": [
+      "https://www.vishay.com/en/videos/corporate/newport-facility/",
+      "https://www.semi.org/en/resources/member-directory/vishay-newport-limited"
+    ],
+    "note": "Device fabrication; not a GPU fabrication claim.",
+    "longitude": -3.023149,
+    "latitude": 51.565342,
+    "coordinate_method": "Public postcode centroid",
+    "verified_date": "2026-11-13",
+    "label_longitude": -2.99,
+    "label_latitude": 51.68,
+    "map_label": "2 \u00b7 Vishay"
+  },
+  {
+    "id": "microchip",
+    "label": "Microchip",
+    "name": "Microchip Advanced Packaging Services",
+    "postcode": "NP26 5YW",
+    "capability": "Packaging & assembly",
+    "sources": [
+      "https://www.microchip.com/en-us/products/services/advanced-packaging"
+    ],
+    "note": "Advanced packaging and microelectronic assemblies; no claim of GPU packaging.",
+    "longitude": -2.73465,
+    "latitude": 51.590645,
+    "coordinate_method": "Public postcode centroid",
+    "verified_date": "2026-11-13",
+    "label_longitude": -2.8,
+    "label_latitude": 51.75,
+    "map_label": "3 \u00b7 Microchip"
+  },
+  {
+    "id": "ics",
+    "label": "Cardiff ICS",
+    "name": "Cardiff Institute for Compound Semiconductors",
+    "postcode": "CF24 4HQ",
+    "capability": "Research & pilot production",
+    "sources": [
+      "https://www.cardiff.ac.uk/research-equipment/facilities/view/institute-for-compound-semiconductors"
+    ],
+    "note": "Translational Research Hub, Maindy Road.",
+    "longitude": -3.184173,
+    "latitude": 51.493078,
+    "coordinate_method": "Public postcode centroid",
+    "verified_date": "2026-11-13",
+    "label_longitude": -3.35,
+    "label_latitude": 51.43,
+    "map_label": "4 \u00b7 Cardiff ICS"
+  },
+  {
+    "id": "cism",
+    "label": "Swansea CISM",
+    "name": "Centre for Integrative Semiconductor Materials",
+    "postcode": "SA1 8EN",
+    "capability": "Research & pilot production",
+    "sources": [
+      "https://www.cism-swansea-semiconductors.co.uk/",
+      "https://conferencesandevents.swansea.ac.uk/guest-information/directions/"
+    ],
+    "note": "Bay Campus postcode centroid; approximate campus location.",
+    "longitude": -3.878893,
+    "latitude": 51.619271,
+    "coordinate_method": "Public postcode centroid",
+    "verified_date": "2026-11-13",
+    "label_longitude": -3.88,
+    "label_latitude": 51.73,
+    "map_label": "5 \u00b7 Swansea CISM"
+  }
+]

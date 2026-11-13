@@ -1,0 +1,178 @@
+[
+  {
+    "code": "W06000001",
+    "area": "Isle of Anglesey",
+    "year": 2024,
+    "employees": 10.0,
+    "all_employees": 22000.0,
+    "share_pct": 0.0455
+  },
+  {
+    "code": "W06000002",
+    "area": "Gwynedd",
+    "year": 2024,
+    "employees": 0.0,
+    "all_employees": 56000.0,
+    "share_pct": 0.0
+  },
+  {
+    "code": "W06000003",
+    "area": "Conwy",
+    "year": 2024,
+    "employees": 0.0,
+    "all_employees": 42000.0,
+    "share_pct": 0.0
+  },
+  {
+    "code": "W06000004",
+    "area": "Denbighshire",
+    "year": 2024,
+    "employees": 10.0,
+    "all_employees": 43000.0,
+    "share_pct": 0.0233
+  },
+  {
+    "code": "W06000005",
+    "area": "Flintshire",
+    "year": 2024,
+    "employees": 100.0,
+    "all_employees": 70000.0,
+    "share_pct": 0.1429
+  },
+  {
+    "code": "W06000006",
+    "area": "Wrexham",
+    "year": 2024,
+    "employees": 200.0,
+    "all_employees": 60000.0,
+    "share_pct": 0.3333
+  },
+  {
+    "code": "W06000023",
+    "area": "Powys",
+    "year": 2024,
+    "employees": 20.0,
+    "all_employees": 49000.0,
+    "share_pct": 0.0408
+  },
+  {
+    "code": "W06000008",
+    "area": "Ceredigion",
+    "year": 2024,
+    "employees": 0.0,
+    "all_employees": 27000.0,
+    "share_pct": 0.0
+  },
+  {
+    "code": "W06000009",
+    "area": "Pembrokeshire",
+    "year": 2024,
+    "employees": 0.0,
+    "all_employees": 45000.0,
+    "share_pct": 0.0
+  },
+  {
+    "code": "W06000010",
+    "area": "Carmarthenshire",
+    "year": 2024,
+    "employees": 10.0,
+    "all_employees": 71000.0,
+    "share_pct": 0.0141
+  },
+  {
+    "code": "W06000011",
+    "area": "Swansea",
+    "year": 2024,
+    "employees": 0.0,
+    "all_employees": 108000.0,
+    "share_pct": 0.0
+  },
+  {
+    "code": "W06000012",
+    "area": "Neath Port Talbot",
+    "year": 2024,
+    "employees": 20.0,
+    "all_employees": 48000.0,
+    "share_pct": 0.0417
+  },
+  {
+    "code": "W06000013",
+    "area": "Bridgend",
+    "year": 2024,
+    "employees": 0.0,
+    "all_employees": 56000.0,
+    "share_pct": 0.0
+  },
+  {
+    "code": "W06000014",
+    "area": "Vale of Glamorgan",
+    "year": 2024,
+    "employees": 0.0,
+    "all_employees": 42000.0,
+    "share_pct": 0.0
+  },
+  {
+    "code": "W06000015",
+    "area": "Cardiff",
+    "year": 2024,
+    "employees": 100.0,
+    "all_employees": 227000.0,
+    "share_pct": 0.0441
+  },
+  {
+    "code": "W06000016",
+    "area": "Rhondda Cynon Taf",
+    "year": 2024,
+    "employees": 40.0,
+    "all_employees": 80000.0,
+    "share_pct": 0.05
+  },
+  {
+    "code": "W06000024",
+    "area": "Merthyr Tydfil",
+    "year": 2024,
+    "employees": 0.0,
+    "all_employees": 23000.0,
+    "share_pct": 0.0
+  },
+  {
+    "code": "W06000018",
+    "area": "Caerphilly",
+    "year": 2024,
+    "employees": 0.0,
+    "all_employees": 54000.0,
+    "share_pct": 0.0
+  },
+  {
+    "code": "W06000019",
+    "area": "Blaenau Gwent",
+    "year": 2024,
+    "employees": 50.0,
+    "all_employees": 18000.0,
+    "share_pct": 0.2778
+  },
+  {
+    "code": "W06000020",
+    "area": "Torfaen",
+    "year": 2024,
+    "employees": 50.0,
+    "all_employees": 37000.0,
+    "share_pct": 0.1351
+  },
+  {
+    "code": "W06000021",
+    "area": "Monmouthshire",
+    "year": 2024,
+    "employees": 100.0,
+    "all_employees": 36000.0,
+    "share_pct": 0.2778
+  },
+  {
+    "code": "W06000022",
+    "area": "Newport",
+    "year": 2024,
+    "employees": 600.0,
+    "all_employees": 77000.0,
+    "share_pct": 0.7792
+  }
+]

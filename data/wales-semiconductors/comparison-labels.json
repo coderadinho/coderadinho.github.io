@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2024,
+    "area": "Newport",
+    "code": "W06000022",
+    "employees": 600.0,
+    "status": "Normal Value",
+    "index_2015": 150.0,
+    "label_y": 600,
+    "label": "Newport: 600"
+  },
+  {
+    "year": 2024,
+    "area": "Cardiff",
+    "code": "W06000015",
+    "employees": 100.0,
+    "status": "Normal Value",
+    "index_2015": 1000.0,
+    "label_y": 140,
+    "label": "Cardiff: 100"
+  },
+  {
+    "year": 2024,
+    "area": "Monmouthshire",
+    "code": "W06000021",
+    "employees": 100.0,
+    "status": "Normal Value",
+    "index_2015": 200.0,
+    "label_y": 100,
+    "label": "Monmouthshire: 100"
+  },
+  {
+    "year": 2024,
+    "area": "Wrexham",
+    "code": "W06000006",
+    "employees": 200.0,
+    "status": "Normal Value",
+    "index_2015": 133.33,
+    "label_y": 220,
+    "label": "Wrexham: 200"
+  },
+  {
+    "year": 2024,
+    "area": "Flintshire",
+    "code": "W06000005",
+    "employees": 100.0,
+    "status": "Normal Value",
+    "index_2015": 200.0,
+    "label_y": 60,
+    "label": "Flintshire: 100"
+  },
+  {
+    "year": 2024,
+    "area": "Torfaen",
+    "code": "W06000020",
+    "employees": 50.0,
+    "status": "Normal Value",
+    "index_2015": 250.0,
+    "label_y": 20,
+    "label": "Torfaen: 50"
+  }
+]

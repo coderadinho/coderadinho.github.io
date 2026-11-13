@@ -1,0 +1,165 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "width": "container",
+  "height": 390,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "projection": {
+    "type": "mercator"
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/wales-semiconductors/wales-lad-2024.geojson",
+        "format": {
+          "property": "features"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#493a31",
+        "stroke": "#a18570",
+        "strokeWidth": 0.6
+      },
+      "transform": [
+        {
+          "filter": {
+            "field": "properties.LAD24CD",
+            "oneOf": [
+              "W06000010",
+              "W06000011",
+              "W06000012",
+              "W06000013",
+              "W06000014",
+              "W06000015",
+              "W06000016",
+              "W06000018",
+              "W06000019",
+              "W06000020",
+              "W06000021",
+              "W06000022",
+              "W06000024"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "data": {
+        "url": "data/wales-semiconductors/sites.json"
+      },
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 150,
+        "stroke": "#fff0da",
+        "strokeWidth": 1.5
+      },
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "capability",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Materials, equipment & translation",
+              "Wafer fabrication",
+              "Packaging & assembly",
+              "Research & pilot production"
+            ],
+            "range": [
+              "#ed9b61",
+              "#d4bf7e",
+              "#b8c3a0",
+              "#bd9ec2"
+            ]
+          },
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "name",
+            "title": "Site / site area"
+          },
+          {
+            "field": "capability",
+            "title": "Capability"
+          },
+          {
+            "field": "postcode",
+            "title": "Postcode"
+          },
+          {
+            "field": "coordinate_method",
+            "title": "Location precision"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/wales-semiconductors/sites.json"
+      },
+      "mark": {
+        "type": "rule",
+        "stroke": "#b39a80",
+        "strokeWidth": 0.7
+      },
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "longitude2": {
+          "field": "label_longitude"
+        },
+        "latitude2": {
+          "field": "label_latitude"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/wales-semiconductors/sites.json"
+      },
+      "mark": {
+        "type": "text",
+        "fontSize": 11,
+        "fontWeight": 550,
+        "color": "#f0dec4",
+        "dy": -5
+      },
+      "encoding": {
+        "longitude": {
+          "field": "label_longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "label_latitude",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "map_label"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

@@ -1,0 +1,6 @@
+name,postcode,capability,longitude,latitude,coordinate_method,note
+"Imperial Park: IQE, KLA and CSA Catapult",NP10 8BE,"Materials, equipment & translation",-3.040721,51.553939,Public postcode centroid,Three documented organisations grouped at a shared postcode centroid.
+Vishay Newport wafer fab,NP10 8YJ,Wafer fabrication,-3.023149,51.565342,Public postcode centroid,Device fabrication; not a GPU fabrication claim.
+Microchip Advanced Packaging Services,NP26 5YW,Packaging & assembly,-2.73465,51.590645,Public postcode centroid,Advanced packaging and microelectronic assemblies; no claim of GPU packaging.
+Cardiff Institute for Compound Semiconductors,CF24 4HQ,Research & pilot production,-3.184173,51.493078,Public postcode centroid,"Translational Research Hub, Maindy Road."
+Centre for Integrative Semiconductor Materials,SA1 8EN,Research & pilot production,-3.878893,51.619271,Public postcode centroid,Bay Campus postcode centroid; approximate campus location.

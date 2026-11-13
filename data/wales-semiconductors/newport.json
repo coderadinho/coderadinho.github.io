@@ -1,0 +1,82 @@
+[
+  {
+    "year": 2015,
+    "area": "Newport",
+    "code": "W06000022",
+    "employees": 400.0,
+    "status": "Normal Value",
+    "index_2015": 100.0
+  },
+  {
+    "year": 2016,
+    "area": "Newport",
+    "code": "W06000022",
+    "employees": 400.0,
+    "status": "Normal Value",
+    "index_2015": 100.0
+  },
+  {
+    "year": 2017,
+    "area": "Newport",
+    "code": "W06000022",
+    "employees": 400.0,
+    "status": "Normal Value",
+    "index_2015": 100.0
+  },
+  {
+    "year": 2018,
+    "area": "Newport",
+    "code": "W06000022",
+    "employees": 400.0,
+    "status": "Normal Value",
+    "index_2015": 100.0
+  },
+  {
+    "year": 2019,
+    "area": "Newport",
+    "code": "W06000022",
+    "employees": 400.0,
+    "status": "Normal Value",
+    "index_2015": 100.0
+  },
+  {
+    "year": 2020,
+    "area": "Newport",
+    "code": "W06000022",
+    "employees": 400.0,
+    "status": "Normal Value",
+    "index_2015": 100.0
+  },
+  {
+    "year": 2021,
+    "area": "Newport",
+    "code": "W06000022",
+    "employees": 500.0,
+    "status": "Normal Value",
+    "index_2015": 125.0
+  },
+  {
+    "year": 2022,
+    "area": "Newport",
+    "code": "W06000022",
+    "employees": 600.0,
+    "status": "Normal Value",
+    "index_2015": 150.0
+  },
+  {
+    "year": 2023,
+    "area": "Newport",
+    "code": "W06000022",
+    "employees": 600.0,
+    "status": "Normal Value",
+    "index_2015": 150.0
+  },
+  {
+    "year": 2024,
+    "area": "Newport",
+    "code": "W06000022",
+    "employees": 600.0,
+    "status": "Normal Value",
+    "index_2015": 150.0
+  }
+]
